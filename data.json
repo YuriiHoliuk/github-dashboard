@@ -1,0 +1,2524 @@
+{
+  "user": "YuriiHoliuk",
+  "period_start": "2026-01-17",
+  "period_end": "2026-01-30",
+  "pull_requests": [
+    {
+      "closed_at": "2026-01-30T14:57:06Z",
+      "created_at": "2026-01-30T14:55:07Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/40991",
+      "labels": [
+        "task"
+      ],
+      "merged_at": "2026-01-30T14:57:06Z",
+      "number": 40991,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "closed",
+      "title": "[FE | Dev Tools]: Fix stylelint CI command using invalid flag",
+      "updated_at": "2026-01-30T14:57:08Z",
+      "additions": 1,
+      "changed_files": 1,
+      "comments": 1,
+      "deletions": 1,
+      "merge_commit_sha": "b3973a162a8a0c1ae8f882f3fe18f023e5a51b63",
+      "merged": true,
+      "review_comments": 0
+    },
+    {
+      "closed_at": "2026-01-29T17:06:38Z",
+      "created_at": "2026-01-29T16:33:13Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website-detect-jobs-to-run/pull/81",
+      "labels": [],
+      "merged_at": "2026-01-29T17:06:38Z",
+      "number": 81,
+      "repo_url": "https://api.github.com/repos/mate-academy/website-detect-jobs-to-run",
+      "state": "closed",
+      "title": "Add modified_frontend_scss_files output",
+      "updated_at": "2026-01-29T17:06:40Z",
+      "additions": 65,
+      "changed_files": 8,
+      "comments": 0,
+      "deletions": 2,
+      "merge_commit_sha": "a459a2c459a5cb9aa6506a70a814d4a73227b961",
+      "merged": true,
+      "review_comments": 0
+    },
+    {
+      "closed_at": null,
+      "created_at": "2026-01-29T16:18:11Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/40967",
+      "labels": [],
+      "merged_at": null,
+      "number": 40967,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "open",
+      "title": "[FE | Tech Check Bulk Upload]: Add example template and help panel",
+      "updated_at": "2026-01-30T15:12:48Z",
+      "additions": 441,
+      "changed_files": 8,
+      "comments": 1,
+      "deletions": 28,
+      "merge_commit_sha": "54a71c71f4c3e4801c0b947167bc0cebde7e4fdf",
+      "merged": false,
+      "review_comments": 5
+    },
+    {
+      "closed_at": "2026-01-30T03:55:36Z",
+      "created_at": "2026-01-29T14:43:32Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/40960",
+      "labels": [
+        "task"
+      ],
+      "merged_at": "2026-01-30T03:55:36Z",
+      "number": 40960,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "closed",
+      "title": "[Claude Code]: Add SCSS validation to pre-commit hooks",
+      "updated_at": "2026-01-30T03:55:37Z",
+      "additions": 138,
+      "changed_files": 7,
+      "comments": 2,
+      "deletions": 2,
+      "merge_commit_sha": "88e9cc43ec4ecfaa35f8f5083e24661cccd90a85",
+      "merged": true,
+      "review_comments": 0
+    },
+    {
+      "closed_at": "2026-01-30T03:12:17Z",
+      "created_at": "2026-01-29T14:28:58Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/40959",
+      "labels": [
+        "task"
+      ],
+      "merged_at": "2026-01-30T03:12:17Z",
+      "number": 40959,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "closed",
+      "title": "[Permissions]: Migrate ContentChangesRevert",
+      "updated_at": "2026-01-30T03:12:19Z",
+      "additions": 74,
+      "changed_files": 37,
+      "comments": 1,
+      "deletions": 67,
+      "merge_commit_sha": "5f043cd75fad2b8c4c68b87e06a2171a8b0d35de",
+      "merged": true,
+      "review_comments": 0
+    },
+    {
+      "closed_at": null,
+      "created_at": "2026-01-29T14:17:28Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/40958",
+      "labels": [
+        "task"
+      ],
+      "merged_at": null,
+      "number": 40958,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "open",
+      "title": "[Platform | Working Time]: Add Work on Content activity type",
+      "updated_at": "2026-01-30T15:13:25Z",
+      "additions": 152,
+      "changed_files": 16,
+      "comments": 2,
+      "deletions": 62,
+      "merge_commit_sha": "435a1f5f1a3e6caeb85b0151069b679c0fa9ada0",
+      "merged": false,
+      "review_comments": 0
+    },
+    {
+      "closed_at": null,
+      "created_at": "2026-01-29T13:09:31Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/40956",
+      "labels": [
+        "task"
+      ],
+      "merged_at": null,
+      "number": 40956,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "open",
+      "title": "[Permissions]: Migrate TestTaskWrite",
+      "updated_at": "2026-01-30T11:11:11Z",
+      "additions": 78,
+      "changed_files": 38,
+      "comments": 1,
+      "deletions": 71,
+      "merge_commit_sha": "874a80bb726f2bb6feff0710119d97c0535e1e81",
+      "merged": false,
+      "review_comments": 0
+    },
+    {
+      "closed_at": "2026-01-29T13:04:26Z",
+      "created_at": "2026-01-29T12:53:21Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/40955",
+      "labels": [
+        "task"
+      ],
+      "merged_at": "2026-01-29T13:04:26Z",
+      "number": 40955,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "closed",
+      "title": "[Claude Code | ClickUp Skill]: Add auto-setup instructions for API token",
+      "updated_at": "2026-01-29T13:04:28Z",
+      "additions": 14,
+      "changed_files": 1,
+      "comments": 1,
+      "deletions": 0,
+      "merge_commit_sha": "fac740ae5db4d7433ab0992c81ae003a0fe363fc",
+      "merged": true,
+      "review_comments": 0
+    },
+    {
+      "closed_at": "2026-01-29T13:55:29Z",
+      "created_at": "2026-01-29T12:38:22Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/40954",
+      "labels": [],
+      "merged_at": "2026-01-29T13:55:29Z",
+      "number": 40954,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "closed",
+      "title": "[E2E | Permissions]: Remove duplicate EventsManageTechCheck permission entry",
+      "updated_at": "2026-01-29T13:55:30Z",
+      "additions": 0,
+      "changed_files": 1,
+      "comments": 1,
+      "deletions": 1,
+      "merge_commit_sha": "11a37d7cd39c4cce4082ae11eee28bf741332f7e",
+      "merged": true,
+      "review_comments": 0
+    },
+    {
+      "closed_at": "2026-01-30T07:56:53Z",
+      "created_at": "2026-01-28T11:58:46Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/40926",
+      "labels": [
+        "task"
+      ],
+      "merged_at": "2026-01-30T07:56:53Z",
+      "number": 40926,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "closed",
+      "title": "[API | Tech Check]: Update form.slug translate to friendly value",
+      "updated_at": "2026-01-30T07:56:54Z",
+      "additions": 44,
+      "changed_files": 1,
+      "comments": 1,
+      "deletions": 0,
+      "merge_commit_sha": "ba16fba544786d40cc8e6441bd9b6a4c67b7d800",
+      "merged": true,
+      "review_comments": 1
+    },
+    {
+      "closed_at": "2026-01-28T12:49:35Z",
+      "created_at": "2026-01-27T18:37:25Z",
+      "draft": true,
+      "html_url": "https://github.com/mate-academy/website/pull/40914",
+      "labels": [],
+      "merged_at": null,
+      "number": 40914,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "closed",
+      "title": "[FE | Tech Check Bulk Upload]: Add example template and help panel",
+      "updated_at": "2026-01-28T12:49:35Z",
+      "additions": 0,
+      "changed_files": 0,
+      "comments": 1,
+      "deletions": 0,
+      "merge_commit_sha": "cc8aadf3f2f13c9b472fc84b26c2180cd7da08c4",
+      "merged": false,
+      "review_comments": 0
+    },
+    {
+      "closed_at": null,
+      "created_at": "2026-01-27T18:22:55Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/40912",
+      "labels": [],
+      "merged_at": null,
+      "number": 40912,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "open",
+      "title": "[FE | Tech Check Bulk Upload]: Add bulk upload button to topic view",
+      "updated_at": "2026-01-30T15:11:54Z",
+      "additions": 102,
+      "changed_files": 9,
+      "comments": 1,
+      "deletions": 5,
+      "merge_commit_sha": "e34e08ebdc0c257f68f25aa48c1b0b2a8bcac59d",
+      "merged": false,
+      "review_comments": 4
+    },
+    {
+      "closed_at": null,
+      "created_at": "2026-01-27T17:37:34Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/40909",
+      "labels": [],
+      "merged_at": null,
+      "number": 40909,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "open",
+      "title": "[FE | Tech Check Bulk Upload]: Implement parser integration and submit flow",
+      "updated_at": "2026-01-30T15:11:20Z",
+      "additions": 852,
+      "changed_files": 11,
+      "comments": 1,
+      "deletions": 9,
+      "merge_commit_sha": "1fc1c6097cd42b1273a710c36c038e2a3cbbdcb2",
+      "merged": false,
+      "review_comments": 1
+    },
+    {
+      "closed_at": null,
+      "created_at": "2026-01-27T17:29:16Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/40908",
+      "labels": [
+        "task"
+      ],
+      "merged_at": null,
+      "number": 40908,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "open",
+      "title": "[FE | Tech Check Bulk Upload]: Create bulk upload page structure",
+      "updated_at": "2026-01-30T15:10:35Z",
+      "additions": 1749,
+      "changed_files": 37,
+      "comments": 1,
+      "deletions": 19,
+      "merge_commit_sha": "7db9427ae2fd6210ef300487e954b71ff29eff54",
+      "merged": false,
+      "review_comments": 13
+    },
+    {
+      "closed_at": "2026-01-30T11:02:20Z",
+      "created_at": "2026-01-27T16:52:11Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/40906",
+      "labels": [
+        "task"
+      ],
+      "merged_at": "2026-01-30T11:02:20Z",
+      "number": 40906,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "closed",
+      "title": "[API | Tech Check Questions]: Add sync mutation for tech check questions",
+      "updated_at": "2026-01-30T11:02:22Z",
+      "additions": 1223,
+      "changed_files": 16,
+      "comments": 2,
+      "deletions": 73,
+      "merge_commit_sha": "c34b50bb077bd5955c7f8dc3620452b4ecc53909",
+      "merged": true,
+      "review_comments": 3
+    },
+    {
+      "closed_at": "2026-01-30T08:16:13Z",
+      "created_at": "2026-01-27T16:38:07Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/40905",
+      "labels": [
+        "task"
+      ],
+      "merged_at": "2026-01-30T08:16:13Z",
+      "number": 40905,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "closed",
+      "title": "[FE | Tech Check Monaco Language]: Add syntax highlighting for tech check DSL",
+      "updated_at": "2026-01-30T08:16:16Z",
+      "additions": 116,
+      "changed_files": 4,
+      "comments": 1,
+      "deletions": 0,
+      "merge_commit_sha": "53afbe646fb43388e33ea2b7e6e7c795ae1555b6",
+      "merged": true,
+      "review_comments": 1
+    },
+    {
+      "closed_at": "2026-01-30T03:09:39Z",
+      "created_at": "2026-01-27T16:31:33Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/40904",
+      "labels": [
+        "task"
+      ],
+      "merged_at": "2026-01-30T03:09:39Z",
+      "number": 40904,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "closed",
+      "title": "[FE | Tech Check Parser]: Create DSL parser for bulk upload questions",
+      "updated_at": "2026-01-30T03:09:42Z",
+      "additions": 3869,
+      "changed_files": 33,
+      "comments": 1,
+      "deletions": 8,
+      "merge_commit_sha": "8b2b0620376c8da0d141cdf800248319d74cd9db",
+      "merged": true,
+      "review_comments": 9
+    },
+    {
+      "closed_at": "2026-01-29T17:47:56Z",
+      "created_at": "2026-01-27T16:10:02Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/40903",
+      "labels": [
+        "task"
+      ],
+      "merged_at": "2026-01-29T17:47:56Z",
+      "number": 40903,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "closed",
+      "title": "[FE | DSL Parser]: Extract shared parser infrastructure",
+      "updated_at": "2026-01-29T17:48:00Z",
+      "additions": 245,
+      "changed_files": 48,
+      "comments": 1,
+      "deletions": 109,
+      "merge_commit_sha": "4bfb6818e3b3d074f5d3d90a8a038a5943b27e92",
+      "merged": true,
+      "review_comments": 0
+    },
+    {
+      "closed_at": "2026-01-28T11:47:04Z",
+      "created_at": "2026-01-27T15:29:00Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/40900",
+      "labels": [
+        "task"
+      ],
+      "merged_at": "2026-01-28T11:47:04Z",
+      "number": 40900,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "closed",
+      "title": "[FE | Tech Check Templates]: Add edit buttons to questions and topics in template editor",
+      "updated_at": "2026-01-28T11:47:05Z",
+      "additions": 306,
+      "changed_files": 9,
+      "comments": 1,
+      "deletions": 168,
+      "merge_commit_sha": "5f3c59941b5d623d020e344cabbb195bf1eea5a6",
+      "merged": true,
+      "review_comments": 3
+    },
+    {
+      "closed_at": "2026-01-28T09:02:09Z",
+      "created_at": "2026-01-27T14:48:07Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/40898",
+      "labels": [
+        "task"
+      ],
+      "merged_at": "2026-01-28T09:02:09Z",
+      "number": 40898,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "closed",
+      "title": "[FE | LMS Editor]: Fix edit button redirect for tasks on study page",
+      "updated_at": "2026-01-28T09:02:10Z",
+      "additions": 79,
+      "changed_files": 7,
+      "comments": 1,
+      "deletions": 14,
+      "merge_commit_sha": "a976ed26fc09724df3ca5f1f61e69783a909ee2f",
+      "merged": true,
+      "review_comments": 0
+    },
+    {
+      "closed_at": "2026-01-28T10:05:05Z",
+      "created_at": "2026-01-27T14:12:57Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/40894",
+      "labels": [
+        "task"
+      ],
+      "merged_at": "2026-01-28T10:05:05Z",
+      "number": 40894,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "closed",
+      "title": "[FE | Tech Check Management]: Filter questions by selected courses",
+      "updated_at": "2026-01-28T10:05:07Z",
+      "additions": 152,
+      "changed_files": 7,
+      "comments": 1,
+      "deletions": 23,
+      "merge_commit_sha": "20a3d27289bef47673f16d5366bf7649c2239d60",
+      "merged": true,
+      "review_comments": 1
+    },
+    {
+      "closed_at": "2026-01-28T11:22:24Z",
+      "created_at": "2026-01-27T14:11:35Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/40893",
+      "labels": [
+        "task"
+      ],
+      "merged_at": "2026-01-28T11:22:24Z",
+      "number": 40893,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "closed",
+      "title": "[FE | Tech Check]: Add edit template button to template selector in LMS editor",
+      "updated_at": "2026-01-28T11:22:25Z",
+      "additions": 135,
+      "changed_files": 24,
+      "comments": 1,
+      "deletions": 23,
+      "merge_commit_sha": "77617e988cf76a8f5f8eb2f174c854eed2fdb2d3",
+      "merged": true,
+      "review_comments": 6
+    },
+    {
+      "closed_at": "2026-01-28T10:13:47Z",
+      "created_at": "2026-01-27T14:06:03Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/40891",
+      "labels": [
+        "task"
+      ],
+      "merged_at": "2026-01-28T10:13:47Z",
+      "number": 40891,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "closed",
+      "title": "[API | TC Editor]: Fix strange Ukrainian translations",
+      "updated_at": "2026-01-28T10:13:48Z",
+      "additions": 63,
+      "changed_files": 1,
+      "comments": 1,
+      "deletions": 0,
+      "merge_commit_sha": "1ba9a6a823b139e8e2fb23544e80eb196347352a",
+      "merged": true,
+      "review_comments": 0
+    },
+    {
+      "closed_at": "2026-01-27T11:54:22Z",
+      "created_at": "2026-01-27T10:55:59Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/40882",
+      "labels": [],
+      "merged_at": "2026-01-27T11:54:22Z",
+      "number": 40882,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "closed",
+      "title": "[FE | Sentry]: Ignore Vimeo play/pause interruption error",
+      "updated_at": "2026-01-27T11:54:24Z",
+      "additions": 1,
+      "changed_files": 1,
+      "comments": 0,
+      "deletions": 0,
+      "merge_commit_sha": "3b7a0a45e3089510c7f57b2435eb6fa5cf54588d",
+      "merged": true,
+      "review_comments": 2
+    },
+    {
+      "closed_at": "2026-01-27T16:02:29Z",
+      "created_at": "2026-01-26T15:14:54Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/40870",
+      "labels": [
+        "task"
+      ],
+      "merged_at": "2026-01-27T16:02:29Z",
+      "number": 40870,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "closed",
+      "title": "[CLI | Permissions]: Add frequent mistakes section and improve verification step",
+      "updated_at": "2026-01-27T16:02:31Z",
+      "additions": 159,
+      "changed_files": 2,
+      "comments": 1,
+      "deletions": 39,
+      "merge_commit_sha": "736e086f4d2b3dcbf71fa715083bbfc16b2663b7",
+      "merged": true,
+      "review_comments": 1
+    },
+    {
+      "closed_at": "2026-01-28T09:20:38Z",
+      "created_at": "2026-01-26T14:45:45Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/40867",
+      "labels": [
+        "task"
+      ],
+      "merged_at": "2026-01-28T09:20:38Z",
+      "number": 40867,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "closed",
+      "title": "[FE | TestTasks]: Style StepsView components per design specs",
+      "updated_at": "2026-01-28T09:20:40Z",
+      "additions": 389,
+      "changed_files": 20,
+      "comments": 3,
+      "deletions": 190,
+      "merge_commit_sha": "ddd38cd8f41dec69fea9fdaecd2e54085bc90c23",
+      "merged": true,
+      "review_comments": 1
+    },
+    {
+      "closed_at": "2026-01-28T09:20:51Z",
+      "created_at": "2026-01-26T14:08:37Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/40865",
+      "labels": [
+        "task"
+      ],
+      "merged_at": "2026-01-28T09:20:51Z",
+      "number": 40865,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "closed",
+      "title": "[Serverless | Gmail Webhooks]: Fix support bot logic bugs",
+      "updated_at": "2026-01-28T09:20:53Z",
+      "additions": 312,
+      "changed_files": 4,
+      "comments": 2,
+      "deletions": 64,
+      "merge_commit_sha": "d5f1cedc7eea7fe718311be80b7ba9f60128bfdd",
+      "merged": true,
+      "review_comments": 0
+    },
+    {
+      "closed_at": "2026-01-28T08:15:50Z",
+      "created_at": "2026-01-26T12:25:52Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/40861",
+      "labels": [
+        "task"
+      ],
+      "merged_at": "2026-01-28T08:15:50Z",
+      "number": 40861,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "closed",
+      "title": "[FE | TestTasks]: Extract resizable components and move attachmentFlow to modules",
+      "updated_at": "2026-01-28T08:15:53Z",
+      "additions": 314,
+      "changed_files": 126,
+      "comments": 1,
+      "deletions": 188,
+      "merge_commit_sha": "62a0a0d210b392f346f9e1b64a80e931055f6e59",
+      "merged": true,
+      "review_comments": 2
+    },
+    {
+      "closed_at": "2026-01-26T09:55:08Z",
+      "created_at": "2026-01-26T08:36:35Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/40850",
+      "labels": [
+        "task"
+      ],
+      "merged_at": "2026-01-26T09:55:08Z",
+      "number": 40850,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "closed",
+      "title": "[CLI Tools]: Add emulate-task-progress script and enhance create-user",
+      "updated_at": "2026-01-26T09:55:10Z",
+      "additions": 3300,
+      "changed_files": 12,
+      "comments": 1,
+      "deletions": 99,
+      "merge_commit_sha": "3d177ed208ef4c68fc9aef308d87581808553208",
+      "merged": true,
+      "review_comments": 2
+    },
+    {
+      "closed_at": "2026-01-26T13:26:29Z",
+      "created_at": "2026-01-21T16:12:21Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/40785",
+      "labels": [
+        "task"
+      ],
+      "merged_at": "2026-01-26T13:26:29Z",
+      "number": 40785,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "closed",
+      "title": "[Serverless | Gmail Webhooks]: Fixes after testing",
+      "updated_at": "2026-01-26T13:26:31Z",
+      "additions": 2632,
+      "changed_files": 26,
+      "comments": 2,
+      "deletions": 341,
+      "merge_commit_sha": "a2c698dc85c0f0a90514782e742c9d5af75ebabe",
+      "merged": true,
+      "review_comments": 1
+    },
+    {
+      "closed_at": "2026-01-20T16:16:57Z",
+      "created_at": "2026-01-20T15:46:14Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/40742",
+      "labels": [
+        "task"
+      ],
+      "merged_at": "2026-01-20T16:16:57Z",
+      "number": 40742,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "closed",
+      "title": "[API | Permissions]: Fix migration helper to check before insert",
+      "updated_at": "2026-01-20T16:16:58Z",
+      "additions": 100,
+      "changed_files": 1,
+      "comments": 2,
+      "deletions": 41,
+      "merge_commit_sha": "95090d77b92dc7fd4a6524a2a0c442fffc47c027",
+      "merged": true,
+      "review_comments": 0
+    },
+    {
+      "closed_at": "2026-01-20T13:42:42Z",
+      "created_at": "2026-01-20T13:36:01Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/40728",
+      "labels": [
+        "task"
+      ],
+      "merged_at": "2026-01-20T13:42:42Z",
+      "number": 40728,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "closed",
+      "title": "[INF | Claude Code]: Small improvements for Claude Code usage",
+      "updated_at": "2026-01-20T15:19:00Z",
+      "additions": 64,
+      "changed_files": 4,
+      "comments": 1,
+      "deletions": 1,
+      "merge_commit_sha": "0d997843dc6606e31d539b003f1ab4daea05257d",
+      "merged": true,
+      "review_comments": 2
+    },
+    {
+      "closed_at": "2026-01-22T13:36:11Z",
+      "created_at": "2026-01-19T18:38:38Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/40711",
+      "labels": [
+        "task"
+      ],
+      "merged_at": "2026-01-22T13:36:11Z",
+      "number": 40711,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "closed",
+      "title": "[Serverless | Gmail Webhooks]: Add documentation and helper scripts",
+      "updated_at": "2026-01-22T13:36:13Z",
+      "additions": 2008,
+      "changed_files": 19,
+      "comments": 2,
+      "deletions": 267,
+      "merge_commit_sha": "1ec4456ee674d11897ff9879e68ce9c6ebecb50b",
+      "merged": true,
+      "review_comments": 0
+    },
+    {
+      "closed_at": "2026-01-22T13:21:11Z",
+      "created_at": "2026-01-19T18:35:54Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/40710",
+      "labels": [
+        "task"
+      ],
+      "merged_at": "2026-01-22T13:21:11Z",
+      "number": 40710,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "closed",
+      "title": "[Serverless | Gmail Webhooks]: Integrate auto-cancel flow into email processing",
+      "updated_at": "2026-01-22T13:21:14Z",
+      "additions": 2131,
+      "changed_files": 5,
+      "comments": 1,
+      "deletions": 40,
+      "merge_commit_sha": "5519ea70208bf9379cf013aa7a4595d2cdfe677d",
+      "merged": true,
+      "review_comments": 1
+    },
+    {
+      "closed_at": "2026-01-22T11:47:09Z",
+      "created_at": "2026-01-19T18:35:12Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/40709",
+      "labels": [],
+      "merged_at": "2026-01-22T11:47:09Z",
+      "number": 40709,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "closed",
+      "title": "[Serverless | Gmail Webhooks]: Add LLM enhancements and cancellation service",
+      "updated_at": "2026-01-22T11:47:12Z",
+      "additions": 6062,
+      "changed_files": 24,
+      "comments": 1,
+      "deletions": 47,
+      "merge_commit_sha": "9184be398180c72016380f3367ac24c787a6ce7b",
+      "merged": true,
+      "review_comments": 6
+    },
+    {
+      "closed_at": "2026-01-22T10:31:15Z",
+      "created_at": "2026-01-19T18:34:26Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/40708",
+      "labels": [
+        "task"
+      ],
+      "merged_at": "2026-01-22T10:31:15Z",
+      "number": 40708,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "closed",
+      "title": "[Serverless | Gmail Webhooks]: Add conversation history tracking",
+      "updated_at": "2026-01-22T10:31:18Z",
+      "additions": 3586,
+      "changed_files": 14,
+      "comments": 1,
+      "deletions": 24,
+      "merge_commit_sha": "7a380a6ad741a9479d18be0b43f1741fc37962a4",
+      "merged": true,
+      "review_comments": 2
+    },
+    {
+      "closed_at": "2026-01-20T16:15:05Z",
+      "created_at": "2026-01-19T18:33:38Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/40707",
+      "labels": [
+        "user-story"
+      ],
+      "merged_at": "2026-01-20T16:15:05Z",
+      "number": 40707,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "closed",
+      "title": "[API | Support Bot]: Add cancelSubscriptionForSupportBot mutation",
+      "updated_at": "2026-01-20T16:15:08Z",
+      "additions": 818,
+      "changed_files": 21,
+      "comments": 2,
+      "deletions": 64,
+      "merge_commit_sha": "ce35a7587c1c3848e2ce19252d92ad55bb5afca6",
+      "merged": true,
+      "review_comments": 2
+    },
+    {
+      "closed_at": "2026-01-19T18:33:56Z",
+      "created_at": "2026-01-19T17:46:35Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/40704",
+      "labels": [
+        "task"
+      ],
+      "merged_at": "2026-01-19T18:33:56Z",
+      "number": 40704,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "closed",
+      "title": "[CLI | Tooling]: Add PR tools, Ralph-TS, and Claude skills for CI automation",
+      "updated_at": "2026-01-19T18:33:57Z",
+      "additions": 11130,
+      "changed_files": 48,
+      "comments": 1,
+      "deletions": 283,
+      "merge_commit_sha": "62d9ba964c12d1c4b911b48d8fa4492dd4eaed86",
+      "merged": true,
+      "review_comments": 2
+    },
+    {
+      "closed_at": "2026-01-20T10:23:25Z",
+      "created_at": "2026-01-19T14:07:12Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/40691",
+      "labels": [
+        "user-story"
+      ],
+      "merged_at": "2026-01-20T10:23:25Z",
+      "number": 40691,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "closed",
+      "title": "[Serverless | Gmail Webhooks]: Add OpenSpec proposal for auto-cancel subscriptions",
+      "updated_at": "2026-01-20T13:06:11Z",
+      "additions": 833,
+      "changed_files": 5,
+      "comments": 5,
+      "deletions": 0,
+      "merge_commit_sha": "0e12ffec7cb9fac66fee83619c0a37ed1df37d8f",
+      "merged": true,
+      "review_comments": 0
+    },
+    {
+      "closed_at": "2026-01-27T15:09:07Z",
+      "created_at": "2026-01-19T04:23:28Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/40680",
+      "labels": [
+        "task"
+      ],
+      "merged_at": "2026-01-27T15:09:07Z",
+      "number": 40680,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "closed",
+      "title": "[Permissions]: Migrate ChatWrite",
+      "updated_at": "2026-01-27T15:09:09Z",
+      "additions": 153,
+      "changed_files": 51,
+      "comments": 2,
+      "deletions": 124,
+      "merge_commit_sha": "08f9db49f2772a1c6e69bf1d9665f102cfae68ef",
+      "merged": true,
+      "review_comments": 1
+    },
+    {
+      "closed_at": null,
+      "created_at": "2026-01-19T03:26:03Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/40679",
+      "labels": [
+        "task"
+      ],
+      "merged_at": null,
+      "number": 40679,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "open",
+      "title": "[Permissions]: Migrate ChatRead",
+      "updated_at": "2026-01-29T18:20:44Z",
+      "additions": 30,
+      "changed_files": 15,
+      "comments": 1,
+      "deletions": 23,
+      "merge_commit_sha": "388fa26021f5bceb36d465a2c08b3211700c49a4",
+      "merged": false,
+      "review_comments": 0
+    },
+    {
+      "closed_at": "2026-01-29T23:03:28Z",
+      "created_at": "2026-01-19T03:10:40Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/40678",
+      "labels": [
+        "task"
+      ],
+      "merged_at": "2026-01-29T23:03:28Z",
+      "number": 40678,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "closed",
+      "title": "[Permissions]: Migrate CalendarTemplateWrite permission",
+      "updated_at": "2026-01-29T23:03:29Z",
+      "additions": 21,
+      "changed_files": 9,
+      "comments": 2,
+      "deletions": 15,
+      "merge_commit_sha": "bf3f63a3d78ead7ad172c59c3e050cdff75c2533",
+      "merged": true,
+      "review_comments": 1
+    },
+    {
+      "closed_at": "2026-01-27T15:11:25Z",
+      "created_at": "2026-01-19T02:51:13Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/40677",
+      "labels": [
+        "task"
+      ],
+      "merged_at": "2026-01-27T15:11:25Z",
+      "number": 40677,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "closed",
+      "title": "[Permissions]: Migrate CorporateEventsRead",
+      "updated_at": "2026-01-27T15:11:28Z",
+      "additions": 12,
+      "changed_files": 6,
+      "comments": 1,
+      "deletions": 5,
+      "merge_commit_sha": "c2636f4caa20537e42925e76afc61da388441ddc",
+      "merged": true,
+      "review_comments": 0
+    },
+    {
+      "closed_at": "2026-01-27T15:13:47Z",
+      "created_at": "2026-01-19T02:40:03Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/40676",
+      "labels": [
+        "task"
+      ],
+      "merged_at": "2026-01-27T15:13:47Z",
+      "number": 40676,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "closed",
+      "title": "[Permissions]: Migrate EventLocationRead",
+      "updated_at": "2026-01-27T15:13:50Z",
+      "additions": 13,
+      "changed_files": 6,
+      "comments": 1,
+      "deletions": 10,
+      "merge_commit_sha": "2c1aa2664a1eba0ff9441f5771eaec2268e70be9",
+      "merged": true,
+      "review_comments": 0
+    },
+    {
+      "closed_at": null,
+      "created_at": "2026-01-19T02:26:22Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/40675",
+      "labels": [
+        "task"
+      ],
+      "merged_at": null,
+      "number": 40675,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "open",
+      "title": "[Permissions]: Migrate DeleteQnAQuestions",
+      "updated_at": "2026-01-29T18:25:41Z",
+      "additions": 13,
+      "changed_files": 7,
+      "comments": 2,
+      "deletions": 10,
+      "merge_commit_sha": "d0180120138de5b154bb697b2246b264a0a9a5d9",
+      "merged": false,
+      "review_comments": 0
+    },
+    {
+      "closed_at": "2026-01-28T16:51:04Z",
+      "created_at": "2026-01-19T02:16:15Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/40674",
+      "labels": [
+        "task"
+      ],
+      "merged_at": "2026-01-28T16:51:04Z",
+      "number": 40674,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "closed",
+      "title": "[Permissions]: Migrate UpdateQnAQuestionStatus",
+      "updated_at": "2026-01-28T16:51:05Z",
+      "additions": 18,
+      "changed_files": 7,
+      "comments": 2,
+      "deletions": 10,
+      "merge_commit_sha": "1572f63d5d9d6f4b31f4e85af5f779c1918caf40",
+      "merged": true,
+      "review_comments": 0
+    },
+    {
+      "closed_at": "2026-01-27T15:24:33Z",
+      "created_at": "2026-01-19T02:03:34Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/40673",
+      "labels": [
+        "task"
+      ],
+      "merged_at": "2026-01-27T15:24:33Z",
+      "number": 40673,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "closed",
+      "title": "[Permissions]: Migrate ReferralEventsWrite",
+      "updated_at": "2026-01-27T15:24:36Z",
+      "additions": 1,
+      "changed_files": 6,
+      "comments": 1,
+      "deletions": 10,
+      "merge_commit_sha": "37a162985760683a8287b6d9b35cbd48b243156f",
+      "merged": true,
+      "review_comments": 0
+    },
+    {
+      "closed_at": null,
+      "created_at": "2026-01-19T01:56:49Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/40672",
+      "labels": [
+        "task"
+      ],
+      "merged_at": null,
+      "number": 40672,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "open",
+      "title": "[Permissions]: Migrate TechCheckTemplatesWrite",
+      "updated_at": "2026-01-30T15:14:28Z",
+      "additions": 19,
+      "changed_files": 12,
+      "comments": 1,
+      "deletions": 21,
+      "merge_commit_sha": "b7b58fa78d17cc4bf7a01150d87ffb93075d1a08",
+      "merged": false,
+      "review_comments": 0
+    },
+    {
+      "closed_at": "2026-01-27T16:47:31Z",
+      "created_at": "2026-01-19T01:44:43Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/40671",
+      "labels": [
+        "task"
+      ],
+      "merged_at": "2026-01-27T16:47:31Z",
+      "number": 40671,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "closed",
+      "title": "[Permissions]: Migrate TechCheckTemplatesRead",
+      "updated_at": "2026-01-27T16:47:32Z",
+      "additions": 39,
+      "changed_files": 14,
+      "comments": 1,
+      "deletions": 30,
+      "merge_commit_sha": "4d329be2345228feab59d5e2c2493c2aa03662c2",
+      "merged": true,
+      "review_comments": 0
+    },
+    {
+      "closed_at": null,
+      "created_at": "2026-01-19T01:31:19Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/40670",
+      "labels": [
+        "task"
+      ],
+      "merged_at": null,
+      "number": 40670,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "open",
+      "title": "[Permissions]: Migrate TechCheckSessionsWrite",
+      "updated_at": "2026-01-29T18:25:51Z",
+      "additions": 18,
+      "changed_files": 9,
+      "comments": 2,
+      "deletions": 14,
+      "merge_commit_sha": "1354a7b0b6fd27ffe49618fe261f614abb78c899",
+      "merged": false,
+      "review_comments": 0
+    },
+    {
+      "closed_at": null,
+      "created_at": "2026-01-19T01:18:00Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/40669",
+      "labels": [
+        "task"
+      ],
+      "merged_at": null,
+      "number": 40669,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "open",
+      "title": "[Permissions]: Migrate TechCheckSessionsRead",
+      "updated_at": "2026-01-29T18:26:05Z",
+      "additions": 40,
+      "changed_files": 24,
+      "comments": 2,
+      "deletions": 37,
+      "merge_commit_sha": null,
+      "merged": false,
+      "review_comments": 0
+    },
+    {
+      "closed_at": "2026-01-27T15:53:42Z",
+      "created_at": "2026-01-19T00:57:07Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/40668",
+      "labels": [
+        "task"
+      ],
+      "merged_at": "2026-01-27T15:53:42Z",
+      "number": 40668,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "closed",
+      "title": "[Permissions]: Migrate TechCheckQuestionCheckphrasesWrite",
+      "updated_at": "2026-01-27T15:53:44Z",
+      "additions": 18,
+      "changed_files": 9,
+      "comments": 2,
+      "deletions": 18,
+      "merge_commit_sha": "ac3d99e5a19dfc28894b35eb8c3d7fda73e2fe7d",
+      "merged": true,
+      "review_comments": 1
+    },
+    {
+      "closed_at": null,
+      "created_at": "2026-01-19T00:44:58Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/40667",
+      "labels": [
+        "task"
+      ],
+      "merged_at": null,
+      "number": 40667,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "open",
+      "title": "[Permissions]: Migrate TechCheckTopicsWrite",
+      "updated_at": "2026-01-30T08:08:11Z",
+      "additions": 15,
+      "changed_files": 8,
+      "comments": 2,
+      "deletions": 11,
+      "merge_commit_sha": null,
+      "merged": false,
+      "review_comments": 1
+    },
+    {
+      "closed_at": null,
+      "created_at": "2026-01-19T00:34:48Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/40666",
+      "labels": [
+        "task"
+      ],
+      "merged_at": null,
+      "number": 40666,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "open",
+      "title": "[Permissions]: Migrate TechCheckTopicsRead",
+      "updated_at": "2026-01-30T08:24:51Z",
+      "additions": 18,
+      "changed_files": 8,
+      "comments": 2,
+      "deletions": 15,
+      "merge_commit_sha": null,
+      "merged": false,
+      "review_comments": 1
+    },
+    {
+      "closed_at": "2026-01-30T08:02:10Z",
+      "created_at": "2026-01-19T00:22:25Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/40665",
+      "labels": [
+        "task"
+      ],
+      "merged_at": "2026-01-30T08:02:10Z",
+      "number": 40665,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "closed",
+      "title": "[Permissions]: Migrate TechCheckQuestionsAsk",
+      "updated_at": "2026-01-30T08:02:11Z",
+      "additions": 18,
+      "changed_files": 10,
+      "comments": 2,
+      "deletions": 15,
+      "merge_commit_sha": "334f4898024a06cc457385b0b6893db9eae5876c",
+      "merged": true,
+      "review_comments": 0
+    },
+    {
+      "closed_at": "2026-01-27T18:31:52Z",
+      "created_at": "2026-01-19T00:11:21Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/40664",
+      "labels": [
+        "task"
+      ],
+      "merged_at": "2026-01-27T18:31:52Z",
+      "number": 40664,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "closed",
+      "title": "[Permissions]: Migrate TechCheckQuestionsWrite",
+      "updated_at": "2026-01-27T18:31:54Z",
+      "additions": 16,
+      "changed_files": 9,
+      "comments": 2,
+      "deletions": 14,
+      "merge_commit_sha": "e5b039b56c3e0decbb3606ba89b15514cf229713",
+      "merged": true,
+      "review_comments": 0
+    },
+    {
+      "closed_at": null,
+      "created_at": "2026-01-18T23:58:49Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/40663",
+      "labels": [
+        "task"
+      ],
+      "merged_at": null,
+      "number": 40663,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "open",
+      "title": "[Permissions]: Migrate UpdateSkeleton",
+      "updated_at": "2026-01-30T08:25:25Z",
+      "additions": 23,
+      "changed_files": 9,
+      "comments": 1,
+      "deletions": 13,
+      "merge_commit_sha": null,
+      "merged": false,
+      "review_comments": 1
+    },
+    {
+      "closed_at": null,
+      "created_at": "2026-01-18T23:47:09Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/40662",
+      "labels": [
+        "task"
+      ],
+      "merged_at": null,
+      "number": 40662,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "open",
+      "title": "[Permissions]: Migrate RemoveSkeleton",
+      "updated_at": "2026-01-30T08:25:56Z",
+      "additions": 23,
+      "changed_files": 10,
+      "comments": 1,
+      "deletions": 20,
+      "merge_commit_sha": null,
+      "merged": false,
+      "review_comments": 1
+    },
+    {
+      "closed_at": "2026-01-27T16:41:39Z",
+      "created_at": "2026-01-18T23:36:14Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/40661",
+      "labels": [
+        "task"
+      ],
+      "merged_at": "2026-01-27T16:41:39Z",
+      "number": 40661,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "closed",
+      "title": "[Permissions]: Migrate AllSkeletonsRead",
+      "updated_at": "2026-01-27T16:41:41Z",
+      "additions": 25,
+      "changed_files": 10,
+      "comments": 1,
+      "deletions": 14,
+      "merge_commit_sha": "69018cb1cf60e3c6b4d1ecfabff43b87bebb920b",
+      "merged": true,
+      "review_comments": 1
+    },
+    {
+      "closed_at": "2026-01-27T18:13:44Z",
+      "created_at": "2026-01-18T23:21:26Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/40660",
+      "labels": [
+        "task"
+      ],
+      "merged_at": "2026-01-27T18:13:44Z",
+      "number": 40660,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "closed",
+      "title": "[Permissions]: Migrate TechCheckRoomAdmin",
+      "updated_at": "2026-01-27T18:13:45Z",
+      "additions": 34,
+      "changed_files": 11,
+      "comments": 2,
+      "deletions": 16,
+      "merge_commit_sha": "168190c913681fd1af2b37431f0aeaea98e2e5f8",
+      "merged": true,
+      "review_comments": 0
+    },
+    {
+      "closed_at": "2026-01-27T15:27:15Z",
+      "created_at": "2026-01-18T23:06:08Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/40659",
+      "labels": [
+        "task"
+      ],
+      "merged_at": "2026-01-27T15:27:15Z",
+      "number": 40659,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "closed",
+      "title": "[Permissions]: Migrate ArchivedEventsRead",
+      "updated_at": "2026-01-27T15:27:17Z",
+      "additions": 17,
+      "changed_files": 7,
+      "comments": 1,
+      "deletions": 13,
+      "merge_commit_sha": "f98fcbd2170f2726d5d0bf78bc49ad3acb204352",
+      "merged": true,
+      "review_comments": 0
+    },
+    {
+      "closed_at": "2026-01-19T19:37:43Z",
+      "created_at": "2026-01-18T22:58:08Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/40658",
+      "labels": [
+        "task"
+      ],
+      "merged_at": "2026-01-19T19:37:43Z",
+      "number": 40658,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "closed",
+      "title": "[Permissions]: Migrate TechCheckEventWrite",
+      "updated_at": "2026-01-19T19:37:45Z",
+      "additions": 23,
+      "changed_files": 11,
+      "comments": 1,
+      "deletions": 15,
+      "merge_commit_sha": "33fcfe5994b3a71caace03f432b7721c396dad8a",
+      "merged": true,
+      "review_comments": 0
+    },
+    {
+      "closed_at": "2026-01-30T03:31:10Z",
+      "created_at": "2026-01-18T22:43:11Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/40657",
+      "labels": [
+        "task"
+      ],
+      "merged_at": "2026-01-30T03:31:09Z",
+      "number": 40657,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "closed",
+      "title": "[Permissions]: Migrate EventsCreate",
+      "updated_at": "2026-01-30T03:31:10Z",
+      "additions": 74,
+      "changed_files": 34,
+      "comments": 2,
+      "deletions": 65,
+      "merge_commit_sha": "524eb1551545095a4f5ee79050ca81ca0321edef",
+      "merged": true,
+      "review_comments": 0
+    },
+    {
+      "closed_at": "2026-01-27T15:23:24Z",
+      "created_at": "2026-01-18T22:16:29Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/40656",
+      "labels": [
+        "task"
+      ],
+      "merged_at": "2026-01-27T15:23:24Z",
+      "number": 40656,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "closed",
+      "title": "[Permissions]: Migrate CourseEventSkeletonRead",
+      "updated_at": "2026-01-27T15:23:26Z",
+      "additions": 39,
+      "changed_files": 12,
+      "comments": 2,
+      "deletions": 25,
+      "merge_commit_sha": "f2ed9c86c5245eeb3d93083c1ab7298db0815759",
+      "merged": true,
+      "review_comments": 0
+    },
+    {
+      "closed_at": "2026-01-28T13:59:23Z",
+      "created_at": "2026-01-18T22:00:25Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/40655",
+      "labels": [
+        "task"
+      ],
+      "merged_at": "2026-01-28T13:59:23Z",
+      "number": 40655,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "closed",
+      "title": "[Permissions]: Migrate CourseEventSkeletonWrite",
+      "updated_at": "2026-01-28T13:59:24Z",
+      "additions": 23,
+      "changed_files": 11,
+      "comments": 1,
+      "deletions": 17,
+      "merge_commit_sha": "d1e4961c9077abc5a004c9a0a6ce10614768e684",
+      "merged": true,
+      "review_comments": 0
+    },
+    {
+      "closed_at": "2026-01-28T15:21:33Z",
+      "created_at": "2026-01-18T21:39:03Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/40654",
+      "labels": [
+        "task"
+      ],
+      "merged_at": "2026-01-28T15:21:33Z",
+      "number": 40654,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "closed",
+      "title": "[Permissions]: Migrate CourseProgressBasedTechCheckEventsAttend",
+      "updated_at": "2026-01-28T15:21:35Z",
+      "additions": 16,
+      "changed_files": 8,
+      "comments": 1,
+      "deletions": 13,
+      "merge_commit_sha": "70888e0f8b660e9f7af27155d3c3c3b6779fd355",
+      "merged": true,
+      "review_comments": 0
+    },
+    {
+      "closed_at": "2026-01-22T14:20:53Z",
+      "created_at": "2026-01-18T21:26:26Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/40653",
+      "labels": [
+        "task"
+      ],
+      "merged_at": "2026-01-22T14:20:53Z",
+      "number": 40653,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "closed",
+      "title": "[Permissions]: Migrate AllTechCheckEventsAttend",
+      "updated_at": "2026-01-22T14:20:55Z",
+      "additions": 21,
+      "changed_files": 7,
+      "comments": 1,
+      "deletions": 12,
+      "merge_commit_sha": "e694078e50470d1e7eecb2eefbd3ca921fc21349",
+      "merged": true,
+      "review_comments": 0
+    },
+    {
+      "closed_at": "2026-01-28T12:04:54Z",
+      "created_at": "2026-01-18T16:41:09Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/40648",
+      "labels": [
+        "task"
+      ],
+      "merged_at": "2026-01-28T12:04:54Z",
+      "number": 40648,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "closed",
+      "title": "[Permissions]: Migrate JoinScheduleEventsIgnoringStudentStatus",
+      "updated_at": "2026-01-28T12:04:55Z",
+      "additions": 23,
+      "changed_files": 9,
+      "comments": 1,
+      "deletions": 5,
+      "merge_commit_sha": "064c6f979fe61e7f0134b93a6c4a4473a737a1e4",
+      "merged": true,
+      "review_comments": 0
+    },
+    {
+      "closed_at": "2026-01-27T13:58:40Z",
+      "created_at": "2026-01-18T16:26:57Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/40647",
+      "labels": [
+        "task"
+      ],
+      "merged_at": "2026-01-27T13:58:40Z",
+      "number": 40647,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "closed",
+      "title": "[Permissions]: Migrate GroupEventRead",
+      "updated_at": "2026-01-27T13:58:41Z",
+      "additions": 31,
+      "changed_files": 13,
+      "comments": 1,
+      "deletions": 28,
+      "merge_commit_sha": "6528f29ccfbebfccd6002746837b22aec9c06a1b",
+      "merged": true,
+      "review_comments": 2
+    },
+    {
+      "closed_at": "2026-01-21T16:02:02Z",
+      "created_at": "2026-01-18T16:11:39Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/40646",
+      "labels": [
+        "task"
+      ],
+      "merged_at": "2026-01-21T16:02:02Z",
+      "number": 40646,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "closed",
+      "title": "[Permissions]: Migrate GroupEventWrite",
+      "updated_at": "2026-01-21T16:02:04Z",
+      "additions": 86,
+      "changed_files": 28,
+      "comments": 1,
+      "deletions": 46,
+      "merge_commit_sha": "593d1a39694244d43928763734aa4cb69d09f219",
+      "merged": true,
+      "review_comments": 1
+    },
+    {
+      "closed_at": "2026-01-27T11:21:24Z",
+      "created_at": "2026-01-18T15:21:50Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/40645",
+      "labels": [
+        "task"
+      ],
+      "merged_at": "2026-01-27T11:21:24Z",
+      "number": 40645,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "closed",
+      "title": "[Permissions]: Migrate AutoTechCheckReview to events:ManageAutoTechCheck",
+      "updated_at": "2026-01-27T11:21:26Z",
+      "additions": 0,
+      "changed_files": 3,
+      "comments": 1,
+      "deletions": 7,
+      "merge_commit_sha": "050d60be8e40ba99690ee899360851774d383b00",
+      "merged": true,
+      "review_comments": 1
+    },
+    {
+      "closed_at": "2026-01-28T16:07:15Z",
+      "created_at": "2026-01-18T15:12:05Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/40644",
+      "labels": [
+        "task"
+      ],
+      "merged_at": "2026-01-28T16:07:15Z",
+      "number": 40644,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "closed",
+      "title": "[Permissions]: Migrate AutoTechCheckWrite to events:ManageAutoTechCheck",
+      "updated_at": "2026-01-28T16:07:16Z",
+      "additions": 15,
+      "changed_files": 8,
+      "comments": 1,
+      "deletions": 12,
+      "merge_commit_sha": "924f8e0f73fc389434ac87ae608e65fecf6aa9bb",
+      "merged": true,
+      "review_comments": 0
+    },
+    {
+      "closed_at": "2026-01-21T15:33:01Z",
+      "created_at": "2026-01-18T14:57:14Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/40643",
+      "labels": [
+        "task"
+      ],
+      "merged_at": "2026-01-21T15:33:01Z",
+      "number": 40643,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "closed",
+      "title": "[Permissions]: Migrate AutoTechCheckAnswer to events:AccessAutoTechCheck",
+      "updated_at": "2026-01-21T15:33:03Z",
+      "additions": 12,
+      "changed_files": 5,
+      "comments": 1,
+      "deletions": 5,
+      "merge_commit_sha": "1dca2a2e4e28f4da3733bc6fb97d6a3ec23384aa",
+      "merged": true,
+      "review_comments": 0
+    },
+    {
+      "closed_at": "2026-01-21T15:32:45Z",
+      "created_at": "2026-01-18T14:38:55Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/40642",
+      "labels": [
+        "task"
+      ],
+      "merged_at": "2026-01-21T15:32:45Z",
+      "number": 40642,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "closed",
+      "title": "[Permissions]: Migrate AutoTechCheckRead to events:AccessAutoTechCheck",
+      "updated_at": "2026-01-21T15:32:46Z",
+      "additions": 17,
+      "changed_files": 8,
+      "comments": 2,
+      "deletions": 9,
+      "merge_commit_sha": "d7a316904c27b15ff39549f42f6e6e84ac6fdc69",
+      "merged": true,
+      "review_comments": 0
+    },
+    {
+      "closed_at": "2026-01-26T18:41:19Z",
+      "created_at": "2026-01-18T14:27:32Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/40641",
+      "labels": [
+        "task"
+      ],
+      "merged_at": "2026-01-26T18:41:19Z",
+      "number": 40641,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "closed",
+      "title": "[Permissions]: Migrate CourseTopicsFullAccess to StudyUnrestrictedAccess",
+      "updated_at": "2026-01-26T18:41:20Z",
+      "additions": 32,
+      "changed_files": 10,
+      "comments": 2,
+      "deletions": 21,
+      "merge_commit_sha": "efb353f07c5c7894e12c4961c04652c9d7a3fdba",
+      "merged": true,
+      "review_comments": 3
+    },
+    {
+      "closed_at": "2026-01-21T15:26:44Z",
+      "created_at": "2026-01-18T14:14:59Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/40640",
+      "labels": [
+        "task"
+      ],
+      "merged_at": "2026-01-21T15:26:44Z",
+      "number": 40640,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "closed",
+      "title": "[Permissions]: Migrate ModulesFullAccess to StudyUnrestrictedAccess",
+      "updated_at": "2026-01-21T15:26:46Z",
+      "additions": 23,
+      "changed_files": 7,
+      "comments": 1,
+      "deletions": 7,
+      "merge_commit_sha": "a4e43e61eee233df78de251d8bb93d795662be3b",
+      "merged": true,
+      "review_comments": 2
+    },
+    {
+      "closed_at": "2026-01-28T11:20:56Z",
+      "created_at": "2026-01-18T14:02:45Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/40639",
+      "labels": [
+        "task"
+      ],
+      "merged_at": "2026-01-28T11:20:56Z",
+      "number": 40639,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "closed",
+      "title": "[Permissions]: Migrate TopicWrite to LMSEditorManageTopic",
+      "updated_at": "2026-01-28T11:20:57Z",
+      "additions": 84,
+      "changed_files": 33,
+      "comments": 1,
+      "deletions": 73,
+      "merge_commit_sha": "21d4343b728df9324af4d71ef65b0d786a88722a",
+      "merged": true,
+      "review_comments": 2
+    },
+    {
+      "closed_at": "2026-01-21T15:26:18Z",
+      "created_at": "2026-01-18T13:14:56Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/40637",
+      "labels": [
+        "task"
+      ],
+      "merged_at": "2026-01-21T15:26:18Z",
+      "number": 40637,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "closed",
+      "title": "[Permissions]: Migrate CourseCopyFromExisting",
+      "updated_at": "2026-01-21T15:26:20Z",
+      "additions": 20,
+      "changed_files": 10,
+      "comments": 1,
+      "deletions": 14,
+      "merge_commit_sha": "051fc956d6a8d61b72217867720f581819e2b962",
+      "merged": true,
+      "review_comments": 0
+    },
+    {
+      "closed_at": "2026-01-21T15:26:01Z",
+      "created_at": "2026-01-18T12:28:11Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/40636",
+      "labels": [
+        "task"
+      ],
+      "merged_at": "2026-01-21T15:26:00Z",
+      "number": 40636,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "closed",
+      "title": "[Permissions]: Migrate ProfessionWrite",
+      "updated_at": "2026-01-21T15:26:03Z",
+      "additions": 45,
+      "changed_files": 16,
+      "comments": 1,
+      "deletions": 36,
+      "merge_commit_sha": "74d5cc6926c077e8dbf7ab7e23e491c02b2e9912",
+      "merged": true,
+      "review_comments": 0
+    },
+    {
+      "closed_at": "2026-01-21T08:35:35Z",
+      "created_at": "2026-01-18T09:26:48Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/40635",
+      "labels": [
+        "task"
+      ],
+      "merged_at": null,
+      "number": 40635,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "closed",
+      "title": "[Permissions]: Migrate TestTaskWrite to LMSEditorManageTestTask",
+      "updated_at": "2026-01-21T08:35:40Z",
+      "additions": 25,
+      "changed_files": 10,
+      "comments": 1,
+      "deletions": 20,
+      "merge_commit_sha": null,
+      "merged": false,
+      "review_comments": 0
+    },
+    {
+      "closed_at": "2026-01-18T08:33:43Z",
+      "created_at": "2026-01-18T08:29:11Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/40634",
+      "labels": [
+        "task"
+      ],
+      "merged_at": "2026-01-18T08:33:43Z",
+      "number": 40634,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "closed",
+      "title": "[CLI | Permissions]: Fix Ralph loop error handling and add resume support",
+      "updated_at": "2026-01-18T08:33:44Z",
+      "additions": 10,
+      "changed_files": 2,
+      "comments": 1,
+      "deletions": 3,
+      "merge_commit_sha": "0e5a75242154c39fa834ae0a3a3cac28950bb36a",
+      "merged": true,
+      "review_comments": 0
+    },
+    {
+      "closed_at": "2026-01-26T16:55:45Z",
+      "created_at": "2026-01-18T07:30:31Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/40632",
+      "labels": [
+        "task"
+      ],
+      "merged_at": "2026-01-26T16:55:45Z",
+      "number": 40632,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "closed",
+      "title": "[Permissions]: Migrate LearnVideoRead to lmsEditorManageLearnVideos",
+      "updated_at": "2026-01-26T16:55:46Z",
+      "additions": 41,
+      "changed_files": 20,
+      "comments": 1,
+      "deletions": 37,
+      "merge_commit_sha": "afcb6ead88c5ef2ed7ed962d203a8f8fa0bc4192",
+      "merged": true,
+      "review_comments": 2
+    },
+    {
+      "closed_at": "2026-01-28T13:09:23Z",
+      "created_at": "2026-01-18T06:38:07Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/40631",
+      "labels": [
+        "task"
+      ],
+      "merged_at": "2026-01-28T13:09:23Z",
+      "number": 40631,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "closed",
+      "title": "[Permissions]: Migrate LearnVideoWrite",
+      "updated_at": "2026-01-28T13:09:24Z",
+      "additions": 61,
+      "changed_files": 27,
+      "comments": 1,
+      "deletions": 55,
+      "merge_commit_sha": "e69dbaceb446f9176bff342b95de7056df43571d",
+      "merged": true,
+      "review_comments": 0
+    },
+    {
+      "closed_at": "2026-01-26T16:33:37Z",
+      "created_at": "2026-01-17T18:59:07Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/40628",
+      "labels": [
+        "task"
+      ],
+      "merged_at": "2026-01-26T16:33:37Z",
+      "number": 40628,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "closed",
+      "title": "[Permissions]: Migrate CourseAchievementsWrite",
+      "updated_at": "2026-01-26T16:33:39Z",
+      "additions": 270,
+      "changed_files": 8,
+      "comments": 1,
+      "deletions": 9,
+      "merge_commit_sha": "35869b0e23a9038e1994cf8a0d14cfbf26b21737",
+      "merged": true,
+      "review_comments": 0
+    },
+    {
+      "closed_at": "2026-01-22T14:18:22Z",
+      "created_at": "2026-01-17T18:49:28Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/40627",
+      "labels": [
+        "task"
+      ],
+      "merged_at": "2026-01-22T14:18:22Z",
+      "number": 40627,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "closed",
+      "title": "[Permissions]: Migrate HiddenCourseView",
+      "updated_at": "2026-01-22T14:18:23Z",
+      "additions": 5,
+      "changed_files": 4,
+      "comments": 1,
+      "deletions": 36,
+      "merge_commit_sha": "23a06870f94c62597d8b47f7c083e61fea42da4b",
+      "merged": true,
+      "review_comments": 1
+    },
+    {
+      "closed_at": "2026-01-21T15:19:29Z",
+      "created_at": "2026-01-17T18:41:17Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/40626",
+      "labels": [
+        "task"
+      ],
+      "merged_at": "2026-01-21T15:19:29Z",
+      "number": 40626,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "closed",
+      "title": "[Permissions]: Migrate HiddenModuleView",
+      "updated_at": "2026-01-21T15:19:31Z",
+      "additions": 10,
+      "changed_files": 3,
+      "comments": 1,
+      "deletions": 2,
+      "merge_commit_sha": "fffa4a7ccd42f980eb8ca646c85522200d395c8c",
+      "merged": true,
+      "review_comments": 3
+    },
+    {
+      "closed_at": "2026-01-20T02:24:07Z",
+      "created_at": "2026-01-17T18:13:51Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/40624",
+      "labels": [
+        "task"
+      ],
+      "merged_at": "2026-01-20T02:24:07Z",
+      "number": 40624,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "closed",
+      "title": "[Permissions]: Migrate GroupDashboardView",
+      "updated_at": "2026-01-20T02:24:08Z",
+      "additions": 17,
+      "changed_files": 9,
+      "comments": 1,
+      "deletions": 10,
+      "merge_commit_sha": "f4a51eda9f57e6337209b7e551434041a80442a5",
+      "merged": true,
+      "review_comments": 0
+    },
+    {
+      "closed_at": "2026-01-21T15:19:15Z",
+      "created_at": "2026-01-17T17:24:02Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/40622",
+      "labels": [
+        "task"
+      ],
+      "merged_at": "2026-01-21T15:19:15Z",
+      "number": 40622,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "closed",
+      "title": "[Permissions]: Migrate StudentsGroups to StudyAccessStudentGroup",
+      "updated_at": "2026-01-21T15:19:17Z",
+      "additions": 329,
+      "changed_files": 20,
+      "comments": 3,
+      "deletions": 43,
+      "merge_commit_sha": "c9869e783caacd4f783eaeef93f8a73b3a624268",
+      "merged": true,
+      "review_comments": 0
+    },
+    {
+      "closed_at": "2026-01-20T13:29:33Z",
+      "created_at": "2026-01-17T17:06:31Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/40621",
+      "labels": [
+        "task"
+      ],
+      "merged_at": "2026-01-20T13:29:33Z",
+      "number": 40621,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "closed",
+      "title": "[Permissions]: Migrate CourseTopicsRead",
+      "updated_at": "2026-01-20T13:29:35Z",
+      "additions": 74,
+      "changed_files": 32,
+      "comments": 1,
+      "deletions": 107,
+      "merge_commit_sha": "c3582fe7c3c3c3a3cba54f1e567440a36287ed55",
+      "merged": true,
+      "review_comments": 0
+    },
+    {
+      "closed_at": null,
+      "created_at": "2026-01-17T16:33:26Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/40619",
+      "labels": [
+        "task",
+        "preview"
+      ],
+      "merged_at": null,
+      "number": 40619,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "open",
+      "title": "[Infra | PR Preview]: Add multi-product preview support for Mate, Kodree, and Inch",
+      "updated_at": "2026-01-29T18:59:25Z",
+      "additions": 8921,
+      "changed_files": 33,
+      "comments": 3,
+      "deletions": 11,
+      "merge_commit_sha": "ffdbd18d7268c03d54b3f31f09e93b5ba39d7020",
+      "merged": false,
+      "review_comments": 1
+    },
+    {
+      "closed_at": "2026-01-17T16:34:55Z",
+      "created_at": "2026-01-17T16:23:42Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/40618",
+      "labels": [
+        "task"
+      ],
+      "merged_at": "2026-01-17T16:34:55Z",
+      "number": 40618,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "closed",
+      "title": "[CLI | Permissions]: Improve migrate_permission command and add Ralph loop",
+      "updated_at": "2026-01-17T16:34:56Z",
+      "additions": 349,
+      "changed_files": 6,
+      "comments": 1,
+      "deletions": 437,
+      "merge_commit_sha": "8d5bf8a3671acfd812c93a8307d3025dea63d7cb",
+      "merged": true,
+      "review_comments": 0
+    },
+    {
+      "closed_at": "2026-01-17T15:43:15Z",
+      "created_at": "2026-01-16T15:45:34Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/40608",
+      "labels": [
+        "task"
+      ],
+      "merged_at": "2026-01-17T15:43:15Z",
+      "number": 40608,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "closed",
+      "title": "[Infrastructure]: Claude Code improvements",
+      "updated_at": "2026-01-17T15:43:17Z",
+      "additions": 176,
+      "changed_files": 12,
+      "comments": 1,
+      "deletions": 169,
+      "merge_commit_sha": "6d35bd1e348d59408bf9bd9eae449800e11d6c37",
+      "merged": true,
+      "review_comments": 5
+    },
+    {
+      "closed_at": "2026-01-18T10:23:21Z",
+      "created_at": "2026-01-13T15:57:35Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/40522",
+      "labels": [
+        "task",
+        "pullpreview",
+        "preview"
+      ],
+      "merged_at": "2026-01-18T10:23:21Z",
+      "number": 40522,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "closed",
+      "title": "[INCH | B2B Organizations]: Add ability to extend user subscription",
+      "updated_at": "2026-01-18T10:23:22Z",
+      "additions": 1485,
+      "changed_files": 44,
+      "comments": 2,
+      "deletions": 9,
+      "merge_commit_sha": "3060fc9f5b9bb1255b5cd7ab85ff233fbeaa6c71",
+      "merged": true,
+      "review_comments": 0
+    },
+    {
+      "closed_at": "2026-01-27T11:57:24Z",
+      "created_at": "2025-12-31T15:27:33Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/40259",
+      "labels": [
+        "task"
+      ],
+      "merged_at": "2026-01-27T11:57:24Z",
+      "number": 40259,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "closed",
+      "title": "[FE | Attachment Flow]: Component structure without styles",
+      "updated_at": "2026-01-27T11:57:27Z",
+      "additions": 3375,
+      "changed_files": 74,
+      "comments": 3,
+      "deletions": 36,
+      "merge_commit_sha": "7f98974003a1ee9878f264b929b41ee817765f69",
+      "merged": true,
+      "review_comments": 3
+    }
+  ],
+  "commits": {
+    "mate-academy/website": [
+      {
+        "date": "2026-01-30T14:57:06Z",
+        "message": "[FE | Dev Tools]: Fix stylelint CI command using invalid flag (#40991)",
+        "sha": "b3973a162a8a0c1ae8f882f3fe18f023e5a51b63",
+        "url": "https://github.com/mate-academy/website/commit/b3973a162a8a0c1ae8f882f3fe18f023e5a51b63"
+      },
+      {
+        "date": "2026-01-30T11:02:20Z",
+        "message": "[API | Tech Check Questions]: Add sync mutation for tech check questions (#40906)\n\nCo-authored-by: Claude Opus 4.5 <noreply@anthropic.com>",
+        "sha": "c34b50bb077bd5955c7f8dc3620452b4ecc53909",
+        "url": "https://github.com/mate-academy/website/commit/c34b50bb077bd5955c7f8dc3620452b4ecc53909"
+      },
+      {
+        "date": "2026-01-30T08:16:13Z",
+        "message": "[FE | Tech Check Monaco Language]: Add syntax highlighting for tech check DSL (#40905)\n\nCo-authored-by: Claude Opus 4.5 <noreply@anthropic.com>",
+        "sha": "53afbe646fb43388e33ea2b7e6e7c795ae1555b6",
+        "url": "https://github.com/mate-academy/website/commit/53afbe646fb43388e33ea2b7e6e7c795ae1555b6"
+      },
+      {
+        "date": "2026-01-30T08:02:10Z",
+        "message": "[Permissions]: Migrate TechCheckQuestionsAsk (#40665)\n\n* [Permissions]: Migrate TechCheckQuestionsAsk\n\nMigrate TechCheckQuestionsAsk permission from legacy enum to new permission system.\n\nChanges:\n- API: Replace PermissionDeprecated.TechCheckQuestionsAsk with eventPermissions.EventsManageTechCheck\n- Frontend: Replace Permission.TechCheckQuestionsAsk with eventPermissions.EventsManageTechCheck\n- E2E: Replace Permission.TechCheckQuestionsAsk with permissions.EventsManageTechCheck\n- Update deprecated config to use raw string value\n- Remove deprecated enum values from all enum files\n- Add migration seeder to update existing database records\n\nCo-Authored-By: Claude Sonnet 4.5 <noreply@anthropic.com>\n\n* Trigger CI re-run\n\n* Use unified permissions object instead of eventPermissions\n\n* Remove duplicate permission entries in permissionsForRoles\n\n---------\n\nCo-authored-by: Claude Sonnet 4.5 <noreply@anthropic.com>",
+        "sha": "334f4898024a06cc457385b0b6893db9eae5876c",
+        "url": "https://github.com/mate-academy/website/commit/334f4898024a06cc457385b0b6893db9eae5876c"
+      },
+      {
+        "date": "2026-01-30T07:56:53Z",
+        "message": "[API | Tech Check]: Update form.slug translate to friendly value (#40926)\n\nCo-authored-by: Claude Opus 4.5 <noreply@anthropic.com>",
+        "sha": "ba16fba544786d40cc8e6441bd9b6a4c67b7d800",
+        "url": "https://github.com/mate-academy/website/commit/ba16fba544786d40cc8e6441bd9b6a4c67b7d800"
+      },
+      {
+        "date": "2026-01-30T03:55:36Z",
+        "message": "[Claude Code]: Add SCSS validation to pre-commit hooks (#40960)\n\n* [Claude Code]: Add CSS artifact verifier agent and improve PR skill\n\n- Add css-artifact-verifier agent to validate SCSS variables, mixins,\n  extends, and functions exist in codebase\n- Update frontend/CLAUDE.md with instructions to run verifier after\n  SCSS modifications\n- Add PR chain handling instructions to pull-request skill\n\nCo-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>\n\n* Add SCSS validation script for pre-commit\n\n- Add validate-scss.js using sass-embedded for fast parallel validation\n- Catches undefined variables, mixins, and compilation errors\n- Runs automatically on pre-commit via lint-staged\n- Remove css-artifact-verifier agent (replaced by static check)\n- Update frontend CLAUDE.md with validation command\n\nCo-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>\n\n* Add SCSS linting and validation to CI pipeline\n\n- Fix validate-scss.js to support @/ and src/ import aliases\n- Add modifiedFrontendScssFiles input to CI workflow\n- Add stylelint and SCSS validation steps to lint_frontend job\n- Add stylelint:ci:changed npm script for CI\n\nNote: Requires mate-academy/website-detect-jobs-to-run#81 to be merged\nand commit hash updated in on_commit.yml\n\nCo-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>\n\n* Update website-detect-jobs-to-run to include SCSS file detection\n\nCo-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>\n\n---------\n\nCo-authored-by: Claude Opus 4.5 <noreply@anthropic.com>",
+        "sha": "88e9cc43ec4ecfaa35f8f5083e24661cccd90a85",
+        "url": "https://github.com/mate-academy/website/commit/88e9cc43ec4ecfaa35f8f5083e24661cccd90a85"
+      },
+      {
+        "date": "2026-01-30T03:31:09Z",
+        "message": "[Permissions]: Migrate EventsCreate (#40657)\n\n* [Permissions]: Migrate EventsCreate\n\nCo-Authored-By: Claude Sonnet 4.5 <noreply@anthropic.com>\n\n* Trigger CI rerun\n\n* fix: replace deprecated ROUTES with allRoutes\n\n* Trigger CI rerun for flaky test\n\n---------\n\nCo-authored-by: Claude Sonnet 4.5 <noreply@anthropic.com>",
+        "sha": "524eb1551545095a4f5ee79050ca81ca0321edef",
+        "url": "https://github.com/mate-academy/website/commit/524eb1551545095a4f5ee79050ca81ca0321edef"
+      },
+      {
+        "date": "2026-01-30T03:12:17Z",
+        "message": "[Permissions]: Migrate ContentChangesRevert (#40959)",
+        "sha": "5f043cd75fad2b8c4c68b87e06a2171a8b0d35de",
+        "url": "https://github.com/mate-academy/website/commit/5f043cd75fad2b8c4c68b87e06a2171a8b0d35de"
+      },
+      {
+        "date": "2026-01-30T03:09:39Z",
+        "message": "[FE | Tech Check Parser]: Create DSL parser for bulk upload questions (#40904)\n\n* [FE | Tech Check Parser]: Create DSL parser for bulk upload questions\n\n* Fix parser to handle newlines before checkphrases and answer markers\n\n* Fix parser to handle DSL without empty lines between sections\n\n* Add unit tests and address PR review comments\n\n- Remove Ru from supported languages\n- Remove resultTypedefs.ts re-export file, export directly from shared\n- Add unit tests for all parser fragments and TechCheckValidator\n\nCo-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>\n\n* Extract decodeUtf8Bytes to shared dslParser and improve type assertions\n\nCo-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>\n\n---------\n\nCo-authored-by: Claude Opus 4.5 <noreply@anthropic.com>",
+        "sha": "8b2b0620376c8da0d141cdf800248319d74cd9db",
+        "url": "https://github.com/mate-academy/website/commit/8b2b0620376c8da0d141cdf800248319d74cd9db"
+      },
+      {
+        "date": "2026-01-29T23:03:27Z",
+        "message": "[Permissions]: Migrate CalendarTemplateWrite permission (#40678)\n\n* [Permissions]: Migrate CalendarTemplateWrite permission\n\nCo-Authored-By: Claude Sonnet 4.5 <noreply@anthropic.com>\n\n* Trigger CI re-run\n\n---------\n\nCo-authored-by: Claude Sonnet 4.5 <noreply@anthropic.com>",
+        "sha": "bf3f63a3d78ead7ad172c59c3e050cdff75c2533",
+        "url": "https://github.com/mate-academy/website/commit/bf3f63a3d78ead7ad172c59c3e050cdff75c2533"
+      },
+      {
+        "date": "2026-01-29T17:47:56Z",
+        "message": "[FE | DSL Parser]: Extract shared parser infrastructure (#40903)",
+        "sha": "4bfb6818e3b3d074f5d3d90a8a038a5943b27e92",
+        "url": "https://github.com/mate-academy/website/commit/4bfb6818e3b3d074f5d3d90a8a038a5943b27e92"
+      },
+      {
+        "date": "2026-01-29T13:55:28Z",
+        "message": "[E2E | Permissions]: Remove duplicate EventsManageTechCheck permission entry (#40954)\n\nCo-authored-by: Claude <noreply@anthropic.com>",
+        "sha": "11a37d7cd39c4cce4082ae11eee28bf741332f7e",
+        "url": "https://github.com/mate-academy/website/commit/11a37d7cd39c4cce4082ae11eee28bf741332f7e"
+      },
+      {
+        "date": "2026-01-29T13:04:26Z",
+        "message": "[Claude Code | ClickUp Skill]: Add auto-setup instructions for API token (#40955)\n\nCo-authored-by: Claude <noreply@anthropic.com>",
+        "sha": "fac740ae5db4d7433ab0992c81ae003a0fe363fc",
+        "url": "https://github.com/mate-academy/website/commit/fac740ae5db4d7433ab0992c81ae003a0fe363fc"
+      },
+      {
+        "date": "2026-01-28T16:51:03Z",
+        "message": "[Permissions]: Migrate UpdateQnAQuestionStatus (#40674)\n\n* [Permissions]: Migrate UpdateQnAQuestionStatus\n\nCo-Authored-By: Claude Sonnet 4.5 <noreply@anthropic.com>\n\n* Trigger CI\n\n* Remove deprecated QnAQuestionStatusWrite from E2E\n\nMigrated E2E permission references from deprecated `QnAQuestionStatusWrite` to new `permissions.EventsManageQnAQuestion` constant.\n\nCo-Authored-By: Claude Sonnet 4.5 <noreply@anthropic.com>\n\n---------\n\nCo-authored-by: Claude Sonnet 4.5 <noreply@anthropic.com>",
+        "sha": "1572f63d5d9d6f4b31f4e85af5f779c1918caf40",
+        "url": "https://github.com/mate-academy/website/commit/1572f63d5d9d6f4b31f4e85af5f779c1918caf40"
+      },
+      {
+        "date": "2026-01-28T16:07:14Z",
+        "message": "[Permissions]: Migrate AutoTechCheckWrite to events:ManageAutoTechCheck (#40644)\n\nCo-authored-by: Claude Sonnet 4.5 <noreply@anthropic.com>\nCo-authored-by: Claude Opus 4.5 <noreply@anthropic.com>",
+        "sha": "924f8e0f73fc389434ac87ae608e65fecf6aa9bb",
+        "url": "https://github.com/mate-academy/website/commit/924f8e0f73fc389434ac87ae608e65fecf6aa9bb"
+      },
+      {
+        "date": "2026-01-28T15:21:33Z",
+        "message": "[Permissions]: Migrate CourseProgressBasedTechCheckEventsAttend (#40654)\n\n* [Permissions]: Migrate CourseProgressBasedTechCheckEventsAttend\n\nCo-Authored-By: Claude Sonnet 4.5 <noreply@anthropic.com>\n\n* Trigger CI re-run\n\n* fix PR\n\n* Use unified permissions object instead of eventPermissions\n\n* Remove unused PermissionDeprecated import\n\n---------\n\nCo-authored-by: Claude Sonnet 4.5 <noreply@anthropic.com>",
+        "sha": "70888e0f8b660e9f7af27155d3c3c3b6779fd355",
+        "url": "https://github.com/mate-academy/website/commit/70888e0f8b660e9f7af27155d3c3c3b6779fd355"
+      },
+      {
+        "date": "2026-01-28T13:59:23Z",
+        "message": "[Permissions]: Migrate CourseEventSkeletonWrite (#40655)\n\n* [Permissions]: Migrate CourseEventSkeletonWrite\n\nReplace deprecated permission CourseEventSkeletonWrite with events:ManageCourseEventSkeleton across api, frontend, and e2e. Updated enum values, usage sites, and deprecated config. Added database migration seeder.\n\nCo-Authored-By: Claude Sonnet 4.5 <noreply@anthropic.com>\n\n* Fix missed use cases and remove deprecated enum\n\n---------\n\nCo-authored-by: Claude Sonnet 4.5 <noreply@anthropic.com>",
+        "sha": "d1e4961c9077abc5a004c9a0a6ce10614768e684",
+        "url": "https://github.com/mate-academy/website/commit/d1e4961c9077abc5a004c9a0a6ce10614768e684"
+      },
+      {
+        "date": "2026-01-28T13:09:23Z",
+        "message": "[Permissions]: Migrate LearnVideoWrite (#40631)\n\n* [Permissions]: Migrate LearnVideoWrite to lmsEditorManageLearnVideos\n\nMigrate deprecated LearnVideoWrite permission to new naming convention across API, frontend, and e2e. Replace all usages with lmsEditorManageLearnVideos permission from the new Permissions object.\n\nCo-Authored-By: Claude Haiku 4.5 <noreply@anthropic.com>\n\n* Trigger CI re-run\n\n* Fix missing REVERT_PERMISSION_VALUES reference\n\nUse permission value directly from REVERT_INSTANCE_PERMISSIONS\ninstead of non-existent REVERT_PERMISSION_VALUES mapping.\n\n---------\n\nCo-authored-by: Claude Haiku 4.5 <noreply@anthropic.com>",
+        "sha": "e69dbaceb446f9176bff342b95de7056df43571d",
+        "url": "https://github.com/mate-academy/website/commit/e69dbaceb446f9176bff342b95de7056df43571d"
+      },
+      {
+        "date": "2026-01-28T12:04:54Z",
+        "message": "[Permissions]: Migrate JoinScheduleEventsIgnoringStudentStatus (#40648)\n\nCo-authored-by: Claude Sonnet 4.5 <noreply@anthropic.com>",
+        "sha": "064c6f979fe61e7f0134b93a6c4a4473a737a1e4",
+        "url": "https://github.com/mate-academy/website/commit/064c6f979fe61e7f0134b93a6c4a4473a737a1e4"
+      },
+      {
+        "date": "2026-01-28T11:47:03Z",
+        "message": "[FE | Tech Check Templates]: Add edit buttons to questions and topics in template editor (#40900)\n\nCo-authored-by: Claude Opus 4.5 <noreply@anthropic.com>",
+        "sha": "5f3c59941b5d623d020e344cabbb195bf1eea5a6",
+        "url": "https://github.com/mate-academy/website/commit/5f3c59941b5d623d020e344cabbb195bf1eea5a6"
+      },
+      {
+        "date": "2026-01-28T11:22:24Z",
+        "message": "[FE | Tech Check]: Add edit template button to template selector in LMS editor (#40893)",
+        "sha": "77617e988cf76a8f5f8eb2f174c854eed2fdb2d3",
+        "url": "https://github.com/mate-academy/website/commit/77617e988cf76a8f5f8eb2f174c854eed2fdb2d3"
+      },
+      {
+        "date": "2026-01-28T11:20:55Z",
+        "message": "[Permissions]: Migrate TopicWrite to LMSEditorManageTopic (#40639)\n\n* [Permissions]: Migrate TopicWrite to LMSEditorManageTopic\n\nCo-Authored-By: Claude Sonnet 4.5 <noreply@anthropic.com>\n\n* Fix missing permission updates in integration tests\n\nUpdate test files to use LMSEditorManageTopic permission instead\nof deprecated TopicWrite permission to match the use case changes.\n\n* Fix additional permission migrations in LMS content changes tests\n\n---------\n\nCo-authored-by: Claude Sonnet 4.5 <noreply@anthropic.com>",
+        "sha": "21d4343b728df9324af4d71ef65b0d786a88722a",
+        "url": "https://github.com/mate-academy/website/commit/21d4343b728df9324af4d71ef65b0d786a88722a"
+      },
+      {
+        "date": "2026-01-28T10:13:47Z",
+        "message": "[API | TC Editor]: Fix strange Ukrainian translations (#40891)",
+        "sha": "1ba9a6a823b139e8e2fb23544e80eb196347352a",
+        "url": "https://github.com/mate-academy/website/commit/1ba9a6a823b139e8e2fb23544e80eb196347352a"
+      },
+      {
+        "date": "2026-01-28T10:05:04Z",
+        "message": "[FE | Tech Check Management]: Filter questions by selected courses (#40894)\n\nCo-authored-by: Claude Opus 4.5 <noreply@anthropic.com>",
+        "sha": "20a3d27289bef47673f16d5366bf7649c2239d60",
+        "url": "https://github.com/mate-academy/website/commit/20a3d27289bef47673f16d5366bf7649c2239d60"
+      },
+      {
+        "date": "2026-01-28T09:20:51Z",
+        "message": "[Serverless | Gmail Webhooks]: Fix support bot logic bugs (#40865)\n\nCo-authored-by: Claude Opus 4.5 <noreply@anthropic.com>",
+        "sha": "d5f1cedc7eea7fe718311be80b7ba9f60128bfdd",
+        "url": "https://github.com/mate-academy/website/commit/d5f1cedc7eea7fe718311be80b7ba9f60128bfdd"
+      },
+      {
+        "date": "2026-01-28T09:20:38Z",
+        "message": "[FE | TestTasks]: Style StepsView components per design specs (#40867)\n\nCo-authored-by: Claude Opus 4.5 <noreply@anthropic.com>",
+        "sha": "ddd38cd8f41dec69fea9fdaecd2e54085bc90c23",
+        "url": "https://github.com/mate-academy/website/commit/ddd38cd8f41dec69fea9fdaecd2e54085bc90c23"
+      },
+      {
+        "date": "2026-01-28T09:02:08Z",
+        "message": "[FE | LMS Editor]: Fix edit button redirect for tasks on study page (#40898)\n\nCo-authored-by: Claude Opus 4.5 <noreply@anthropic.com>",
+        "sha": "a976ed26fc09724df3ca5f1f61e69783a909ee2f",
+        "url": "https://github.com/mate-academy/website/commit/a976ed26fc09724df3ca5f1f61e69783a909ee2f"
+      },
+      {
+        "date": "2026-01-28T08:15:50Z",
+        "message": "[FE | TestTasks]: Extract resizable components and move attachmentFlow to modules (#40861)\n\nCo-authored-by: Claude Opus 4.5 <noreply@anthropic.com>",
+        "sha": "62a0a0d210b392f346f9e1b64a80e931055f6e59",
+        "url": "https://github.com/mate-academy/website/commit/62a0a0d210b392f346f9e1b64a80e931055f6e59"
+      },
+      {
+        "date": "2026-01-27T18:31:52Z",
+        "message": "[Permissions]: Migrate TechCheckQuestionsWrite (#40664)\n\n* [Permissions]: Migrate TechCheckQuestionsWrite\n\nCo-Authored-By: Claude Sonnet 4.5 <noreply@anthropic.com>\n\n* Retrigger CI\n\n* Update permission in seeder files\n\nCo-Authored-By: Claude Sonnet 4.5 <noreply@anthropic.com>\n\n* Revert changes to old seeder files\n\n---------\n\nCo-authored-by: Claude Sonnet 4.5 <noreply@anthropic.com>",
+        "sha": "e5b039b56c3e0decbb3606ba89b15514cf229713",
+        "url": "https://github.com/mate-academy/website/commit/e5b039b56c3e0decbb3606ba89b15514cf229713"
+      },
+      {
+        "date": "2026-01-27T18:13:43Z",
+        "message": "[Permissions]: Migrate TechCheckRoomAdmin (#40660)\n\n* [Permissions]: Migrate TechCheckRoomAdmin\n\nCo-Authored-By: Claude Sonnet 4.5 <noreply@anthropic.com>\n\n* Update permission references in seeders\n\nCo-Authored-By: Claude Sonnet 4.5 <noreply@anthropic.com>\n\n* Revert changes to old seeder files\n\n---------\n\nCo-authored-by: Claude Sonnet 4.5 <noreply@anthropic.com>",
+        "sha": "168190c913681fd1af2b37431f0aeaea98e2e5f8",
+        "url": "https://github.com/mate-academy/website/commit/168190c913681fd1af2b37431f0aeaea98e2e5f8"
+      },
+      {
+        "date": "2026-01-27T16:47:31Z",
+        "message": "[Permissions]: Migrate TechCheckTemplatesRead (#40671)\n\n* [Permissions]: Migrate TechCheckTemplatesRead\n\nMigrate TechCheckTemplatesRead permission from deprecated enum to new\nevents:ManageTechChecks permission across API, frontend, and E2E.\n\nChanges:\n- Updated API test files to use permissions.EventsManageTechCheck\n- Updated techCheckTemplate.constants.ts permission configuration\n- Migrated E2E fixtures and test data to use eventPermissions.EventsManageTechCheck\n- Removed TechCheckTemplatesRead from deprecated enum files\n- Updated Permissions.config.deprecated.ts to use raw string value\n- Created database migration seeder\n- Fixed ESLint require-await warnings in test file\n\nCo-Authored-By: Claude Sonnet 4.5 <noreply@anthropic.com>\n\n* Fix TechCheckTemplatesRead permission migration\n\n- Fix typo in migration seeder: ManageTechChecks -> ManageTechCheck\n- Update historical seeders to use new permission value events:ManageTechCheck\n- Ensures all seeders grant the correct permission to roles\n\nCo-Authored-By: Claude Sonnet 4.5 <noreply@anthropic.com>\n\n* Fix code quality issues in seeder\n\n- Fix syntax error: mismatched quotes in OLD_RESOURCES constant\n- Fix spelling: RESOURSES -> RESOURCES in constant names\n- Fix spelling: oldResouces -> oldResources parameter name\n\nCo-Authored-By: Claude Sonnet 4.5 <noreply@anthropic.com>\n\n---------\n\nCo-authored-by: Claude Sonnet 4.5 <noreply@anthropic.com>",
+        "sha": "4d329be2345228feab59d5e2c2493c2aa03662c2",
+        "url": "https://github.com/mate-academy/website/commit/4d329be2345228feab59d5e2c2493c2aa03662c2"
+      },
+      {
+        "date": "2026-01-27T16:41:39Z",
+        "message": "[Permissions]: Migrate AllSkeletonsRead (#40661)\n\n* [Permissions]: Migrate AllSkeletonsRead\n\nCo-Authored-By: Claude Sonnet 4.5 <noreply@anthropic.com>\n\n* Fix permission name: use singular ManageEventSkeleton\n\n---------\n\nCo-authored-by: Claude Sonnet 4.5 <noreply@anthropic.com>",
+        "sha": "69018cb1cf60e3c6b4d1ecfabff43b87bebb920b",
+        "url": "https://github.com/mate-academy/website/commit/69018cb1cf60e3c6b4d1ecfabff43b87bebb920b"
+      },
+      {
+        "date": "2026-01-27T16:02:28Z",
+        "message": "[CLI | Permissions]: Add frequent mistakes section and improve verification step (#40870)\n\n* [CLI | Permissions]: Add frequent mistakes section and improve verification step\n\n- Add \"Frequent Mistakes\" section with common migration errors\n- Require separate subagent with fresh context for verification\n- Add detailed verification checklist for the subagent\n\nCo-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>\n\n* [CLI | Permissions]: Update fixing-ci-failures skill documentation\n\n---------\n\nCo-authored-by: Claude Opus 4.5 <noreply@anthropic.com>",
+        "sha": "736e086f4d2b3dcbf71fa715083bbfc16b2663b7",
+        "url": "https://github.com/mate-academy/website/commit/736e086f4d2b3dcbf71fa715083bbfc16b2663b7"
+      },
+      {
+        "date": "2026-01-27T15:53:42Z",
+        "message": "[Permissions]: Migrate TechCheckQuestionCheckphrasesWrite (#40668)\n\n* [Permissions]: Migrate TechCheckQuestionCheckphrasesWrite\n\nCo-Authored-By: Claude Sonnet 4.5 <noreply@anthropic.com>\n\n* Fix typo in permission name: ManageTechChecks -> ManageTechCheck\n\n---------\n\nCo-authored-by: Claude Sonnet 4.5 <noreply@anthropic.com>",
+        "sha": "ac3d99e5a19dfc28894b35eb8c3d7fda73e2fe7d",
+        "url": "https://github.com/mate-academy/website/commit/ac3d99e5a19dfc28894b35eb8c3d7fda73e2fe7d"
+      },
+      {
+        "date": "2026-01-27T15:27:14Z",
+        "message": "[Permissions]: Migrate ArchivedEventsRead (#40659)\n\n* [Permissions]: Migrate ArchivedEventsRead\n\nCo-Authored-By: Claude Sonnet 4.5 <noreply@anthropic.com>\n\n* Trigger CI rerun\n\n---------\n\nCo-authored-by: Claude Sonnet 4.5 <noreply@anthropic.com>",
+        "sha": "f98fcbd2170f2726d5d0bf78bc49ad3acb204352",
+        "url": "https://github.com/mate-academy/website/commit/f98fcbd2170f2726d5d0bf78bc49ad3acb204352"
+      },
+      {
+        "date": "2026-01-27T15:24:33Z",
+        "message": "[Permissions]: Migrate ReferralEventsWrite (#40673)\n\n* [Permissions]: Migrate ReferralEventsWrite\n\nCo-Authored-By: Claude Sonnet 4.5 <noreply@anthropic.com>\n\n* Trigger CI\n\n* Fix typo in permission name: ManageReferralEvents \u2192 ManageReferralEvent\n\nCo-Authored-By: Claude Sonnet 4.5 <noreply@anthropic.com>\n\n* Remove unused ReferralEventsWrite permission instead of migrating\n\n---------\n\nCo-authored-by: Claude Sonnet 4.5 <noreply@anthropic.com>",
+        "sha": "37a162985760683a8287b6d9b35cbd48b243156f",
+        "url": "https://github.com/mate-academy/website/commit/37a162985760683a8287b6d9b35cbd48b243156f"
+      },
+      {
+        "date": "2026-01-27T15:23:24Z",
+        "message": "[Permissions]: Migrate CourseEventSkeletonRead (#40656)\n\n* [Permissions]: Migrate CourseEventSkeletonRead\n\nCo-Authored-By: Claude Sonnet 4.5 <noreply@anthropic.com>\n\n* Update frontend permission constant to new name\n\n* Fix inconsistent permission separator format\n\n---------\n\nCo-authored-by: Claude Sonnet 4.5 <noreply@anthropic.com>",
+        "sha": "f2ed9c86c5245eeb3d93083c1ab7298db0815759",
+        "url": "https://github.com/mate-academy/website/commit/f2ed9c86c5245eeb3d93083c1ab7298db0815759"
+      },
+      {
+        "date": "2026-01-27T15:13:47Z",
+        "message": "[Permissions]: Migrate EventLocationRead (#40676)\n\nCo-authored-by: Claude Sonnet 4.5 <noreply@anthropic.com>",
+        "sha": "2c1aa2664a1eba0ff9441f5771eaec2268e70be9",
+        "url": "https://github.com/mate-academy/website/commit/2c1aa2664a1eba0ff9441f5771eaec2268e70be9"
+      },
+      {
+        "date": "2026-01-27T15:11:25Z",
+        "message": "[Permissions]: Migrate CorporateEventsRead (#40677)\n\n* [Permissions]: Migrate CorporateEventsRead\n\nCo-Authored-By: Claude Sonnet 4.5 <noreply@anthropic.com>\n\n* Trigger CI\n\n---------\n\nCo-authored-by: Claude Sonnet 4.5 <noreply@anthropic.com>",
+        "sha": "c2636f4caa20537e42925e76afc61da388441ddc",
+        "url": "https://github.com/mate-academy/website/commit/c2636f4caa20537e42925e76afc61da388441ddc"
+      },
+      {
+        "date": "2026-01-27T15:09:06Z",
+        "message": "[Permissions]: Migrate ChatWrite (#40680)\n\n* [Permissions]: Migrate ChatWrite permission\n\nCo-Authored-By: Claude Sonnet 4.5 <noreply@anthropic.com>\n\n* Complete ChatWrite permission migration\n\nCo-Authored-By: Claude Sonnet 4.5 <noreply@anthropic.com>\n\n* Fix permission scope case in seeder\n\nCo-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>\n\n* Migrate ChatWrite permission in mobile\n\nCo-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>\n\n* remove duplicated seeder\n\n---------\n\nCo-authored-by: Claude Sonnet 4.5 <noreply@anthropic.com>",
+        "sha": "08f9db49f2772a1c6e69bf1d9665f102cfae68ef",
+        "url": "https://github.com/mate-academy/website/commit/08f9db49f2772a1c6e69bf1d9665f102cfae68ef"
+      },
+      {
+        "date": "2026-01-27T13:58:39Z",
+        "message": "[Permissions]: Migrate GroupEventRead (#40647)\n\nCo-authored-by: Claude Sonnet 4.5 <noreply@anthropic.com>",
+        "sha": "6528f29ccfbebfccd6002746837b22aec9c06a1b",
+        "url": "https://github.com/mate-academy/website/commit/6528f29ccfbebfccd6002746837b22aec9c06a1b"
+      },
+      {
+        "date": "2026-01-27T11:57:24Z",
+        "message": "[FE | Attachment Flow]: Component structure without styles (#40259)\n\nCo-authored-by: Claude Opus 4.5 <noreply@anthropic.com>",
+        "sha": "7f98974003a1ee9878f264b929b41ee817765f69",
+        "url": "https://github.com/mate-academy/website/commit/7f98974003a1ee9878f264b929b41ee817765f69"
+      },
+      {
+        "date": "2026-01-27T11:54:21Z",
+        "message": "[FE | Sentry]: Ignore Vimeo play/pause interruption error (#40882)\n\nCo-authored-by: Claude <noreply@anthropic.com>",
+        "sha": "3b7a0a45e3089510c7f57b2435eb6fa5cf54588d",
+        "url": "https://github.com/mate-academy/website/commit/3b7a0a45e3089510c7f57b2435eb6fa5cf54588d"
+      },
+      {
+        "date": "2026-01-27T11:21:24Z",
+        "message": "[Permissions]: Migrate AutoTechCheckReview to events:ManageAutoTechCheck (#40645)\n\n* [Permissions]: Migrate AutoTechCheckReview to events:ManageAutoTechCheck\n\nCo-Authored-By: Claude Sonnet 4.5 <noreply@anthropic.com>\n\n* fix PR\n\n---------\n\nCo-authored-by: Claude Sonnet 4.5 <noreply@anthropic.com>",
+        "sha": "050d60be8e40ba99690ee899360851774d383b00",
+        "url": "https://github.com/mate-academy/website/commit/050d60be8e40ba99690ee899360851774d383b00"
+      },
+      {
+        "date": "2026-01-26T18:41:18Z",
+        "message": "[Permissions]: Migrate CourseTopicsFullAccess to StudyUnrestrictedAccess (#40641)\n\nReplace CourseTopicsFullAccess permission with StudyUnrestrictedAccess\nacross API services and tests. Update deprecated config to use raw\nstring value. Create migration seeder for database updates.",
+        "sha": "efb353f07c5c7894e12c4961c04652c9d7a3fdba",
+        "url": "https://github.com/mate-academy/website/commit/efb353f07c5c7894e12c4961c04652c9d7a3fdba"
+      },
+      {
+        "date": "2026-01-26T16:55:45Z",
+        "message": "[Permissions]: Migrate LearnVideoRead to lmsEditorManageLearnVideos (#40632)\n\n* [Permissions]: Migrate LearnVideoRead to lmsEditorManageLearnVideos\n\nCo-Authored-By: Claude Sonnet 4.5 <noreply@anthropic.com>\n\n* fix PR\n\n* fix: add LearnVideoWrite permission back to lmsContentChanges tests\n\nThe tests use createCourseTopicVideos which requires LearnVideoWrite\npermission (still deprecated, not migrated yet).\n\n---------\n\nCo-authored-by: Claude Sonnet 4.5 <noreply@anthropic.com>",
+        "sha": "afcb6ead88c5ef2ed7ed962d203a8f8fa0bc4192",
+        "url": "https://github.com/mate-academy/website/commit/afcb6ead88c5ef2ed7ed962d203a8f8fa0bc4192"
+      },
+      {
+        "date": "2026-01-26T16:33:37Z",
+        "message": "[Permissions]: Migrate CourseAchievementsWrite (#40628)\n\n* [Permissions]: Migrate CourseAchievementsWrite\n\nCo-Authored-By: Claude Sonnet 4.5 <noreply@anthropic.com>\n\n* Update list.json: processed PR #40631\n\n---------\n\nCo-authored-by: Claude Sonnet 4.5 <noreply@anthropic.com>",
+        "sha": "35869b0e23a9038e1994cf8a0d14cfbf26b21737",
+        "url": "https://github.com/mate-academy/website/commit/35869b0e23a9038e1994cf8a0d14cfbf26b21737"
+      },
+      {
+        "date": "2026-01-26T13:26:29Z",
+        "message": "[Serverless | Gmail Webhooks]: Fixes after testing (#40785)\n\nCo-authored-by: Claude Opus 4.5 <noreply@anthropic.com>",
+        "sha": "a2c698dc85c0f0a90514782e742c9d5af75ebabe",
+        "url": "https://github.com/mate-academy/website/commit/a2c698dc85c0f0a90514782e742c9d5af75ebabe"
+      },
+      {
+        "date": "2026-01-26T09:55:08Z",
+        "message": "[CLI Tools]: Add emulate-task-progress script and enhance create-user (#40850)\n\nCo-authored-by: Claude Opus 4.5 <noreply@anthropic.com>",
+        "sha": "3d177ed208ef4c68fc9aef308d87581808553208",
+        "url": "https://github.com/mate-academy/website/commit/3d177ed208ef4c68fc9aef308d87581808553208"
+      },
+      {
+        "date": "2026-01-22T14:20:53Z",
+        "message": "[Permissions]: Migrate AllTechCheckEventsAttend (#40653)\n\nCo-authored-by: Claude Sonnet 4.5 <noreply@anthropic.com>",
+        "sha": "e694078e50470d1e7eecb2eefbd3ca921fc21349",
+        "url": "https://github.com/mate-academy/website/commit/e694078e50470d1e7eecb2eefbd3ca921fc21349"
+      },
+      {
+        "date": "2026-01-22T14:18:21Z",
+        "message": "[Permissions]: Migrate HiddenCourseView (#40627)\n\nCo-authored-by: Claude Sonnet 4.5 <noreply@anthropic.com>",
+        "sha": "23a06870f94c62597d8b47f7c083e61fea42da4b",
+        "url": "https://github.com/mate-academy/website/commit/23a06870f94c62597d8b47f7c083e61fea42da4b"
+      },
+      {
+        "date": "2026-01-22T13:36:10Z",
+        "message": "[Serverless | Gmail Webhooks]: Add documentation and helper scripts (#40711)\n\nCo-authored-by: Claude Opus 4.5 <noreply@anthropic.com>",
+        "sha": "1ec4456ee674d11897ff9879e68ce9c6ebecb50b",
+        "url": "https://github.com/mate-academy/website/commit/1ec4456ee674d11897ff9879e68ce9c6ebecb50b"
+      },
+      {
+        "date": "2026-01-22T13:21:10Z",
+        "message": "[Serverless | Gmail Webhooks]: Integrate auto-cancel flow into email processing (#40710)",
+        "sha": "5519ea70208bf9379cf013aa7a4595d2cdfe677d",
+        "url": "https://github.com/mate-academy/website/commit/5519ea70208bf9379cf013aa7a4595d2cdfe677d"
+      },
+      {
+        "date": "2026-01-22T11:47:09Z",
+        "message": "[Serverless | Gmail Webhooks]: Add LLM enhancements and cancellation service (#40709)",
+        "sha": "9184be398180c72016380f3367ac24c787a6ce7b",
+        "url": "https://github.com/mate-academy/website/commit/9184be398180c72016380f3367ac24c787a6ce7b"
+      },
+      {
+        "date": "2026-01-22T10:31:15Z",
+        "message": "[Serverless | Gmail Webhooks]: Add conversation history tracking (#40708)",
+        "sha": "7a380a6ad741a9479d18be0b43f1741fc37962a4",
+        "url": "https://github.com/mate-academy/website/commit/7a380a6ad741a9479d18be0b43f1741fc37962a4"
+      },
+      {
+        "date": "2026-01-21T16:02:01Z",
+        "message": "[Permissions]: Migrate GroupEventWrite (#40646)\n\nCo-authored-by: Claude Sonnet 4.5 <noreply@anthropic.com>",
+        "sha": "593d1a39694244d43928763734aa4cb69d09f219",
+        "url": "https://github.com/mate-academy/website/commit/593d1a39694244d43928763734aa4cb69d09f219"
+      },
+      {
+        "date": "2026-01-21T15:33:01Z",
+        "message": "[Permissions]: Migrate AutoTechCheckAnswer to events:AccessAutoTechCheck (#40643)\n\nCo-authored-by: Claude Sonnet 4.5 <noreply@anthropic.com>",
+        "sha": "1dca2a2e4e28f4da3733bc6fb97d6a3ec23384aa",
+        "url": "https://github.com/mate-academy/website/commit/1dca2a2e4e28f4da3733bc6fb97d6a3ec23384aa"
+      },
+      {
+        "date": "2026-01-21T15:32:44Z",
+        "message": "[Permissions]: Migrate AutoTechCheckRead to events:AccessAutoTechCheck (#40642)\n\nCo-authored-by: Claude Sonnet 4.5 <noreply@anthropic.com>",
+        "sha": "d7a316904c27b15ff39549f42f6e6e84ac6fdc69",
+        "url": "https://github.com/mate-academy/website/commit/d7a316904c27b15ff39549f42f6e6e84ac6fdc69"
+      },
+      {
+        "date": "2026-01-21T15:26:43Z",
+        "message": "[Permissions]: Migrate ModulesFullAccess to StudyUnrestrictedAccess (#40640)\n\nCo-authored-by: Claude Sonnet 4.5 <noreply@anthropic.com>",
+        "sha": "a4e43e61eee233df78de251d8bb93d795662be3b",
+        "url": "https://github.com/mate-academy/website/commit/a4e43e61eee233df78de251d8bb93d795662be3b"
+      },
+      {
+        "date": "2026-01-21T15:26:17Z",
+        "message": "[Permissions]: Migrate CourseCopyFromExisting (#40637)\n\nCo-authored-by: Claude Sonnet 4.5 <noreply@anthropic.com>",
+        "sha": "051fc956d6a8d61b72217867720f581819e2b962",
+        "url": "https://github.com/mate-academy/website/commit/051fc956d6a8d61b72217867720f581819e2b962"
+      },
+      {
+        "date": "2026-01-21T15:26:00Z",
+        "message": "[Permissions]: Migrate ProfessionWrite (#40636)\n\nCo-authored-by: Claude Sonnet 4.5 <noreply@anthropic.com>",
+        "sha": "74d5cc6926c077e8dbf7ab7e23e491c02b2e9912",
+        "url": "https://github.com/mate-academy/website/commit/74d5cc6926c077e8dbf7ab7e23e491c02b2e9912"
+      },
+      {
+        "date": "2026-01-21T15:19:28Z",
+        "message": "[Permissions]: Migrate HiddenModuleView (#40626)",
+        "sha": "fffa4a7ccd42f980eb8ca646c85522200d395c8c",
+        "url": "https://github.com/mate-academy/website/commit/fffa4a7ccd42f980eb8ca646c85522200d395c8c"
+      },
+      {
+        "date": "2026-01-21T15:19:15Z",
+        "message": "[Permissions]: Migrate StudentsGroups to StudyAccessStudentGroup (#40622)",
+        "sha": "c9869e783caacd4f783eaeef93f8a73b3a624268",
+        "url": "https://github.com/mate-academy/website/commit/c9869e783caacd4f783eaeef93f8a73b3a624268"
+      },
+      {
+        "date": "2026-01-20T16:16:56Z",
+        "message": "[API | Permissions]: Fix migration helper to check before insert (#40742)\n\nCo-authored-by: Claude Opus 4.5 <noreply@anthropic.com>",
+        "sha": "95090d77b92dc7fd4a6524a2a0c442fffc47c027",
+        "url": "https://github.com/mate-academy/website/commit/95090d77b92dc7fd4a6524a2a0c442fffc47c027"
+      },
+      {
+        "date": "2026-01-20T16:15:05Z",
+        "message": "[API | Support Bot]: Add cancelSubscriptionForSupportBot mutation (#40707)\n\n* [API | Support Bot]: Add cancelSubscriptionForSupportBot mutation\n\n- Add EventInitiatorType enum (USER, SERVICE, SERVICE_BOT)\n- Add cancelSubscriptionForSupportBot mutation with initiator tracking\n- Extend getUserDataForSupportBot query with subscription plan details\n- Add CancelSubscriptionForSupportBot use case\n- Update subscription service to accept initiator parameter\n- Add integration test for the resolver\n\n* Add remaining generated GraphQL files and update OpenSpec tasks\n\n- Include generated types for frontend, frontend-landings, mobile, and serverless\n- Mark OpenSpec tasks as completed\n\n* Add authentication and permission check to cancelSubscriptionForSupportBot\n\n- Enable auth requirement in resolver\n- Add subscription:ManageSubscription permission check in use case\n- Simplify subscription cancellation logic (only set active=false)\n\nCo-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>\n\n* Fix integration test to use authenticated client with permission\n\n- Use retrieveUserAuthData() instead of global.client() for authentication\n- Grant SubscriptionManageSubscription permission to test user\n- Remove incorrect expired: true expectations (service only sets active: false)\n\nCo-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>\n\n* Update fixing-ci-failures skill with better guidance\n\n- Add section to review branch changes first\n- Add mass test failures strategy (look for common root cause)\n- Add guidance to use Allure commands instead of GitHub job logs for test failures\n- Update workflow to emphasize reviewing branch changes\n\nCo-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>\n\n---------\n\nCo-authored-by: Claude Opus 4.5 <noreply@anthropic.com>",
+        "sha": "ce35a7587c1c3848e2ce19252d92ad55bb5afca6",
+        "url": "https://github.com/mate-academy/website/commit/ce35a7587c1c3848e2ce19252d92ad55bb5afca6"
+      },
+      {
+        "date": "2026-01-20T13:42:41Z",
+        "message": "[INF | Claude Code]: Small improvements for Claude Code usage (#40728)",
+        "sha": "0d997843dc6606e31d539b003f1ab4daea05257d",
+        "url": "https://github.com/mate-academy/website/commit/0d997843dc6606e31d539b003f1ab4daea05257d"
+      },
+      {
+        "date": "2026-01-20T13:29:32Z",
+        "message": "[Permissions]: Migrate CourseTopicsRead (#40621)",
+        "sha": "c3582fe7c3c3c3a3cba54f1e567440a36287ed55",
+        "url": "https://github.com/mate-academy/website/commit/c3582fe7c3c3c3a3cba54f1e567440a36287ed55"
+      },
+      {
+        "date": "2026-01-20T10:23:25Z",
+        "message": "[Serverless | Gmail Webhooks]: Add OpenSpec proposal for auto-cancel subscriptions (#40691)\n\nCo-authored-by: Claude Opus 4.5 <noreply@anthropic.com>",
+        "sha": "0e12ffec7cb9fac66fee83619c0a37ed1df37d8f",
+        "url": "https://github.com/mate-academy/website/commit/0e12ffec7cb9fac66fee83619c0a37ed1df37d8f"
+      },
+      {
+        "date": "2026-01-20T02:24:06Z",
+        "message": "[Permissions]: Migrate GroupDashboardView (#40624)\n\n[Permissions]: Migrate GroupDashboardView permission",
+        "sha": "f4a51eda9f57e6337209b7e551434041a80442a5",
+        "url": "https://github.com/mate-academy/website/commit/f4a51eda9f57e6337209b7e551434041a80442a5"
+      },
+      {
+        "date": "2026-01-19T19:37:43Z",
+        "message": "[Permissions]: Migrate TechCheckEventWrite (#40658)\n\nCo-authored-by: Claude Sonnet 4.5 <noreply@anthropic.com>",
+        "sha": "33fcfe5994b3a71caace03f432b7721c396dad8a",
+        "url": "https://github.com/mate-academy/website/commit/33fcfe5994b3a71caace03f432b7721c396dad8a"
+      },
+      {
+        "date": "2026-01-19T18:33:56Z",
+        "message": "[CLI | Tooling]: Add PR tools, Ralph-TS, and Claude skills for CI automation (#40704)",
+        "sha": "62d9ba964c12d1c4b911b48d8fa4492dd4eaed86",
+        "url": "https://github.com/mate-academy/website/commit/62d9ba964c12d1c4b911b48d8fa4492dd4eaed86"
+      },
+      {
+        "date": "2026-01-18T10:23:20Z",
+        "message": "[INCH | B2B Organizations]: Add ability to extend user subscription (#40522)\n\nCo-authored-by: Claude Opus 4.5 <noreply@anthropic.com>",
+        "sha": "3060fc9f5b9bb1255b5cd7ab85ff233fbeaa6c71",
+        "url": "https://github.com/mate-academy/website/commit/3060fc9f5b9bb1255b5cd7ab85ff233fbeaa6c71"
+      },
+      {
+        "date": "2026-01-18T08:33:43Z",
+        "message": "[CLI | Permissions]: Fix Ralph loop error handling and add resume support (#40634)",
+        "sha": "0e5a75242154c39fa834ae0a3a3cac28950bb36a",
+        "url": "https://github.com/mate-academy/website/commit/0e5a75242154c39fa834ae0a3a3cac28950bb36a"
+      },
+      {
+        "date": "2026-01-17T16:34:55Z",
+        "message": "[CLI | Permissions]: Improve migrate_permission command and add Ralph loop (#40618)",
+        "sha": "8d5bf8a3671acfd812c93a8307d3025dea63d7cb",
+        "url": "https://github.com/mate-academy/website/commit/8d5bf8a3671acfd812c93a8307d3025dea63d7cb"
+      },
+      {
+        "date": "2026-01-17T15:43:15Z",
+        "message": "[Infrastructure]: Claude Code improvements (#40608)\n\nCo-authored-by: Claude Opus 4.5 <noreply@anthropic.com>",
+        "sha": "6d35bd1e348d59408bf9bd9eae449800e11d6c37",
+        "url": "https://github.com/mate-academy/website/commit/6d35bd1e348d59408bf9bd9eae449800e11d6c37"
+      }
+    ],
+    "mate-academy/website-detect-jobs-to-run": [
+      {
+        "date": "2026-01-29T17:06:38Z",
+        "message": "Add modified_frontend_scss_files output (#81)\n\nCo-authored-by: Claude Opus 4.5 <noreply@anthropic.com>",
+        "sha": "a459a2c459a5cb9aa6506a70a814d4a73227b961",
+        "url": "https://github.com/mate-academy/website-detect-jobs-to-run/commit/a459a2c459a5cb9aa6506a70a814d4a73227b961"
+      }
+    ]
+  }
+}
