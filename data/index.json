@@ -6,6 +6,13 @@
       "file": "2026-01-17_to_2026-01-30.json",
       "pr_count": 94,
       "commit_count": 76
+    },
+    {
+      "start": "2026-01-03",
+      "end": "2026-01-16",
+      "file": "2026-01-03_to_2026-01-16.json",
+      "pr_count": 13,
+      "commit_count": 5
     }
   ]
 }

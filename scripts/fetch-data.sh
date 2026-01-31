@@ -55,19 +55,6 @@ echo "Deduplicating PRs and fetching details..."
 
 OUTPUT_FILE="$DATA_DIR/${START_DATE}_to_${END_DATE}.json"
 
-python3 << 'PYEOF'
-import json
-import subprocess
-import sys
-import time
-import os
-from datetime import datetime, timezone
-
-created_prs_raw = json.loads(r'''PYEOF_PLACEHOLDER_CREATED''')
-merged_prs_raw = json.loads(r'''PYEOF_PLACEHOLDER_MERGED''')
-
-# This will be replaced below; we use a different approach
-PYEOF
 
 # Use a temp file approach for passing large JSON to python
 TMPDIR_WORK=$(mktemp -d)
@@ -280,6 +267,8 @@ new_entry = {
     "start": start_date,
     "end": end_date,
     "file": f"{start_date}_to_{end_date}.json",
+    "pr_count": len(detailed_prs),
+    "commit_count": total_commits,
 }
 
 # Remove existing entry for same period if present
