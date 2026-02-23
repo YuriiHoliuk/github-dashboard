@@ -1,0 +1,3021 @@
+{
+  "user": "YuriiHoliuk",
+  "period_start": "2026-01-31",
+  "period_end": "2026-02-13",
+  "generated_at": "2026-02-23T13:38:18.793009+00:00",
+  "pull_requests": [
+    {
+      "closed_at": "2026-02-19T18:25:30Z",
+      "created_at": "2026-02-13T12:24:59Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/41352",
+      "labels": [
+        "task",
+        "claude-code-assisted"
+      ],
+      "merged_at": "2026-02-19T18:25:30Z",
+      "number": 41352,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "closed",
+      "title": "[E2E | Attachment Flow]: Update E2E tests for redesigned attachment flow UI",
+      "updated_at": "2026-02-20T07:04:16Z",
+      "additions": 1649,
+      "changed_files": 113,
+      "comments": 1,
+      "deletions": 821,
+      "merge_commit_sha": "5642a740775e99ee01ea701cdb6a0bab2deef9a2",
+      "merged": true,
+      "review_comments": 0
+    },
+    {
+      "closed_at": "2026-02-15T11:14:11Z",
+      "created_at": "2026-02-13T04:48:03Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/41345",
+      "labels": [
+        "task"
+      ],
+      "merged_at": "2026-02-15T11:14:11Z",
+      "number": 41345,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "closed",
+      "title": "[FE | Attachment Flow]: Add mobile view with 2 tabs, collapsible status history, and task footer",
+      "updated_at": "2026-02-15T11:14:13Z",
+      "additions": 483,
+      "changed_files": 33,
+      "comments": 1,
+      "deletions": 96,
+      "merge_commit_sha": "7040b5ca1d392321662f63920a9ceab43c3ad1fa",
+      "merged": true,
+      "review_comments": 3
+    },
+    {
+      "closed_at": "2026-02-13T14:54:09Z",
+      "created_at": "2026-02-12T20:21:23Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/41344",
+      "labels": [
+        "task"
+      ],
+      "merged_at": "2026-02-13T14:54:09Z",
+      "number": 41344,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "closed",
+      "title": "[FE | Attachment Flow]: Add status history sidebar styles and components",
+      "updated_at": "2026-02-13T14:54:13Z",
+      "additions": 1011,
+      "changed_files": 27,
+      "comments": 1,
+      "deletions": 378,
+      "merge_commit_sha": "11448639a95cd49df38600f0563ca7264cc54c86",
+      "merged": true,
+      "review_comments": 0
+    },
+    {
+      "closed_at": "2026-02-13T07:36:56Z",
+      "created_at": "2026-02-12T15:09:57Z",
+      "draft": false,
+      "html_url": "https://github.com/YuriiHoliuk/budget-sync/pull/2",
+      "labels": [],
+      "merged_at": "2026-02-13T07:36:56Z",
+      "number": 2,
+      "repo_url": "https://api.github.com/repos/YuriiHoliuk/budget-sync",
+      "state": "closed",
+      "title": "Phase 2: Drop old budget columns",
+      "updated_at": "2026-02-13T07:36:56Z",
+      "additions": 30,
+      "changed_files": 5,
+      "comments": 0,
+      "deletions": 118,
+      "merge_commit_sha": "47c5b991b5c79c52a880cc5797b48052d249efb7",
+      "merged": true,
+      "review_comments": 0
+    },
+    {
+      "closed_at": "2026-02-12T15:12:04Z",
+      "created_at": "2026-02-12T14:52:37Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/41318",
+      "labels": [
+        "task"
+      ],
+      "merged_at": "2026-02-12T15:12:04Z",
+      "number": 41318,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "closed",
+      "title": "[CI | API Coverage]: Exclude models from diff coverage check",
+      "updated_at": "2026-02-12T15:12:06Z",
+      "additions": 5,
+      "changed_files": 1,
+      "comments": 1,
+      "deletions": 17,
+      "merge_commit_sha": "e4f4161c68bcf09c9ebae05b95dbf3c5a54d8ff2",
+      "merged": true,
+      "review_comments": 0
+    },
+    {
+      "closed_at": "2026-02-12T14:46:47Z",
+      "created_at": "2026-02-12T14:42:32Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/41316",
+      "labels": [
+        "task"
+      ],
+      "merged_at": "2026-02-12T14:46:47Z",
+      "number": 41316,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "closed",
+      "title": "[CI | API Coverage]: Skip diff coverage check on master push events",
+      "updated_at": "2026-02-12T14:46:49Z",
+      "additions": 1,
+      "changed_files": 1,
+      "comments": 1,
+      "deletions": 0,
+      "merge_commit_sha": "3ef649039587b3cbb0d30c76dc7fed273f6625b4",
+      "merged": true,
+      "review_comments": 2
+    },
+    {
+      "closed_at": "2026-02-12T12:38:06Z",
+      "created_at": "2026-02-12T12:26:58Z",
+      "draft": false,
+      "html_url": "https://github.com/YuriiHoliuk/budget-sync/pull/1",
+      "labels": [],
+      "merged_at": "2026-02-12T12:38:06Z",
+      "number": 1,
+      "repo_url": "https://api.github.com/repos/YuriiHoliuk/budget-sync",
+      "state": "closed",
+      "title": "Phase 1: Add new schema columns with backward compatibility",
+      "updated_at": "2026-02-12T12:38:06Z",
+      "additions": 9375,
+      "changed_files": 113,
+      "comments": 0,
+      "deletions": 1668,
+      "merge_commit_sha": "e2497637fae46942449143001002efc6cb390aa5",
+      "merged": true,
+      "review_comments": 0
+    },
+    {
+      "closed_at": null,
+      "created_at": "2026-02-10T20:22:26Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/41263",
+      "labels": [],
+      "merged_at": null,
+      "number": 41263,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "open",
+      "title": "[Permissions]: Migrate CareerDevelopmentRequestAccess",
+      "updated_at": "2026-02-10T20:22:33Z",
+      "additions": 26,
+      "changed_files": 8,
+      "comments": 1,
+      "deletions": 13,
+      "merge_commit_sha": "46a941e357df779a6dcbf1704dfaaa2660a962ae",
+      "merged": false,
+      "review_comments": 0
+    },
+    {
+      "closed_at": null,
+      "created_at": "2026-02-10T20:08:07Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/41262",
+      "labels": [],
+      "merged_at": null,
+      "number": 41262,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "open",
+      "title": "[Permissions]: Migrate PartnershipVacancyStatusHistoryAccess",
+      "updated_at": "2026-02-10T20:08:14Z",
+      "additions": 4,
+      "changed_files": 5,
+      "comments": 1,
+      "deletions": 70,
+      "merge_commit_sha": "548dd0427d534f86f452ed4ee06ec5309f91a01b",
+      "merged": false,
+      "review_comments": 0
+    },
+    {
+      "closed_at": null,
+      "created_at": "2026-02-10T19:54:24Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/41261",
+      "labels": [],
+      "merged_at": null,
+      "number": 41261,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "open",
+      "title": "[Permissions]: Migrate ReParseVacancies",
+      "updated_at": "2026-02-10T19:54:31Z",
+      "additions": 19,
+      "changed_files": 7,
+      "comments": 1,
+      "deletions": 11,
+      "merge_commit_sha": "9a6185c3b08f91e29a41ce53339d1aafc2e41eff",
+      "merged": false,
+      "review_comments": 0
+    },
+    {
+      "closed_at": null,
+      "created_at": "2026-02-10T19:30:31Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/41259",
+      "labels": [],
+      "merged_at": null,
+      "number": 41259,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "open",
+      "title": "[Permissions]: Migrate MarketSalaryWrite",
+      "updated_at": "2026-02-10T19:30:38Z",
+      "additions": 16,
+      "changed_files": 6,
+      "comments": 1,
+      "deletions": 10,
+      "merge_commit_sha": "466767ded157444360a8c0b058ab8de060c13bf3",
+      "merged": false,
+      "review_comments": 0
+    },
+    {
+      "closed_at": null,
+      "created_at": "2026-02-10T18:10:29Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/41257",
+      "labels": [],
+      "merged_at": null,
+      "number": 41257,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "open",
+      "title": "[Permissions]: Migrate UpdatePrivateCompaniesField",
+      "updated_at": "2026-02-10T18:10:35Z",
+      "additions": 16,
+      "changed_files": 7,
+      "comments": 1,
+      "deletions": 10,
+      "merge_commit_sha": "a98fedbd5806e3bd12372e5690ab90b6dc65fc7c",
+      "merged": false,
+      "review_comments": 0
+    },
+    {
+      "closed_at": null,
+      "created_at": "2026-02-10T17:55:54Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/41256",
+      "labels": [],
+      "merged_at": null,
+      "number": 41256,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "open",
+      "title": "[Permissions]: Migrate ViewPrivateCompaniesField",
+      "updated_at": "2026-02-10T17:56:02Z",
+      "additions": 15,
+      "changed_files": 7,
+      "comments": 1,
+      "deletions": 9,
+      "merge_commit_sha": "ce014d8b6d8269a480f6d825824181b2341837af",
+      "merged": false,
+      "review_comments": 0
+    },
+    {
+      "closed_at": null,
+      "created_at": "2026-02-10T17:00:35Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/41254",
+      "labels": [
+        "task"
+      ],
+      "merged_at": null,
+      "number": 41254,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "open",
+      "title": "[Permissions]: Migrate ReadPermissions",
+      "updated_at": "2026-02-13T02:23:10Z",
+      "additions": 409,
+      "changed_files": 39,
+      "comments": 2,
+      "deletions": 79,
+      "merge_commit_sha": "f1ddef3b12d02a09b06c73990088f79ad8a2d427",
+      "merged": false,
+      "review_comments": 0
+    },
+    {
+      "closed_at": null,
+      "created_at": "2026-02-10T16:18:44Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/41253",
+      "labels": [],
+      "merged_at": null,
+      "number": 41253,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "open",
+      "title": "[Permissions]: Migrate PaymentRefundWrite",
+      "updated_at": "2026-02-10T16:18:51Z",
+      "additions": 28,
+      "changed_files": 12,
+      "comments": 1,
+      "deletions": 17,
+      "merge_commit_sha": "5b7bdce18f993cb8f14cc63df0ca2dca3b794c99",
+      "merged": false,
+      "review_comments": 0
+    },
+    {
+      "closed_at": null,
+      "created_at": "2026-02-10T15:41:01Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/41249",
+      "labels": [
+        "task"
+      ],
+      "merged_at": null,
+      "number": 41249,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "open",
+      "title": "[Permissions]: Migrate ContentChangesRevert",
+      "updated_at": "2026-02-10T15:43:35Z",
+      "additions": 2,
+      "changed_files": 2,
+      "comments": 1,
+      "deletions": 2,
+      "merge_commit_sha": "e138e8889219a63d3f08c555b7ff127217fefbe3",
+      "merged": false,
+      "review_comments": 0
+    },
+    {
+      "closed_at": null,
+      "created_at": "2026-02-10T15:28:38Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/41248",
+      "labels": [],
+      "merged_at": null,
+      "number": 41248,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "open",
+      "title": "[Permissions]: Migrate PartnershipRecommendedStudentsAccess",
+      "updated_at": "2026-02-10T15:59:04Z",
+      "additions": 20,
+      "changed_files": 6,
+      "comments": 1,
+      "deletions": 14,
+      "merge_commit_sha": "80242f359efec6a23dc8504d5d391c2461c61f2b",
+      "merged": false,
+      "review_comments": 0
+    },
+    {
+      "closed_at": null,
+      "created_at": "2026-02-10T15:14:21Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/41244",
+      "labels": [],
+      "merged_at": null,
+      "number": 41244,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "open",
+      "title": "[Permissions]: Migrate PartnershipVacanciesAccess",
+      "updated_at": "2026-02-10T15:38:37Z",
+      "additions": 20,
+      "changed_files": 6,
+      "comments": 1,
+      "deletions": 12,
+      "merge_commit_sha": "e96d5dc9e76c007515897a8cf9b0c77c5d7500b3",
+      "merged": false,
+      "review_comments": 0
+    },
+    {
+      "closed_at": null,
+      "created_at": "2026-02-10T14:57:04Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/41241",
+      "labels": [],
+      "merged_at": null,
+      "number": 41241,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "open",
+      "title": "[Permissions]: Migrate UserPaymentsRead",
+      "updated_at": "2026-02-12T11:18:33Z",
+      "additions": 315,
+      "changed_files": 68,
+      "comments": 1,
+      "deletions": 341,
+      "merge_commit_sha": null,
+      "merged": false,
+      "review_comments": 0
+    },
+    {
+      "closed_at": null,
+      "created_at": "2026-02-10T13:08:28Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/41235",
+      "labels": [],
+      "merged_at": null,
+      "number": 41235,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "open",
+      "title": "[Permissions]: Migrate VacanciesUse",
+      "updated_at": "2026-02-12T23:43:28Z",
+      "additions": 638,
+      "changed_files": 171,
+      "comments": 1,
+      "deletions": 743,
+      "merge_commit_sha": null,
+      "merged": false,
+      "review_comments": 0
+    },
+    {
+      "closed_at": null,
+      "created_at": "2026-02-10T12:41:45Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/41229",
+      "labels": [
+        "task"
+      ],
+      "merged_at": null,
+      "number": 41229,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "open",
+      "title": "[Permissions]: Migrate BankCurrencyRateWrite",
+      "updated_at": "2026-02-12T22:54:24Z",
+      "additions": 195,
+      "changed_files": 8,
+      "comments": 2,
+      "deletions": 12,
+      "merge_commit_sha": "5c02ad8553223de247f805c52b9ced736d2a3d64",
+      "merged": false,
+      "review_comments": 0
+    },
+    {
+      "closed_at": null,
+      "created_at": "2026-02-10T12:23:53Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/41226",
+      "labels": [
+        "task"
+      ],
+      "merged_at": null,
+      "number": 41226,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "open",
+      "title": "[Permissions]: Migrate PaymentSkipWrite",
+      "updated_at": "2026-02-12T20:14:13Z",
+      "additions": 21,
+      "changed_files": 5,
+      "comments": 1,
+      "deletions": 14,
+      "merge_commit_sha": "a5f81afee5788b32637fa0a9ad87ddc9b3b6ea7d",
+      "merged": false,
+      "review_comments": 0
+    },
+    {
+      "closed_at": "2026-02-12T18:31:13Z",
+      "created_at": "2026-02-10T12:02:53Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/41225",
+      "labels": [
+        "task"
+      ],
+      "merged_at": "2026-02-12T18:31:13Z",
+      "number": 41225,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "closed",
+      "title": "[Permissions]: Migrate ManageServiceUsers",
+      "updated_at": "2026-02-12T18:31:14Z",
+      "additions": 18,
+      "changed_files": 7,
+      "comments": 1,
+      "deletions": 9,
+      "merge_commit_sha": "ff842001b800fd297dd8c82c244bbd30d1f2137e",
+      "merged": true,
+      "review_comments": 0
+    },
+    {
+      "closed_at": "2026-02-12T17:21:57Z",
+      "created_at": "2026-02-10T11:46:17Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/41224",
+      "labels": [
+        "task"
+      ],
+      "merged_at": "2026-02-12T17:21:57Z",
+      "number": 41224,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "closed",
+      "title": "[Permissions]: Migrate CourseWrite",
+      "updated_at": "2026-02-12T17:21:58Z",
+      "additions": 0,
+      "changed_files": 0,
+      "comments": 1,
+      "deletions": 0,
+      "merge_commit_sha": "b3a7b32d7f80ab18b9183ef98b0ca1dd5827c01c",
+      "merged": true,
+      "review_comments": 0
+    },
+    {
+      "closed_at": null,
+      "created_at": "2026-02-10T11:10:30Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/41220",
+      "labels": [
+        "task"
+      ],
+      "merged_at": null,
+      "number": 41220,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "open",
+      "title": "[Permissions]: Migrate UpdatePermissions",
+      "updated_at": "2026-02-12T14:17:19Z",
+      "additions": 23,
+      "changed_files": 10,
+      "comments": 1,
+      "deletions": 17,
+      "merge_commit_sha": null,
+      "merged": false,
+      "review_comments": 0
+    },
+    {
+      "closed_at": null,
+      "created_at": "2026-02-10T10:50:13Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/41219",
+      "labels": [
+        "task"
+      ],
+      "merged_at": null,
+      "number": 41219,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "open",
+      "title": "[Permissions]: Migrate VacanciesWrite",
+      "updated_at": "2026-02-12T13:48:03Z",
+      "additions": 28,
+      "changed_files": 12,
+      "comments": 2,
+      "deletions": 22,
+      "merge_commit_sha": "bf5a6e91b79ee97c7528d17b626bb2c9624c50d1",
+      "merged": false,
+      "review_comments": 0
+    },
+    {
+      "closed_at": "2026-02-12T12:47:43Z",
+      "created_at": "2026-02-10T10:27:04Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/41217",
+      "labels": [
+        "task"
+      ],
+      "merged_at": "2026-02-12T12:47:43Z",
+      "number": 41217,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "closed",
+      "title": "[Permissions]: Migrate CompanyAccess",
+      "updated_at": "2026-02-12T12:47:45Z",
+      "additions": 19,
+      "changed_files": 6,
+      "comments": 2,
+      "deletions": 12,
+      "merge_commit_sha": "75e16e159d4faf365eba43675deecdd04613855d",
+      "merged": true,
+      "review_comments": 0
+    },
+    {
+      "closed_at": "2026-02-12T12:08:58Z",
+      "created_at": "2026-02-10T10:11:24Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/41216",
+      "labels": [
+        "task"
+      ],
+      "merged_at": "2026-02-12T12:08:58Z",
+      "number": 41216,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "closed",
+      "title": "[Permissions]: Migrate LoanTransactionsUpdate",
+      "updated_at": "2026-02-12T12:09:00Z",
+      "additions": 15,
+      "changed_files": 7,
+      "comments": 1,
+      "deletions": 8,
+      "merge_commit_sha": "b396338908008bf2871851f21dd28699e327a7c5",
+      "merged": true,
+      "review_comments": 0
+    },
+    {
+      "closed_at": "2026-02-12T11:18:31Z",
+      "created_at": "2026-02-10T06:22:00Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/41214",
+      "labels": [
+        "task"
+      ],
+      "merged_at": "2026-02-12T11:18:31Z",
+      "number": 41214,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "closed",
+      "title": "[Permissions]: Migrate LoanTransactionsRead",
+      "updated_at": "2026-02-12T11:18:34Z",
+      "additions": 15,
+      "changed_files": 7,
+      "comments": 1,
+      "deletions": 8,
+      "merge_commit_sha": "0df2b542cdc578ee6b68160b26275c80b99ed85c",
+      "merged": true,
+      "review_comments": 0
+    },
+    {
+      "closed_at": "2026-02-12T09:50:49Z",
+      "created_at": "2026-02-10T06:09:25Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/41213",
+      "labels": [
+        "task"
+      ],
+      "merged_at": "2026-02-12T09:50:49Z",
+      "number": 41213,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "closed",
+      "title": "[Permissions]: Migrate ContractorsWrite",
+      "updated_at": "2026-02-12T09:50:51Z",
+      "additions": 17,
+      "changed_files": 8,
+      "comments": 2,
+      "deletions": 13,
+      "merge_commit_sha": "d85d22c2d4bb08ff54013a86399a49a08b3c3f39",
+      "merged": true,
+      "review_comments": 0
+    },
+    {
+      "closed_at": "2026-02-12T08:04:11Z",
+      "created_at": "2026-02-10T05:56:57Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/41212",
+      "labels": [
+        "task"
+      ],
+      "merged_at": "2026-02-12T08:04:11Z",
+      "number": 41212,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "closed",
+      "title": "[Permissions]: Migrate ContractorsRead",
+      "updated_at": "2026-02-12T08:04:13Z",
+      "additions": 46,
+      "changed_files": 27,
+      "comments": 2,
+      "deletions": 49,
+      "merge_commit_sha": "b5b7506e728b97c6b5c10cd47a8eacf8901d944e",
+      "merged": true,
+      "review_comments": 0
+    },
+    {
+      "closed_at": "2026-02-12T07:19:53Z",
+      "created_at": "2026-02-10T05:35:55Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/41211",
+      "labels": [
+        "task"
+      ],
+      "merged_at": "2026-02-12T07:19:52Z",
+      "number": 41211,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "closed",
+      "title": "[Permissions]: Migrate ReviewPluginHomeworkDirectLinkAccess",
+      "updated_at": "2026-02-12T07:19:54Z",
+      "additions": 82,
+      "changed_files": 7,
+      "comments": 1,
+      "deletions": 179,
+      "merge_commit_sha": "bcee4e22ce84903a51bcec93dacb8d460af6ebe7",
+      "merged": true,
+      "review_comments": 0
+    },
+    {
+      "closed_at": "2026-02-11T16:25:35Z",
+      "created_at": "2026-02-10T04:51:54Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/41210",
+      "labels": [
+        "task"
+      ],
+      "merged_at": "2026-02-11T16:25:35Z",
+      "number": 41210,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "closed",
+      "title": "[Permissions]: Migrate ContractorsRateRead",
+      "updated_at": "2026-02-11T16:25:38Z",
+      "additions": 62,
+      "changed_files": 23,
+      "comments": 2,
+      "deletions": 31,
+      "merge_commit_sha": "36c3964777cbf9e07942013bbf2cb1287e41aaa4",
+      "merged": true,
+      "review_comments": 0
+    },
+    {
+      "closed_at": "2026-02-11T15:31:10Z",
+      "created_at": "2026-02-10T04:26:16Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/41209",
+      "labels": [
+        "task"
+      ],
+      "merged_at": "2026-02-11T15:31:10Z",
+      "number": 41209,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "closed",
+      "title": "[Permissions]: Migrate WorkingTimeWrite",
+      "updated_at": "2026-02-11T15:31:12Z",
+      "additions": 16,
+      "changed_files": 7,
+      "comments": 2,
+      "deletions": 11,
+      "merge_commit_sha": "c8fbca940458ac350c51f0096b254c5207d3308b",
+      "merged": true,
+      "review_comments": 0
+    },
+    {
+      "closed_at": "2026-02-11T14:34:23Z",
+      "created_at": "2026-02-10T04:11:20Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/41208",
+      "labels": [
+        "task"
+      ],
+      "merged_at": "2026-02-11T14:34:23Z",
+      "number": 41208,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "closed",
+      "title": "[Permissions]: Migrate WorkingTimeRead",
+      "updated_at": "2026-02-11T14:34:25Z",
+      "additions": 23,
+      "changed_files": 10,
+      "comments": 2,
+      "deletions": 13,
+      "merge_commit_sha": "b31f82bb1c5570e137008e1987dc23bdffda7bd5",
+      "merged": true,
+      "review_comments": 0
+    },
+    {
+      "closed_at": null,
+      "created_at": "2026-02-10T03:50:32Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/41207",
+      "labels": [
+        "task"
+      ],
+      "merged_at": null,
+      "number": 41207,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "open",
+      "title": "[Permissions]: Migrate TopicWrite",
+      "updated_at": "2026-02-10T16:00:39Z",
+      "additions": 4,
+      "changed_files": 4,
+      "comments": 1,
+      "deletions": 9,
+      "merge_commit_sha": "e840f9ae7765ef6f01c17037615d89a181a7fdd5",
+      "merged": false,
+      "review_comments": 0
+    },
+    {
+      "closed_at": null,
+      "created_at": "2026-02-10T03:37:17Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/41206",
+      "labels": [],
+      "merged_at": null,
+      "number": 41206,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "open",
+      "title": "[Permissions]: Migrate Timetracker",
+      "updated_at": "2026-02-10T14:06:06Z",
+      "additions": 20,
+      "changed_files": 8,
+      "comments": 1,
+      "deletions": 10,
+      "merge_commit_sha": "ca26fa0f05e665c825e764664a1088b6c512f852",
+      "merged": false,
+      "review_comments": 0
+    },
+    {
+      "closed_at": null,
+      "created_at": "2026-02-10T03:23:41Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/41205",
+      "labels": [],
+      "merged_at": null,
+      "number": 41205,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "open",
+      "title": "[Permissions]: Migrate Impersonate",
+      "updated_at": "2026-02-10T14:05:47Z",
+      "additions": 16,
+      "changed_files": 8,
+      "comments": 1,
+      "deletions": 11,
+      "merge_commit_sha": "9232ba21d73e880947af7a6367c969a2cc66053d",
+      "merged": false,
+      "review_comments": 0
+    },
+    {
+      "closed_at": null,
+      "created_at": "2026-02-10T03:04:01Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/41204",
+      "labels": [],
+      "merged_at": null,
+      "number": 41204,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "open",
+      "title": "[Permissions]: Migrate EnglishDashboardUsers",
+      "updated_at": "2026-02-10T14:05:26Z",
+      "additions": 23,
+      "changed_files": 10,
+      "comments": 1,
+      "deletions": 16,
+      "merge_commit_sha": "c7622040c9547375ce25d66403654dfefa076dca",
+      "merged": false,
+      "review_comments": 0
+    },
+    {
+      "closed_at": null,
+      "created_at": "2026-02-10T02:51:48Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/41203",
+      "labels": [],
+      "merged_at": null,
+      "number": 41203,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "open",
+      "title": "[Permissions]: Migrate CrabEnglishLesson",
+      "updated_at": "2026-02-10T14:05:05Z",
+      "additions": 23,
+      "changed_files": 12,
+      "comments": 1,
+      "deletions": 18,
+      "merge_commit_sha": "991b17c854d2377e76eeadd41778a796a70e819c",
+      "merged": false,
+      "review_comments": 0
+    },
+    {
+      "closed_at": null,
+      "created_at": "2026-02-10T02:34:57Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/41202",
+      "labels": [],
+      "merged_at": null,
+      "number": 41202,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "open",
+      "title": "[Permissions]: Migrate FishEnglishLesson",
+      "updated_at": "2026-02-10T14:04:09Z",
+      "additions": 20,
+      "changed_files": 10,
+      "comments": 1,
+      "deletions": 13,
+      "merge_commit_sha": "87da735f57f9d1b6c36735d18ff15f6bbb46f38f",
+      "merged": false,
+      "review_comments": 0
+    },
+    {
+      "closed_at": null,
+      "created_at": "2026-02-10T02:24:16Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/41201",
+      "labels": [],
+      "merged_at": null,
+      "number": 41201,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "open",
+      "title": "[Permissions]: Migrate TurtleEnglishLesson",
+      "updated_at": "2026-02-10T14:03:22Z",
+      "additions": 21,
+      "changed_files": 11,
+      "comments": 1,
+      "deletions": 15,
+      "merge_commit_sha": "5131f9df58690384177a6c1625a94155d9bea745",
+      "merged": false,
+      "review_comments": 0
+    },
+    {
+      "closed_at": null,
+      "created_at": "2026-02-10T02:10:27Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/41200",
+      "labels": [],
+      "merged_at": null,
+      "number": 41200,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "open",
+      "title": "[Permissions]: Migrate BirdEnglishLesson",
+      "updated_at": "2026-02-10T14:02:17Z",
+      "additions": 51,
+      "changed_files": 14,
+      "comments": 1,
+      "deletions": 40,
+      "merge_commit_sha": "41a5fb07c52311f65e649f0cd73db9b8dede5bc7",
+      "merged": false,
+      "review_comments": 0
+    },
+    {
+      "closed_at": null,
+      "created_at": "2026-02-10T01:47:50Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/41199",
+      "labels": [],
+      "merged_at": null,
+      "number": 41199,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "open",
+      "title": "[Permissions]: Migrate UserLoginCodeWrite",
+      "updated_at": "2026-02-10T18:32:50Z",
+      "additions": 536,
+      "changed_files": 146,
+      "comments": 1,
+      "deletions": 456,
+      "merge_commit_sha": null,
+      "merged": false,
+      "review_comments": 0
+    },
+    {
+      "closed_at": null,
+      "created_at": "2026-02-10T01:37:26Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/41198",
+      "labels": [],
+      "merged_at": null,
+      "number": 41198,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "open",
+      "title": "[Permissions]: Migrate SendMessageBusEvents",
+      "updated_at": "2026-02-10T18:33:09Z",
+      "additions": 15,
+      "changed_files": 8,
+      "comments": 1,
+      "deletions": 9,
+      "merge_commit_sha": "60a9e642855b4f421f84efcb721c2fcc21af25a5",
+      "merged": false,
+      "review_comments": 0
+    },
+    {
+      "closed_at": null,
+      "created_at": "2026-02-10T01:26:22Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/41197",
+      "labels": [],
+      "merged_at": null,
+      "number": 41197,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "open",
+      "title": "[Permissions]: Migrate DeleteAccountActionsWrite",
+      "updated_at": "2026-02-10T14:00:11Z",
+      "additions": 1,
+      "changed_files": 3,
+      "comments": 1,
+      "deletions": 3,
+      "merge_commit_sha": "dc3b094fdde414eb22af7d99b24a47c8311b470f",
+      "merged": false,
+      "review_comments": 0
+    },
+    {
+      "closed_at": null,
+      "created_at": "2026-02-10T01:17:55Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/41196",
+      "labels": [],
+      "merged_at": null,
+      "number": 41196,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "open",
+      "title": "[Permissions]: Migrate DeleteAccountActionsRead",
+      "updated_at": "2026-02-10T14:00:00Z",
+      "additions": 1,
+      "changed_files": 3,
+      "comments": 1,
+      "deletions": 3,
+      "merge_commit_sha": "b60ba29e3950465056911027df7f85cf8855147a",
+      "merged": false,
+      "review_comments": 0
+    },
+    {
+      "closed_at": null,
+      "created_at": "2026-02-10T01:06:54Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/41195",
+      "labels": [],
+      "merged_at": null,
+      "number": 41195,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "open",
+      "title": "[Permissions]: Migrate UserRead",
+      "updated_at": "2026-02-10T13:59:49Z",
+      "additions": 86,
+      "changed_files": 39,
+      "comments": 1,
+      "deletions": 80,
+      "merge_commit_sha": "3ba127f4389d9f0228648984e27cf3298d3b34cc",
+      "merged": false,
+      "review_comments": 0
+    },
+    {
+      "closed_at": null,
+      "created_at": "2026-02-10T00:37:45Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/41194",
+      "labels": [],
+      "merged_at": null,
+      "number": 41194,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "open",
+      "title": "[Permissions]: Migrate UserUpdate",
+      "updated_at": "2026-02-10T13:59:36Z",
+      "additions": 67,
+      "changed_files": 25,
+      "comments": 1,
+      "deletions": 51,
+      "merge_commit_sha": "c38b52c65759b41c3bb371b4fc6b689f249b3a43",
+      "merged": false,
+      "review_comments": 0
+    },
+    {
+      "closed_at": null,
+      "created_at": "2026-02-10T00:11:16Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/41192",
+      "labels": [],
+      "merged_at": null,
+      "number": 41192,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "open",
+      "title": "[Permissions]: Migrate PlatformTheme",
+      "updated_at": "2026-02-10T13:59:23Z",
+      "additions": 1,
+      "changed_files": 2,
+      "comments": 1,
+      "deletions": 2,
+      "merge_commit_sha": "2361e30a734fcd68ad2940e0418a9166c423f0aa",
+      "merged": false,
+      "review_comments": 0
+    },
+    {
+      "closed_at": null,
+      "created_at": "2026-02-10T00:01:14Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/41191",
+      "labels": [],
+      "merged_at": null,
+      "number": 41191,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "open",
+      "title": "[Permissions]: Migrate UpdateUserById",
+      "updated_at": "2026-02-10T13:58:52Z",
+      "additions": 22,
+      "changed_files": 10,
+      "comments": 1,
+      "deletions": 12,
+      "merge_commit_sha": "7db220ecb0afb677f1a07be367f71b1d359860a1",
+      "merged": false,
+      "review_comments": 0
+    },
+    {
+      "closed_at": null,
+      "created_at": "2026-02-09T23:43:09Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/41190",
+      "labels": [],
+      "merged_at": null,
+      "number": 41190,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "open",
+      "title": "[Permissions]: Migrate CallsAccess",
+      "updated_at": "2026-02-10T13:56:42Z",
+      "additions": 17,
+      "changed_files": 5,
+      "comments": 1,
+      "deletions": 8,
+      "merge_commit_sha": "1a84451ac247d0b5ae99651032253ca9df085d0a",
+      "merged": false,
+      "review_comments": 1
+    },
+    {
+      "closed_at": null,
+      "created_at": "2026-02-09T23:28:19Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/41189",
+      "labels": [],
+      "merged_at": null,
+      "number": 41189,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "open",
+      "title": "[Permissions]: Migrate EnglishCourse",
+      "updated_at": "2026-02-10T19:15:24Z",
+      "additions": 336,
+      "changed_files": 94,
+      "comments": 1,
+      "deletions": 302,
+      "merge_commit_sha": null,
+      "merged": false,
+      "review_comments": 1
+    },
+    {
+      "closed_at": null,
+      "created_at": "2026-02-09T23:05:13Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/41188",
+      "labels": [],
+      "merged_at": null,
+      "number": 41188,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "open",
+      "title": "[Permissions]: Migrate StudentsGroupsManage",
+      "updated_at": "2026-02-10T19:15:45Z",
+      "additions": 98,
+      "changed_files": 37,
+      "comments": 1,
+      "deletions": 86,
+      "merge_commit_sha": "2e41c67c834afb972d21573a08024fa87a31aa6b",
+      "merged": false,
+      "review_comments": 1
+    },
+    {
+      "closed_at": null,
+      "created_at": "2026-02-09T22:24:35Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/41187",
+      "labels": [],
+      "merged_at": null,
+      "number": 41187,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "open",
+      "title": "[Permissions]: Migrate PersonalDataRead",
+      "updated_at": "2026-02-10T18:39:55Z",
+      "additions": 192,
+      "changed_files": 47,
+      "comments": 1,
+      "deletions": 176,
+      "merge_commit_sha": "88d0f169ff547ee0346ee8c431e4e54bbc79e774",
+      "merged": false,
+      "review_comments": 1
+    },
+    {
+      "closed_at": null,
+      "created_at": "2026-02-09T22:02:39Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/41186",
+      "labels": [],
+      "merged_at": null,
+      "number": 41186,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "open",
+      "title": "[Permissions]: Migrate ReceiveTaskReview",
+      "updated_at": "2026-02-10T18:40:08Z",
+      "additions": 0,
+      "changed_files": 1,
+      "comments": 1,
+      "deletions": 1,
+      "merge_commit_sha": "2ba89eb2e6d8a5c9796cede9075b745f35de154d",
+      "merged": false,
+      "review_comments": 0
+    },
+    {
+      "closed_at": null,
+      "created_at": "2026-02-09T21:55:59Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/41185",
+      "labels": [],
+      "merged_at": null,
+      "number": 41185,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "open",
+      "title": "[Permissions]: Migrate NotificationsWrite",
+      "updated_at": "2026-02-10T14:21:35Z",
+      "additions": 45,
+      "changed_files": 14,
+      "comments": 1,
+      "deletions": 34,
+      "merge_commit_sha": null,
+      "merged": false,
+      "review_comments": 0
+    },
+    {
+      "closed_at": null,
+      "created_at": "2026-02-09T21:41:16Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/41184",
+      "labels": [],
+      "merged_at": null,
+      "number": 41184,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "open",
+      "title": "[Permissions]: Migrate GrantedSubscriptionWrite",
+      "updated_at": "2026-02-13T03:10:37Z",
+      "additions": 838,
+      "changed_files": 217,
+      "comments": 1,
+      "deletions": 922,
+      "merge_commit_sha": null,
+      "merged": false,
+      "review_comments": 1
+    },
+    {
+      "closed_at": null,
+      "created_at": "2026-02-09T21:30:39Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/41183",
+      "labels": [
+        "task"
+      ],
+      "merged_at": null,
+      "number": 41183,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "open",
+      "title": "[Permissions]: Migrate GrantedSubscriptionRead",
+      "updated_at": "2026-02-13T03:50:45Z",
+      "additions": 135,
+      "changed_files": 30,
+      "comments": 1,
+      "deletions": 101,
+      "merge_commit_sha": null,
+      "merged": false,
+      "review_comments": 0
+    },
+    {
+      "closed_at": null,
+      "created_at": "2026-02-09T21:06:00Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/41182",
+      "labels": [],
+      "merged_at": null,
+      "number": 41182,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "open",
+      "title": "[Permissions]: Migrate SubscriptionUpdate",
+      "updated_at": "2026-02-10T13:42:45Z",
+      "additions": 82,
+      "changed_files": 37,
+      "comments": 1,
+      "deletions": 72,
+      "merge_commit_sha": "13e4117dbe289367a4da350e93e618dec062202e",
+      "merged": false,
+      "review_comments": 0
+    },
+    {
+      "closed_at": "2026-02-12T06:23:14Z",
+      "created_at": "2026-02-09T20:30:53Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/41181",
+      "labels": [
+        "task"
+      ],
+      "merged_at": "2026-02-12T06:23:14Z",
+      "number": 41181,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "closed",
+      "title": "[Permissions]: Migrate CourseTopicTasksRead",
+      "updated_at": "2026-02-12T06:23:16Z",
+      "additions": 0,
+      "changed_files": 2,
+      "comments": 1,
+      "deletions": 2,
+      "merge_commit_sha": "519046d04de2089a45286e62778882bb9a308c73",
+      "merged": true,
+      "review_comments": 0
+    },
+    {
+      "closed_at": "2026-02-11T20:14:54Z",
+      "created_at": "2026-02-09T19:54:27Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/41179",
+      "labels": [
+        "task"
+      ],
+      "merged_at": "2026-02-11T20:14:54Z",
+      "number": 41179,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "closed",
+      "title": "[Permissions]: Migrate SubscriptionPurchaseLinkWrite",
+      "updated_at": "2026-02-11T20:14:56Z",
+      "additions": 38,
+      "changed_files": 18,
+      "comments": 1,
+      "deletions": 32,
+      "merge_commit_sha": "882092d814d48a45c966dc6339162379804179f1",
+      "merged": true,
+      "review_comments": 0
+    },
+    {
+      "closed_at": "2026-02-11T18:55:46Z",
+      "created_at": "2026-02-09T19:36:32Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/41177",
+      "labels": [
+        "task"
+      ],
+      "merged_at": "2026-02-11T18:55:46Z",
+      "number": 41177,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "closed",
+      "title": "[Permissions]: Migrate SubscriptionPurchaseLinkRead",
+      "updated_at": "2026-02-11T18:55:49Z",
+      "additions": 15,
+      "changed_files": 8,
+      "comments": 1,
+      "deletions": 8,
+      "merge_commit_sha": "489ce719db9ce9dbcf13bd1029d246fad1b70a87",
+      "merged": true,
+      "review_comments": 0
+    },
+    {
+      "closed_at": null,
+      "created_at": "2026-02-09T19:21:32Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/41176",
+      "labels": [
+        "task"
+      ],
+      "merged_at": null,
+      "number": 41176,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "open",
+      "title": "[Permissions]: Migrate ChatParticipantImpersonate",
+      "updated_at": "2026-02-11T12:21:22Z",
+      "additions": 8,
+      "changed_files": 7,
+      "comments": 1,
+      "deletions": 239,
+      "merge_commit_sha": "4cf268038d5d4e3ad08c16eaccde0697b505ac9e",
+      "merged": false,
+      "review_comments": 0
+    },
+    {
+      "closed_at": "2026-02-11T11:44:05Z",
+      "created_at": "2026-02-09T19:01:07Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/41175",
+      "labels": [
+        "task"
+      ],
+      "merged_at": "2026-02-11T11:44:05Z",
+      "number": 41175,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "closed",
+      "title": "[Permissions]: Migrate ChatGuidelineWrite",
+      "updated_at": "2026-02-11T11:44:07Z",
+      "additions": 20,
+      "changed_files": 11,
+      "comments": 1,
+      "deletions": 20,
+      "merge_commit_sha": "66cc0c9d47e96c91ea70f61a6e4f862e20948464",
+      "merged": true,
+      "review_comments": 0
+    },
+    {
+      "closed_at": "2026-02-11T10:28:14Z",
+      "created_at": "2026-02-09T18:48:34Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/41174",
+      "labels": [
+        "task"
+      ],
+      "merged_at": "2026-02-11T10:28:14Z",
+      "number": 41174,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "closed",
+      "title": "[Permissions]: Migrate ChatGuidelineRead",
+      "updated_at": "2026-02-11T10:28:16Z",
+      "additions": 31,
+      "changed_files": 11,
+      "comments": 1,
+      "deletions": 22,
+      "merge_commit_sha": "1ddc03b3523564ae220c896aa10c8ae0ed9b2831",
+      "merged": true,
+      "review_comments": 0
+    },
+    {
+      "closed_at": "2026-02-11T09:24:23Z",
+      "created_at": "2026-02-09T18:33:02Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/41171",
+      "labels": [
+        "task"
+      ],
+      "merged_at": "2026-02-11T09:24:23Z",
+      "number": 41171,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "closed",
+      "title": "[Permissions]: Migrate ChatGuidelineMessageWrite",
+      "updated_at": "2026-02-11T09:24:25Z",
+      "additions": 19,
+      "changed_files": 13,
+      "comments": 1,
+      "deletions": 19,
+      "merge_commit_sha": "bacccebaaa7c756242b4a180c07da9c21fe4c60a",
+      "merged": true,
+      "review_comments": 0
+    },
+    {
+      "closed_at": "2026-02-11T08:15:37Z",
+      "created_at": "2026-02-09T18:18:23Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/41170",
+      "labels": [
+        "task"
+      ],
+      "merged_at": "2026-02-11T08:15:37Z",
+      "number": 41170,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "closed",
+      "title": "[Permissions]: Migrate ChatGuidelineMessageRead",
+      "updated_at": "2026-02-11T08:15:39Z",
+      "additions": 33,
+      "changed_files": 15,
+      "comments": 1,
+      "deletions": 30,
+      "merge_commit_sha": "49d999ee6441f860c34f9d85abb7d0d697830100",
+      "merged": true,
+      "review_comments": 0
+    },
+    {
+      "closed_at": "2026-02-10T21:12:34Z",
+      "created_at": "2026-02-09T17:54:09Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/41169",
+      "labels": [
+        "task"
+      ],
+      "merged_at": "2026-02-10T21:12:34Z",
+      "number": 41169,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "closed",
+      "title": "[Permissions]: Migrate ChatMessagesRead",
+      "updated_at": "2026-02-10T21:12:36Z",
+      "additions": 60,
+      "changed_files": 19,
+      "comments": 2,
+      "deletions": 58,
+      "merge_commit_sha": "488fe4fa16c9bfdd8999db3aa0f8a7908401f21b",
+      "merged": true,
+      "review_comments": 0
+    },
+    {
+      "closed_at": "2026-02-10T11:20:08Z",
+      "created_at": "2026-02-09T17:27:58Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/41168",
+      "labels": [
+        "task"
+      ],
+      "merged_at": "2026-02-10T11:20:08Z",
+      "number": 41168,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "closed",
+      "title": "[Permissions]: Migrate ChatMessageWrite",
+      "updated_at": "2026-02-10T11:20:10Z",
+      "additions": 93,
+      "changed_files": 38,
+      "comments": 2,
+      "deletions": 104,
+      "merge_commit_sha": "2057af44b4cdcb27e808b8e77242ff6bdd384578",
+      "merged": true,
+      "review_comments": 0
+    },
+    {
+      "closed_at": "2026-02-10T09:18:38Z",
+      "created_at": "2026-02-09T16:56:50Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/41166",
+      "labels": [
+        "task"
+      ],
+      "merged_at": "2026-02-10T09:18:38Z",
+      "number": 41166,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "closed",
+      "title": "[Permissions]: Migrate CourseWrite",
+      "updated_at": "2026-02-10T09:18:41Z",
+      "additions": 129,
+      "changed_files": 43,
+      "comments": 1,
+      "deletions": 101,
+      "merge_commit_sha": "4ce0f119393760dbc3bafe18593063b8959b42d2",
+      "merged": true,
+      "review_comments": 0
+    },
+    {
+      "closed_at": "2026-02-09T11:13:14Z",
+      "created_at": "2026-02-09T10:30:34Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/41156",
+      "labels": [
+        "task"
+      ],
+      "merged_at": "2026-02-09T11:13:14Z",
+      "number": 41156,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "closed",
+      "title": "[DX]: Update PR skill and init scripts for Claude Code setup",
+      "updated_at": "2026-02-09T11:13:16Z",
+      "additions": 116,
+      "changed_files": 3,
+      "comments": 1,
+      "deletions": 6,
+      "merge_commit_sha": "4f0079f22248c79cdef27ba62c8446c437afa333",
+      "merged": true,
+      "review_comments": 0
+    },
+    {
+      "closed_at": "2026-02-12T12:18:37Z",
+      "created_at": "2026-02-09T09:02:48Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/41153",
+      "labels": [
+        "task"
+      ],
+      "merged_at": "2026-02-12T12:18:37Z",
+      "number": 41153,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "closed",
+      "title": "[Infra | NGINX Rate Limits]: Add nginxRateLimitMonitor Lambda for unique IP monitoring",
+      "updated_at": "2026-02-12T12:18:39Z",
+      "additions": 20870,
+      "changed_files": 20,
+      "comments": 3,
+      "deletions": 0,
+      "merge_commit_sha": "7e250fd79240f67b0377f05252a4f32644ab463e",
+      "merged": true,
+      "review_comments": 11
+    },
+    {
+      "closed_at": "2026-02-12T13:39:26Z",
+      "created_at": "2026-02-06T13:27:29Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/41135",
+      "labels": [
+        "task"
+      ],
+      "merged_at": "2026-02-12T13:39:25Z",
+      "number": 41135,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "closed",
+      "title": "[CI | API Coverage]: Add 'all' flag to include untested files in coverage",
+      "updated_at": "2026-02-12T13:39:27Z",
+      "additions": 394,
+      "changed_files": 5,
+      "comments": 1,
+      "deletions": 13,
+      "merge_commit_sha": "f593a2d5aeb232715a0ef6cd55f4c7e271be750c",
+      "merged": true,
+      "review_comments": 0
+    },
+    {
+      "closed_at": "2026-02-05T16:17:21Z",
+      "created_at": "2026-02-05T12:43:17Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/41109",
+      "labels": [
+        "task"
+      ],
+      "merged_at": "2026-02-05T16:17:21Z",
+      "number": 41109,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "closed",
+      "title": "[ma-website-api]: Fix production API errors batch",
+      "updated_at": "2026-02-05T16:17:22Z",
+      "additions": 249,
+      "changed_files": 25,
+      "comments": 1,
+      "deletions": 41,
+      "merge_commit_sha": "ecc8db0cd5035120392276312b2525f135dc70b8",
+      "merged": true,
+      "review_comments": 0
+    },
+    {
+      "closed_at": "2026-02-05T12:44:33Z",
+      "created_at": "2026-02-05T11:50:51Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/41107",
+      "labels": [
+        "task"
+      ],
+      "merged_at": "2026-02-05T12:44:33Z",
+      "number": 41107,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "closed",
+      "title": "[Chore | PF-12737]: Remove deprecated .env file support",
+      "updated_at": "2026-02-05T12:44:34Z",
+      "additions": 5,
+      "changed_files": 5,
+      "comments": 1,
+      "deletions": 13,
+      "merge_commit_sha": "1af1312da2a66dfe6959b7b1f5ebd365bba7ef11",
+      "merged": true,
+      "review_comments": 0
+    },
+    {
+      "closed_at": "2026-02-04T22:13:50Z",
+      "created_at": "2026-02-04T19:44:19Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/41091",
+      "labels": [
+        "task"
+      ],
+      "merged_at": "2026-02-04T22:13:50Z",
+      "number": 41091,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "closed",
+      "title": "[On-call]: Fix frontend GraphQL errors triggering PagerDuty",
+      "updated_at": "2026-02-04T22:13:51Z",
+      "additions": 18,
+      "changed_files": 3,
+      "comments": 2,
+      "deletions": 2,
+      "merge_commit_sha": "809b85ac8e5e004f63694382db63fab312eeb854",
+      "merged": true,
+      "review_comments": 0
+    },
+    {
+      "closed_at": "2026-02-04T19:40:45Z",
+      "created_at": "2026-02-04T15:21:30Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/41082",
+      "labels": [],
+      "merged_at": "2026-02-04T19:40:45Z",
+      "number": 41082,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "closed",
+      "title": "[API | Permissions]: Add external_content_manager role with permissions",
+      "updated_at": "2026-02-04T19:40:47Z",
+      "additions": 128,
+      "changed_files": 11,
+      "comments": 1,
+      "deletions": 0,
+      "merge_commit_sha": "c30aef15fceff8cc10b0dceee3e1b5647a3d56d4",
+      "merged": true,
+      "review_comments": 0
+    },
+    {
+      "closed_at": "2026-02-05T10:03:17Z",
+      "created_at": "2026-02-04T13:34:36Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/41077",
+      "labels": [
+        "task"
+      ],
+      "merged_at": "2026-02-05T10:03:17Z",
+      "number": 41077,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "closed",
+      "title": "[CLI Tools | Dev Workflow]: Add multi-service support with make add/stop pattern",
+      "updated_at": "2026-02-05T10:03:18Z",
+      "additions": 1328,
+      "changed_files": 24,
+      "comments": 2,
+      "deletions": 628,
+      "merge_commit_sha": "0f529dcf058437b536a23bda8f26efba08b1953d",
+      "merged": true,
+      "review_comments": 0
+    },
+    {
+      "closed_at": "2026-02-04T13:33:51Z",
+      "created_at": "2026-02-04T13:32:19Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/41076",
+      "labels": [],
+      "merged_at": null,
+      "number": 41076,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "closed",
+      "title": "[CLI Tools | Dev Workflow]: Add multi-service support with make add/stop pattern",
+      "updated_at": "2026-02-04T13:34:16Z",
+      "additions": 1038,
+      "changed_files": 22,
+      "comments": 0,
+      "deletions": 264,
+      "merge_commit_sha": "264f751a3aac8f68727943897d6235c9e73a8417",
+      "merged": false,
+      "review_comments": 0
+    },
+    {
+      "closed_at": "2026-02-04T13:03:02Z",
+      "created_at": "2026-02-04T12:57:19Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/41073",
+      "labels": [
+        "task"
+      ],
+      "merged_at": "2026-02-04T13:03:02Z",
+      "number": 41073,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "closed",
+      "title": "[CI | Spot Termination]: Rename monitor script and update wording for generic job usage",
+      "updated_at": "2026-02-04T13:03:03Z",
+      "additions": 7,
+      "changed_files": 2,
+      "comments": 2,
+      "deletions": 7,
+      "merge_commit_sha": "5c7fb226d440102d83f3d49da40107540e0fc706",
+      "merged": true,
+      "review_comments": 0
+    },
+    {
+      "closed_at": "2026-02-04T13:18:39Z",
+      "created_at": "2026-02-04T12:49:31Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/41072",
+      "labels": [
+        "bug"
+      ],
+      "merged_at": "2026-02-04T13:18:39Z",
+      "number": 41072,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "closed",
+      "title": "[API | TC Bulk Upload]: Fix null checkphrases crash and stale return data",
+      "updated_at": "2026-02-04T13:18:40Z",
+      "additions": 12,
+      "changed_files": 2,
+      "comments": 2,
+      "deletions": 17,
+      "merge_commit_sha": "0fc738c34f4c6968b7321b0cbeafed61152494fa",
+      "merged": true,
+      "review_comments": 0
+    },
+    {
+      "closed_at": "2026-02-04T09:45:00Z",
+      "created_at": "2026-02-04T09:38:41Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/41063",
+      "labels": [
+        "task"
+      ],
+      "merged_at": "2026-02-04T09:45:00Z",
+      "number": 41063,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "closed",
+      "title": "[Claude Skills]: Improve skill instructions for PR workflows and CI debugging",
+      "updated_at": "2026-02-04T09:45:02Z",
+      "additions": 118,
+      "changed_files": 4,
+      "comments": 1,
+      "deletions": 40,
+      "merge_commit_sha": "581948756f52080143b89c95b8712eeed9e78fb4",
+      "merged": true,
+      "review_comments": 0
+    },
+    {
+      "closed_at": "2026-02-04T09:01:48Z",
+      "created_at": "2026-02-04T08:53:09Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/41060",
+      "labels": [
+        "task"
+      ],
+      "merged_at": "2026-02-04T09:01:48Z",
+      "number": 41060,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "closed",
+      "title": "[Translates]: Fix undefined skipFullLanguageListCheck in vacancies uk translates seeder",
+      "updated_at": "2026-02-04T09:01:50Z",
+      "additions": 1,
+      "changed_files": 1,
+      "comments": 1,
+      "deletions": 1,
+      "merge_commit_sha": "9ee2a8f38c050bccd14569ec85b606f67d01c95f",
+      "merged": true,
+      "review_comments": 1
+    },
+    {
+      "closed_at": "2026-02-12T11:16:30Z",
+      "created_at": "2026-02-03T15:45:41Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/41043",
+      "labels": [
+        "task"
+      ],
+      "merged_at": "2026-02-12T11:16:30Z",
+      "number": 41043,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "closed",
+      "title": "[FE | Attachment Flow]: Add step detail cards with mock scenario support",
+      "updated_at": "2026-02-12T11:58:28Z",
+      "additions": 6593,
+      "changed_files": 92,
+      "comments": 1,
+      "deletions": 545,
+      "merge_commit_sha": "23d0ee5ab93e7cc61bfc7f8c0027793f2c5a8f45",
+      "merged": true,
+      "review_comments": 9
+    },
+    {
+      "closed_at": "2026-02-04T09:36:56Z",
+      "created_at": "2026-02-03T15:08:19Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/41042",
+      "labels": [
+        "task"
+      ],
+      "merged_at": "2026-02-04T09:36:56Z",
+      "number": 41042,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "closed",
+      "title": "[CI | Spot Termination]: Add spot instance detection and auto-rerun for build jobs",
+      "updated_at": "2026-02-04T09:36:59Z",
+      "additions": 111,
+      "changed_files": 7,
+      "comments": 1,
+      "deletions": 37,
+      "merge_commit_sha": "dfad8b0a6798c5090011ea9f8a65daaf4f7f39a0",
+      "merged": true,
+      "review_comments": 1
+    },
+    {
+      "closed_at": "2026-02-03T14:45:11Z",
+      "created_at": "2026-02-03T13:46:10Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/41036",
+      "labels": [
+        "task"
+      ],
+      "merged_at": "2026-02-03T14:45:11Z",
+      "number": 41036,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "closed",
+      "title": "[Serverless | Gmail Webhooks]: Fix Greg Wilson refund bug and add integration tests",
+      "updated_at": "2026-02-03T14:45:13Z",
+      "additions": 1454,
+      "changed_files": 17,
+      "comments": 1,
+      "deletions": 47,
+      "merge_commit_sha": "dfadb627dce979c7bcd97ae8e3b30fa113d23309",
+      "merged": true,
+      "review_comments": 0
+    },
+    {
+      "closed_at": "2026-02-02T15:42:39Z",
+      "created_at": "2026-02-02T15:35:06Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/41021",
+      "labels": [
+        "task"
+      ],
+      "merged_at": "2026-02-02T15:42:39Z",
+      "number": 41021,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "closed",
+      "title": "[INF-2962]: Update detect-jobs-to-run to skip built-tag override for PRs",
+      "updated_at": "2026-02-02T15:42:41Z",
+      "additions": 1,
+      "changed_files": 1,
+      "comments": 1,
+      "deletions": 1,
+      "merge_commit_sha": "98683d473df33efad2159d86afa7a41911bc14aa",
+      "merged": true,
+      "review_comments": 0
+    },
+    {
+      "closed_at": "2026-02-02T15:32:55Z",
+      "created_at": "2026-02-02T15:00:13Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website-detect-jobs-to-run/pull/83",
+      "labels": [],
+      "merged_at": "2026-02-02T15:32:55Z",
+      "number": 83,
+      "repo_url": "https://api.github.com/repos/mate-academy/website-detect-jobs-to-run",
+      "state": "closed",
+      "title": "[INF-2962]: Skip built-tag base override for pull requests",
+      "updated_at": "2026-02-02T15:32:57Z",
+      "additions": 24,
+      "changed_files": 4,
+      "comments": 0,
+      "deletions": 13,
+      "merge_commit_sha": "9d8edb12aabf1b6010774badb22b58e078b92540",
+      "merged": true,
+      "review_comments": 0
+    },
+    {
+      "closed_at": "2026-02-02T14:55:18Z",
+      "created_at": "2026-02-02T09:27:56Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/41006",
+      "labels": [
+        "task"
+      ],
+      "merged_at": "2026-02-02T14:55:18Z",
+      "number": 41006,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "closed",
+      "title": "[FE | Tech Check Bulk Upload]: Fix parser errors, restructure checkphrases, add question numbers",
+      "updated_at": "2026-02-02T14:55:20Z",
+      "additions": 1005,
+      "changed_files": 28,
+      "comments": 1,
+      "deletions": 429,
+      "merge_commit_sha": "8a8af88af7674990b0d19208c49693e428f7c26e",
+      "merged": true,
+      "review_comments": 4
+    },
+    {
+      "closed_at": "2026-02-02T11:59:22Z",
+      "created_at": "2026-02-02T09:16:00Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/41005",
+      "labels": [
+        "task"
+      ],
+      "merged_at": "2026-02-02T11:59:22Z",
+      "number": 41005,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "closed",
+      "title": "[Docs]: Replace outdated CDGuideline with current deployment guide",
+      "updated_at": "2026-02-02T11:59:24Z",
+      "additions": 92,
+      "changed_files": 3,
+      "comments": 1,
+      "deletions": 55,
+      "merge_commit_sha": "e283a4b86e9b71671dabd29141ac44fc5c2ae7f6",
+      "merged": true,
+      "review_comments": 0
+    },
+    {
+      "closed_at": "2026-01-31T09:01:01Z",
+      "created_at": "2026-01-31T08:09:24Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/40995",
+      "labels": [
+        "task"
+      ],
+      "merged_at": "2026-01-31T09:01:00Z",
+      "number": 40995,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "closed",
+      "title": "[FE | Tech Check Bulk Upload]: Fix type-safe route usage for question and bulk upload links",
+      "updated_at": "2026-01-31T09:01:01Z",
+      "additions": 6,
+      "changed_files": 2,
+      "comments": 1,
+      "deletions": 4,
+      "merge_commit_sha": "c8474aa25c7dbac6c3145232eb1266a966a3df4d",
+      "merged": true,
+      "review_comments": 0
+    },
+    {
+      "closed_at": "2026-02-02T14:01:16Z",
+      "created_at": "2026-01-29T14:17:28Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/40958",
+      "labels": [
+        "task"
+      ],
+      "merged_at": "2026-02-02T14:01:16Z",
+      "number": 40958,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "closed",
+      "title": "[Platform | Working Time]: Add Work on Content activity type",
+      "updated_at": "2026-02-02T14:01:19Z",
+      "additions": 153,
+      "changed_files": 17,
+      "comments": 2,
+      "deletions": 62,
+      "merge_commit_sha": "f17d98e5b16db5832bb470ea039473b7418a8bde",
+      "merged": true,
+      "review_comments": 0
+    },
+    {
+      "closed_at": "2026-02-06T09:25:13Z",
+      "created_at": "2026-01-29T13:09:31Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/40956",
+      "labels": [
+        "task"
+      ],
+      "merged_at": "2026-02-06T09:25:13Z",
+      "number": 40956,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "closed",
+      "title": "[Permissions]: Migrate TestTaskWrite",
+      "updated_at": "2026-02-06T09:25:14Z",
+      "additions": 82,
+      "changed_files": 37,
+      "comments": 1,
+      "deletions": 71,
+      "merge_commit_sha": "523e90707812697603d8a4a0b63f294c704bf905",
+      "merged": true,
+      "review_comments": 0
+    },
+    {
+      "closed_at": "2026-02-05T15:52:30Z",
+      "created_at": "2026-01-19T03:26:02Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/40679",
+      "labels": [
+        "task"
+      ],
+      "merged_at": "2026-02-05T15:52:29Z",
+      "number": 40679,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "closed",
+      "title": "[Permissions]: Migrate ChatRead",
+      "updated_at": "2026-02-05T15:52:31Z",
+      "additions": 30,
+      "changed_files": 15,
+      "comments": 1,
+      "deletions": 23,
+      "merge_commit_sha": "6229e855131ca268fc837a6ffc93251011ef2986",
+      "merged": true,
+      "review_comments": 0
+    },
+    {
+      "closed_at": "2026-02-05T14:28:13Z",
+      "created_at": "2026-01-19T01:56:49Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/40672",
+      "labels": [
+        "task"
+      ],
+      "merged_at": "2026-02-05T14:28:13Z",
+      "number": 40672,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "closed",
+      "title": "[Permissions]: Migrate TechCheckTemplatesWrite",
+      "updated_at": "2026-02-05T14:28:14Z",
+      "additions": 17,
+      "changed_files": 9,
+      "comments": 1,
+      "deletions": 18,
+      "merge_commit_sha": "2dc0a46dfe3898d1a85efb5a3c108a45fccd5d08",
+      "merged": true,
+      "review_comments": 0
+    },
+    {
+      "closed_at": "2026-02-04T21:29:01Z",
+      "created_at": "2026-01-19T01:31:19Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/40670",
+      "labels": [
+        "task"
+      ],
+      "merged_at": "2026-02-04T21:29:01Z",
+      "number": 40670,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "closed",
+      "title": "[Permissions]: Migrate TechCheckSessionsWrite",
+      "updated_at": "2026-02-04T21:29:02Z",
+      "additions": 18,
+      "changed_files": 10,
+      "comments": 2,
+      "deletions": 18,
+      "merge_commit_sha": "6adc4efac17d67c17b788b98ea8e5db2a7aeab3f",
+      "merged": true,
+      "review_comments": 0
+    },
+    {
+      "closed_at": "2026-02-04T15:14:16Z",
+      "created_at": "2026-01-19T01:18:00Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/40669",
+      "labels": [
+        "task"
+      ],
+      "merged_at": "2026-02-04T15:14:16Z",
+      "number": 40669,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "closed",
+      "title": "[Permissions]: Migrate TechCheckSessionsRead",
+      "updated_at": "2026-02-04T15:14:18Z",
+      "additions": 33,
+      "changed_files": 19,
+      "comments": 2,
+      "deletions": 32,
+      "merge_commit_sha": "57ea713f44476bf72c0f99e1f19a6f9b13273105",
+      "merged": true,
+      "review_comments": 0
+    },
+    {
+      "closed_at": "2026-02-04T11:41:31Z",
+      "created_at": "2026-01-19T00:34:48Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/40666",
+      "labels": [
+        "task"
+      ],
+      "merged_at": "2026-02-04T11:41:31Z",
+      "number": 40666,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "closed",
+      "title": "[Permissions]: Migrate TechCheckTopicsRead",
+      "updated_at": "2026-02-04T11:41:32Z",
+      "additions": 16,
+      "changed_files": 5,
+      "comments": 2,
+      "deletions": 11,
+      "merge_commit_sha": "85515436af942ea91f6879ba5effabdbebfbcea1",
+      "merged": true,
+      "review_comments": 1
+    },
+    {
+      "closed_at": "2026-02-04T09:59:27Z",
+      "created_at": "2026-01-18T23:47:09Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/40662",
+      "labels": [
+        "task"
+      ],
+      "merged_at": "2026-02-04T09:59:27Z",
+      "number": 40662,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "closed",
+      "title": "[Permissions]: Migrate RemoveSkeleton",
+      "updated_at": "2026-02-04T09:59:28Z",
+      "additions": 20,
+      "changed_files": 10,
+      "comments": 1,
+      "deletions": 19,
+      "merge_commit_sha": "29641248129fd6c604a3a5f386708d85b1630790",
+      "merged": true,
+      "review_comments": 1
+    }
+  ],
+  "commits": {
+    "YuriiHoliuk/budget-sync": [
+      {
+        "date": "2026-02-13T07:36:55Z",
+        "message": "Merge pull request #2 from YuriiHoliuk/phase-2-drop-old-budget-columns\n\nPhase 2: Drop old budget columns",
+        "sha": "47c5b991b5c79c52a880cc5797b48052d249efb7",
+        "url": "https://github.com/YuriiHoliuk/budget-sync/commit/47c5b991b5c79c52a880cc5797b48052d249efb7"
+      },
+      {
+        "date": "2026-02-12T15:09:33Z",
+        "message": "Phase 2: Drop old budget columns (type, targetCadence, targetCadenceMonths)\n\n- Add migration 0008 to drop deprecated columns\n- Remove dual-write code from DatabaseBudgetMapper\n- Simplify schema to use only new cadence columns\n- Update tests to remove old column references\n\nThis is a destructive migration that completes the schema cleanup\nstarted in Phase 1. Phase 1 added new columns and backfilled data,\nwhile Phase 2 removes the old columns that are no longer needed.\n\nCo-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>",
+        "sha": "b567030e6073a5ac208602bcc6d07b02aa235809",
+        "url": "https://github.com/YuriiHoliuk/budget-sync/commit/b567030e6073a5ac208602bcc6d07b02aa235809"
+      },
+      {
+        "date": "2026-02-12T12:38:05Z",
+        "message": "Merge pull request #1 from YuriiHoliuk/phase-1-additive-migrations\n\nPhase 1: Add new schema columns with backward compatibility",
+        "sha": "e2497637fae46942449143001002efc6cb390aa5",
+        "url": "https://github.com/YuriiHoliuk/budget-sync/commit/e2497637fae46942449143001002efc6cb390aa5"
+      },
+      {
+        "date": "2026-02-12T12:28:55Z",
+        "message": "Add missing fractional-indexing package\n\nRequired for budget ordering feature.\n\nCo-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>",
+        "sha": "f9690555f8fd55b605d4fa92e7198be18c042018",
+        "url": "https://github.com/YuriiHoliuk/budget-sync/commit/f9690555f8fd55b605d4fa92e7198be18c042018"
+      },
+      {
+        "date": "2026-02-12T12:26:28Z",
+        "message": "Phase 1: Add new schema columns with backward compatibility\n\nAdditive-only migrations for budget system improvements:\n\nSchema Changes:\n- Add cadence_unit and cadence_count columns (keep target_cadence, target_cadence_months)\n- Create budget_targets table for target history tracking\n- Add sort_order column for custom budget ordering\n- Create budget_groups table for budget grouping\n- Keep type column for backward compatibility\n\nCode Changes:\n- Domain entity uses new cadenceUnit/cadenceCount fields\n- DatabaseBudgetMapper implements dual-read (new columns with fallback to old)\n- DatabaseBudgetMapper implements dual-write (writes to both old and new columns)\n- All tests updated for new schema structure\n\nThis is Phase 1 of a two-phase migration. Phase 2 will drop old columns after\nverifying production data is correctly migrated.\n\nCo-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>",
+        "sha": "f2bf398c142e5add27cead4d1025e0932ce4ccc2",
+        "url": "https://github.com/YuriiHoliuk/budget-sync/commit/f2bf398c142e5add27cead4d1025e0932ce4ccc2"
+      },
+      {
+        "date": "2026-02-11T07:30:59Z",
+        "message": "Fix CI change detection: compare against deployed commit SHA\n\nInstead of diffing HEAD~1 (fragile with amended/squashed commits),\nfetch the actual deployed commit SHA from Cloud Run image tags and\ndiff against that. Falls back to deploying when SHA can't be resolved.\n\nCo-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>",
+        "sha": "0d76e1a9b8cfe1e9efbaf325c1b08f7c19dd1503",
+        "url": "https://github.com/YuriiHoliuk/budget-sync/commit/0d76e1a9b8cfe1e9efbaf325c1b08f7c19dd1503"
+      },
+      {
+        "date": "2026-02-10T15:22:32Z",
+        "message": "Fix E2E archive test: add required type field to createTransaction\n\nCo-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>",
+        "sha": "d3dc4eabab572a619d7d226955169022b93733ab",
+        "url": "https://github.com/YuriiHoliuk/budget-sync/commit/d3dc4eabab572a619d7d226955169022b93733ab"
+      },
+      {
+        "date": "2026-02-10T15:15:04Z",
+        "message": "Add budget visibility filtering, expired badges, and archive fund release\n\nBudgets with startDate/endDate now filter by month in the overview.\nExpired budgets (past endDate with remaining balance) show dimmed with\nan \"Expired\" badge. Archiving a budget with leftover funds automatically\nreleases them back to Ready to Assign. Past-month allocations default\nto the last day of that month instead of today.\n\nCo-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>",
+        "sha": "c492e18e23b62976f93a392cb0e7b7b186bedf45",
+        "url": "https://github.com/YuriiHoliuk/budget-sync/commit/c492e18e23b62976f93a392cb0e7b7b186bedf45"
+      },
+      {
+        "date": "2026-02-10T06:11:25Z",
+        "message": "Fix CI: ensure deploys always route traffic to latest revision\n\nAfter a manual deploy pinned traffic to a specific revision,\nCI deploys created new revisions but traffic never shifted.\nAdd update-traffic --to-latest after each service deploy.\n\nCo-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>",
+        "sha": "68cee86ccdd21d276668096803465a5d1fbf65fa",
+        "url": "https://github.com/YuriiHoliuk/budget-sync/commit/68cee86ccdd21d276668096803465a5d1fbf65fa"
+      },
+      {
+        "date": "2026-02-09T19:31:51Z",
+        "message": "Make all budgets accumulate and remove equalization\n\nAll budget types now use a single accumulating formula:\navailable = SUM(allocations up to month) - SUM(spending up to month).\nSpending budgets no longer reset positive balance monthly.\n\nAdded suggested allocation logic per budget type (spending, savings,\ngoal, periodic) with cap support. Removed EqualizeAllocations use case,\nGraphQL mutation, frontend equalize buttons, and related tests.\n\nUpdated schema with new `cap` column, GraphQL types with\n`suggestedAllocation` field, budget dialogs, and E2E tests.\n\nCo-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>",
+        "sha": "42551057fc4e4aafa576fec0330fc3e660190a61",
+        "url": "https://github.com/YuriiHoliuk/budget-sync/commit/42551057fc4e4aafa576fec0330fc3e660190a61"
+      },
+      {
+        "date": "2026-02-09T14:19:53Z",
+        "message": "Move ROADMAP.md from claude_plans/ to project root\n\nCo-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>",
+        "sha": "108bbafcb8bed4bd16cabe30e9ae5fbdd6c8dbf4",
+        "url": "https://github.com/YuriiHoliuk/budget-sync/commit/108bbafcb8bed4bd16cabe30e9ae5fbdd6c8dbf4"
+      },
+      {
+        "date": "2026-02-09T14:19:08Z",
+        "message": "Migrate Neon database from US to EU (Frankfurt)\n\nMoved production database from aws-us-west-2 to aws-eu-central-1\nfor lower latency to Cloud Run in Warsaw. Updated GCP secret and\nredeployed services.\n\nCo-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>",
+        "sha": "18d6245c4c694ad996ee6fb35cb531ced3dc4fef",
+        "url": "https://github.com/YuriiHoliuk/budget-sync/commit/18d6245c4c694ad996ee6fb35cb531ced3dc4fef"
+      },
+      {
+        "date": "2026-02-09T13:33:12Z",
+        "message": "Add disaster recovery scripts for Monobank data restore\n\nCo-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>",
+        "sha": "2267938fadef5680a98e06b17fdcf97fe54ee2a6",
+        "url": "https://github.com/YuriiHoliuk/budget-sync/commit/2267938fadef5680a98e06b17fdcf97fe54ee2a6"
+      },
+      {
+        "date": "2026-02-09T13:08:53Z",
+        "message": "Prevent running tests on prod db",
+        "sha": "9193cb7bcbb2895938c8e131fe3faa6952854415",
+        "url": "https://github.com/YuriiHoliuk/budget-sync/commit/9193cb7bcbb2895938c8e131fe3faa6952854415"
+      },
+      {
+        "date": "2026-02-09T12:40:48Z",
+        "message": "Merge CI and Deploy into single workflow\n\nConsolidate two separate GitHub Actions workflows (CI + Deploy) into one\nCI/CD pipeline. Deploy jobs now run inline after CI checks pass on main,\neliminating the confusing workflow_run trigger that showed phantom\n\"success\" deploy runs even when CI failed.\n\nCo-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>",
+        "sha": "b56155ed78eabbbdc2e09c6e63f3aeda57b8695f",
+        "url": "https://github.com/YuriiHoliuk/budget-sync/commit/b56155ed78eabbbdc2e09c6e63f3aeda57b8695f"
+      },
+      {
+        "date": "2026-02-09T11:51:40Z",
+        "message": "Add runtime env vars roadmap item and strengthen docs guidance\n\n- Add short-term task: switch from NEXT_PUBLIC_* bundled vars to runtime\n  config and run E2E against production image\n- Strengthen CLAUDE.md docs update guidance to be a MUST\n\nCo-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>",
+        "sha": "dadf93c55045cd9b5324b9fd244112f8cc5310ad",
+        "url": "https://github.com/YuriiHoliuk/budget-sync/commit/dadf93c55045cd9b5324b9fd244112f8cc5310ad"
+      },
+      {
+        "date": "2026-02-09T10:26:28Z",
+        "message": "Fix E2E CI: add GraphQL codegen to Docker web startup\n\nThe generated GraphQL types (web/src/graphql/generated/) are gitignored\nand only exist locally. In CI, the fresh checkout doesn't have them,\ncausing module-not-found errors and 500s on pages using GraphQL.\n\n- Add codegen step to web-e2e and web Docker Compose commands\n- Add warm-up with retries to pre-compile all pages before tests\n- Use --wait flag for proper Docker health check waiting\n\nCo-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>",
+        "sha": "f76b0059119903f1d00a35a1ee360b74b5898f9b",
+        "url": "https://github.com/YuriiHoliuk/budget-sync/commit/f76b0059119903f1d00a35a1ee360b74b5898f9b"
+      },
+      {
+        "date": "2026-02-09T10:22:38Z",
+        "message": "Fix E2E tests in CI with proper warm-up and health checks\n\n- Use --wait flag to ensure all Docker health checks pass before proceeding\n- Add warm-up step to pre-compile all Next.js pages before tests run\n- Verify GraphQL proxy connectivity before starting tests\n- Run full E2E test suite instead of single smoke test\n- Move debug output to only show on failure\n\nCo-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>",
+        "sha": "5a3303bdec641d320a01fd4c77a78971d5bda93e",
+        "url": "https://github.com/YuriiHoliuk/budget-sync/commit/5a3303bdec641d320a01fd4c77a78971d5bda93e"
+      },
+      {
+        "date": "2026-02-09T10:01:15Z",
+        "message": "Debug E2E CI: add env diagnostics, run single test with no retries\n\nTemporary debugging commit to identify why E2E tests timeout in CI.\nAdds diagnostic step to inspect container env vars, HTML output, and\nlogs. Runs only smoke/navigation test with zero retries for fast feedback.\n\nCo-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>",
+        "sha": "02ce519b49e956e95e608648cf9a31d1ef682e5e",
+        "url": "https://github.com/YuriiHoliuk/budget-sync/commit/02ce519b49e956e95e608648cf9a31d1ef682e5e"
+      },
+      {
+        "date": "2026-02-09T09:31:40Z",
+        "message": "Fix CI: add GraphQL codegen step and fix E2E service startup\n\n- Add codegen step before web typecheck to generate GraphQL types\n- Start Docker Compose separately in CI before running Playwright\n- Disable Playwright webServer in CI (services managed by workflow)\n\nCo-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>",
+        "sha": "6b5204207bfb7bdb669084c3e7e51da68a810270",
+        "url": "https://github.com/YuriiHoliuk/budget-sync/commit/6b5204207bfb7bdb669084c3e7e51da68a810270"
+      },
+      {
+        "date": "2026-02-09T09:28:49Z",
+        "message": "Add script to verify transactions against spreadsheet backup data\n\nUtility script that matches DB transactions against spreadsheet backup\nby external ID, restores category/budget assignments, and sets\ncategorization status.\n\nCo-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>",
+        "sha": "d1e09ee3014ae2f2ff4874106adcad6fba138898",
+        "url": "https://github.com/YuriiHoliuk/budget-sync/commit/d1e09ee3014ae2f2ff4874106adcad6fba138898"
+      },
+      {
+        "date": "2026-02-09T09:28:35Z",
+        "message": "Add database migration step to deploy workflow\n\nRun drizzle-kit migrate against production DB before deploying backend\nor web. Both deploy jobs now depend on migration completing first.\nAdd drizzle/ directory to backend change detection.\n\nCo-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>",
+        "sha": "621b0f693936ea263b0774b7b5f8a2360376c659",
+        "url": "https://github.com/YuriiHoliuk/budget-sync/commit/621b0f693936ea263b0774b7b5f8a2360376c659"
+      },
+      {
+        "date": "2026-02-09T09:28:20Z",
+        "message": "Add API integration tests, E2E tests, and web checks to CI pipeline\n\nExpand CI from a single test job to three parallel jobs:\n- Lint & Unit Tests (now includes web typecheck and lint)\n- API Integration Tests (Postgres service, migrations, bun test)\n- E2E Tests (Playwright against Docker Compose stack)\n\nCo-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>",
+        "sha": "05ed1ba3263d891a8b5374570144952f1af5043e",
+        "url": "https://github.com/YuriiHoliuk/budget-sync/commit/05ed1ba3263d891a8b5374570144952f1af5043e"
+      },
+      {
+        "date": "2026-02-09T09:28:04Z",
+        "message": "Split API integration tests into one file per GraphQL operation\n\nReplace monolithic test files (accounts, budgets, categories, allocations,\ntransactions) with individual files per query/mutation for better isolation\nand easier debugging. Add test coverage for transaction links and update\ntest factories with link support.\n\nCo-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>",
+        "sha": "51d6fa05cbb7ac960885b4b96aeba9ed2f4e5b1e",
+        "url": "https://github.com/YuriiHoliuk/budget-sync/commit/51d6fa05cbb7ac960885b4b96aeba9ed2f4e5b1e"
+      },
+      {
+        "date": "2026-02-09T09:25:43Z",
+        "message": "Add equalize allocations feature for spending-type budgets\n\nAdd EqualizeAllocations use case that adjusts allocations to match actual\nspending for SPENDING-type budgets. Includes GraphQL mutation, resolver,\nunit tests, frontend mutation, and UI controls (per-budget equalize menu\nitem and global Equalize All button).\n\nCo-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>",
+        "sha": "c8cbf319894275ee50b992fad68b94339714734d",
+        "url": "https://github.com/YuriiHoliuk/budget-sync/commit/c8cbf319894275ee50b992fad68b94339714734d"
+      },
+      {
+        "date": "2026-02-09T09:25:25Z",
+        "message": "Route budget page to /budgets/YYYY-MM for URL-based month navigation\n\n- Move budget page from / to /budgets/[month] with dynamic routing\n- Root page now redirects to /budgets/{current-month}\n- useMonth hook reads month from URL params, navigates via router.push\n- Add MonthPicker popover component for quick month jumping\n- Update sidebar with dynamic budget link and active state detection\n- Update E2E tests for new URL patterns\n\nCo-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>",
+        "sha": "276f13dc8fc40baf33ff0006a9c60a6982c2ff3f",
+        "url": "https://github.com/YuriiHoliuk/budget-sync/commit/276f13dc8fc40baf33ff0006a9c60a6982c2ff3f"
+      },
+      {
+        "date": "2026-02-09T09:25:08Z",
+        "message": "Improve Docker Compose dev environment with seeding and health checks\n\n- Add db-seed service for idempotent local data seeding\n- Add health checks on api and web services\n- Add wait-for-ready.sh script that polls services and prints banner\n- Add dev-fresh recipe to reset and restart from scratch\n- Update install recipe to include web dependencies\n- Change E2E compose DB port from 5433 to 5434 to avoid conflicts\n- Increase CI timeout in playwright config\n\nCo-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>",
+        "sha": "b8df992e523c28b35882caa051197b87f72136fa",
+        "url": "https://github.com/YuriiHoliuk/budget-sync/commit/b8df992e523c28b35882caa051197b87f72136fa"
+      },
+      {
+        "date": "2026-02-09T09:24:51Z",
+        "message": "Slim down CLAUDE.md by referencing standalone docs\n\nReplace verbose inline content (code examples, project structure trees,\ndomain model definitions, test examples) with concise summaries and\npointers to the new standalone docs in docs/.\n\nCo-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>",
+        "sha": "622c6c9833ba8cd3b57b05b87eedc14b36192aff",
+        "url": "https://github.com/YuriiHoliuk/budget-sync/commit/622c6c9833ba8cd3b57b05b87eedc14b36192aff"
+      },
+      {
+        "date": "2026-02-09T09:24:35Z",
+        "message": "Reorganize docs: move planning docs to claude_plans/, add reference docs\n\n- Move planning/research docs from docs/ to claude_plans/\n- Move LEARNINGS.md, REVIEW-*.md, ROADMAP.md to appropriate locations\n- Add YAML frontmatter with descriptions to all docs\n- Extract new reference docs from CLAUDE.md (coding-patterns, data-flow,\n  deployment, envelope-budgeting, frontend-architecture, graphql-api,\n  infrastructure, testing-guide)\n- Add docs CLI tool (scripts/docs.ts) and justfile recipes\n- Add /docs Claude skill for browsing documentation\n- Update ROADMAP.md with completion status and new phases\n\nCo-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>",
+        "sha": "9c3b8c06c5dc401c8f8888d4069cad909caae1f1",
+        "url": "https://github.com/YuriiHoliuk/budget-sync/commit/9c3b8c06c5dc401c8f8888d4069cad909caae1f1"
+      },
+      {
+        "date": "2026-02-09T09:23:31Z",
+        "message": "Add Claude project settings for plans directory and MCP restrictions\n\nCo-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>",
+        "sha": "09cf7ddca9571f0a17ec754938b554ae7ae5955f",
+        "url": "https://github.com/YuriiHoliuk/budget-sync/commit/09cf7ddca9571f0a17ec754938b554ae7ae5955f"
+      },
+      {
+        "date": "2026-02-09T09:23:15Z",
+        "message": "Register TransactionLinkRepository in local development container\n\nCo-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>",
+        "sha": "419a2b626e57efa1f0a65501d4fa1afd7da5386d",
+        "url": "https://github.com/YuriiHoliuk/budget-sync/commit/419a2b626e57efa1f0a65501d4fa1afd7da5386d"
+      },
+      {
+        "date": "2026-02-07T18:46:34Z",
+        "message": "Add neonctl as dev dependency\n\nUsed for Neon database management during disaster recovery.\n\nCo-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>",
+        "sha": "8b3926ca7cd3d540124bf6bf9b157f558bf185a4",
+        "url": "https://github.com/YuriiHoliuk/budget-sync/commit/8b3926ca7cd3d540124bf6bf9b157f558bf185a4"
+      },
+      {
+        "date": "2026-02-07T18:46:10Z",
+        "message": "Add disaster recovery scripts for spreadsheet data\n\n- export-spreadsheet-data.ts: Exports all sheets to JSON files\n- import-spreadsheet-to-db.ts: Imports JSON data to production DB\n  - Handles accounts with initial_balance\n  - Resolves category/budget names to IDs\n  - Preserves existing transactions\n\nThese scripts were used to recover data after accidental truncation.\n\nCo-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>",
+        "sha": "ad28107f1b4e70267ab8c5de181a93b13787eb31",
+        "url": "https://github.com/YuriiHoliuk/budget-sync/commit/ad28107f1b4e70267ab8c5de181a93b13787eb31"
+      },
+      {
+        "date": "2026-02-07T18:45:56Z",
+        "message": "Fix updateLastSyncTime timestamp calculation\n\nThe timestamp parameter from Date.getTime() is already in milliseconds,\nbut was being multiplied by 1000 again, causing invalid dates like\n+058074-07-19T01:42:32.000Z.\n\nCo-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>",
+        "sha": "6f5c2becd3a31aab1d0afe7c2fb8946e7b543808",
+        "url": "https://github.com/YuriiHoliuk/budget-sync/commit/6f5c2becd3a31aab1d0afe7c2fb8946e7b543808"
+      },
+      {
+        "date": "2026-02-07T18:45:41Z",
+        "message": "Add test safety measures to prevent production DB access\n\n- Add production database detection in test-container.ts\n  - Blocks URLs containing neon.tech, supabase.co, aws.neon.tech, .cloud.\n  - Removed fallback to DATABASE_URL (was causing prod DB access)\n  - Clear error messages when production URL detected\n\n- Add isolated test database infrastructure\n  - docker-compose.test.yml: PostgreSQL on port 5433 (separate from dev)\n  - justfile: test-api, test-api-file, test-api-down, test-api-reset commands\n\n- Add recovery/ to .gitignore (contains personal financial data)\n\nCo-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>",
+        "sha": "943fd921be396b929928f41ca28a28e2205b75b1",
+        "url": "https://github.com/YuriiHoliuk/budget-sync/commit/943fd921be396b929928f41ca28a28e2205b75b1"
+      },
+      {
+        "date": "2026-02-07T08:36:53Z",
+        "message": "Refactor Ready to Assign to flow-based calculation\n\nChanges the budget calculation from balance-based to flow-based approach,\nfollowing YNAB envelope budgeting model.\n\nFormula change:\n- OLD: readyToAssign = availableFunds - totalAllocated\n- NEW: readyToAssign = totalInflows - totalAllocated\n\nWhere totalInflows = sum(account initial balances) + sum(income)\n\nKey changes:\n- Add initial_balance column to accounts table\n- Add exclude_from_calculations flag to transactions\n- Create transaction_links tables for tracking transfers\n- Create TransactionLink entity, repository, and service\n- Add TransactionLink GraphQL schema and resolvers\n- Refactor BudgetCalculationService to use flow-based formula\n- Update MonthlyOverviewResolver to pass new fields\n- Add e2e test artifacts to gitignore\n\nCo-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>",
+        "sha": "e42b89a17b1bd8f239876159c0c76a8e9d347ad6",
+        "url": "https://github.com/YuriiHoliuk/budget-sync/commit/e42b89a17b1bd8f239876159c0c76a8e9d347ad6"
+      },
+      {
+        "date": "2026-02-07T08:36:30Z",
+        "message": "Update ralph TUI and dependencies\n\nCo-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>",
+        "sha": "72ca51823dedd919dfcc6851ff4a6e377d6cbe71",
+        "url": "https://github.com/YuriiHoliuk/budget-sync/commit/72ca51823dedd919dfcc6851ff4a6e377d6cbe71"
+      },
+      {
+        "date": "2026-02-06T09:49:10Z",
+        "message": "Refactor: extract shared startServer for dev and production\n\nBoth entry points (src/server.ts and src/jobs/webhook-server.ts) now use\nthe same startServer() function from presentation/http/startServer.ts.\nOnly infrastructure differs (DI container and default port).\n\nThis eliminates code duplication and ensures feature parity between\nlocal development and production environments.",
+        "sha": "94abdb08566134eb262add30b2dc18ddfd0261c5",
+        "url": "https://github.com/YuriiHoliuk/budget-sync/commit/94abdb08566134eb262add30b2dc18ddfd0261c5"
+      },
+      {
+        "date": "2026-02-06T09:46:11Z",
+        "message": "Mark P9 deployment tasks as done",
+        "sha": "9ec595bb71b43600c9398425e6689ddb27a08155",
+        "url": "https://github.com/YuriiHoliuk/budget-sync/commit/9ec595bb71b43600c9398425e6689ddb27a08155"
+      },
+      {
+        "date": "2026-02-06T09:41:21Z",
+        "message": "Add GraphQL endpoint to production webhook server\n\nThe webhook server now includes the GraphQL API and WebSocket\nsubscriptions, matching the dev server functionality. This enables\nthe web frontend to connect to the GraphQL API in production.",
+        "sha": "54248f526cdf37f87a796c54ffa30b5c5beeb3ca",
+        "url": "https://github.com/YuriiHoliuk/budget-sync/commit/54248f526cdf37f87a796c54ffa30b5c5beeb3ca"
+      },
+      {
+        "date": "2026-02-06T09:35:41Z",
+        "message": "Force web rebuild with auth credentials",
+        "sha": "8dac205ebacb53a0dc8c89eb0b6298467122b619",
+        "url": "https://github.com/YuriiHoliuk/budget-sync/commit/8dac205ebacb53a0dc8c89eb0b6298467122b619"
+      },
+      {
+        "date": "2026-02-06T09:33:00Z",
+        "message": "Trigger rebuild with auth credentials",
+        "sha": "fd7b814e54bfac9ecab8b26fb553faac7045052e",
+        "url": "https://github.com/YuriiHoliuk/budget-sync/commit/fd7b814e54bfac9ecab8b26fb553faac7045052e"
+      },
+      {
+        "date": "2026-02-06T09:26:25Z",
+        "message": "Add .gitkeep to track web/public directory for Docker build",
+        "sha": "d2312906d0ebee19300a8859dac65c38ef363bfc",
+        "url": "https://github.com/YuriiHoliuk/budget-sync/commit/d2312906d0ebee19300a8859dac65c38ef363bfc"
+      },
+      {
+        "date": "2026-02-06T09:11:35Z",
+        "message": "Add WebSocket subscriptions, E2E tests, and GCP web deployment\n\nWebSocket Subscriptions (P2-010):\n- Add graphql-ws WebSocket transport for GraphQL subscriptions\n- Add subscription schema for real-time updates (budget, allocation, transaction)\n- Add PubSub instance to GraphQL context for event publishing\n- Update frontend Apollo Client with split link (HTTP + WebSocket)\n\nE2E Tests (P8-003, P8-004, P8-005):\n- Add Playwright E2E tests for Budget Overview page (7 tests)\n- Add Playwright E2E tests for Transactions page (4 tests)\n- Add Playwright E2E tests for Accounts page (4 tests)\n- Refactor tests to one scenario per file pattern\n- Add data-qa attributes to budget dialogs\n\nAPI Integration Tests (P7-001, P7-002):\n- Add test harness with Apollo Server and test DI container\n- Add factory functions for test data creation\n- Add 88 API integration tests for core queries and mutations\n\nGCP Deployment (P9-002 through P9-006):\n- Add Dockerfile.web for Next.js standalone build\n- Add Terraform resources for web Cloud Run Service\n- Add auth secrets (allowed-email, allowed-password) to Secret Manager\n- Update CI/CD pipeline for parallel web and backend builds\n\nDocumentation:\n- Add ADR-002 for GraphQL schema management decision\n\nCo-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>",
+        "sha": "aa17c9e01a1ff785c97ce049faf0be7ea7895325",
+        "url": "https://github.com/YuriiHoliuk/budget-sync/commit/aa17c9e01a1ff785c97ce049faf0be7ea7895325"
+      },
+      {
+        "date": "2026-02-06T08:24:21Z",
+        "message": "Update documentation with web frontend and E2E testing info\n\n- README.md: Complete rewrite to include:\n  - Web frontend tech stack (Next.js, ShadCN UI, Apollo Client)\n  - GraphQL API and PostgreSQL database\n  - Full local development setup instructions\n  - Testing section with unit, API integration, and E2E tests\n  - Updated project structure with e2e/ directory\n\n- CLAUDE.md: Added E2E Tests section with:\n  - Directory structure and naming conventions\n  - Page Object Model pattern documentation\n  - Running E2E tests commands\n  - Example test code with Page Objects\n\n- TASKS.json: Added P8-005 task to refactor smoke tests to one-scenario-per-file pattern\n\nCo-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>",
+        "sha": "4ce80f2f895006aef70eb8208f785466c3a383f3",
+        "url": "https://github.com/YuriiHoliuk/budget-sync/commit/4ce80f2f895006aef70eb8208f785466c3a383f3"
+      },
+      {
+        "date": "2026-02-06T08:22:10Z",
+        "message": "Add Page Object Model and data-qa attributes for E2E tests (P8-002)\n\n- Created BasePage class with common selectors, wait utilities, navigation\n- Added reusable components: Table, Dialog, InlineEditor, MonthSelector\n- Created page objects: BudgetPage, TransactionsPage, AccountsPage, CategoriesPage\n- Added data-qa attributes to all major frontend components:\n  - Budget table, metrics header, move funds dialog, create budget dialog\n  - Transactions table, filters, pagination\n  - Accounts table, create/archive dialogs\n  - Categories table, create/archive dialogs\n  - App sidebar navigation, month selector\n- Exported all page objects and components from fixtures\n\nCo-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>",
+        "sha": "9a616b890afbf8e96ff7e4b79f394da41e32d54e",
+        "url": "https://github.com/YuriiHoliuk/budget-sync/commit/9a616b890afbf8e96ff7e4b79f394da41e32d54e"
+      },
+      {
+        "date": "2026-02-06T07:45:30Z",
+        "message": "Upgrade frontend libraries (Apollo Client 4.x, GraphQL Codegen 6.x)\n\n- Apollo Client 3.14.0 \u2192 4.1.4\n  - React hooks now import from @apollo/client/react\n  - ApolloProvider moved to @apollo/client/react\n  - ApolloError replaced with ErrorLike type\n  - ApolloCache no longer generic\n  - Added RxJS peer dependency\n\n- GraphQL Codegen 5.0.7 \u2192 6.1.1\n  - client-preset 4.8.3 \u2192 5.2.2\n\n- Added missing transaction mutations (UpdateTransactionCategory, VerifyTransaction)\n- Wired TransactionsTable component to transactions page\n\nCo-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>",
+        "sha": "113d1c36a0d5adf9a08c7c83d740c5ad24acfaf0",
+        "url": "https://github.com/YuriiHoliuk/budget-sync/commit/113d1c36a0d5adf9a08c7c83d740c5ad24acfaf0"
+      },
+      {
+        "date": "2026-02-06T07:20:27Z",
+        "message": "Upgrade Next.js to v16 and complete frontend infrastructure tasks\n\n- Upgraded Next.js from 15.3.0 to 16.1.6 (P3-005)\n- Migrated from `next lint` to direct `eslint .` command\n- Converted ESLint config to new flat config format\n- Fixed React Compiler ESLint errors:\n  - Dialogs use key prop pattern for state reset\n  - Theme/auth use useSyncExternalStore instead of useEffect\n  - useMemo deps extract nested properties to variables\n  - Sidebar skeleton uses useId for deterministic widths\n- Added frontend documentation to CLAUDE.md (P3-008)\n- Added codegen to onboarding workflow (P3-009)\n- Created ADR-001 for frontend linting decision (P3-010)\n- Marked P3-006 as WONTFIX (proxy approach preferred)\n- Completed TX-007 meta-task (all frontend infra done)\n\nCo-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>",
+        "sha": "bb02f658123507884f2943b05cc7ba03a9d9616c",
+        "url": "https://github.com/YuriiHoliuk/budget-sync/commit/bb02f658123507884f2943b05cc7ba03a9d9616c"
+      },
+      {
+        "date": "2026-02-06T07:02:26Z",
+        "message": "Add password protection to auth gate\n\n- Added NEXT_PUBLIC_ALLOWED_PASSWORD environment variable\n- Login now requires both email and password\n- Generic \"Invalid email or password\" error for security\n- Updated .env.example with password configuration\n\nCo-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>",
+        "sha": "01ff753e759d0c6178c733df4442c0c241e63ede",
+        "url": "https://github.com/YuriiHoliuk/budget-sync/commit/01ff753e759d0c6178c733df4442c0c241e63ede"
+      },
+      {
+        "date": "2026-02-06T06:58:22Z",
+        "message": "Add frontend to just check command (P3-007)\n\n- Updated justfile check command to run both backend and frontend quality checks\n- Fixed TypeScript errors in cache-utils.test.ts (added non-null assertions for .find() results)\n\nCo-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>",
+        "sha": "89cd494a5c38b04de058ce1b4b306794783a00ce",
+        "url": "https://github.com/YuriiHoliuk/budget-sync/commit/89cd494a5c38b04de058ce1b4b306794783a00ce"
+      },
+      {
+        "date": "2026-02-06T06:52:13Z",
+        "message": "Add optimistic cache updates for budget mutations (P4-006)\n\n- Implement cache update functions in web/src/lib/cache-utils.ts\n- updateMonthlyOverviewCache: Updates budget allocation and totals in cache\n- updateMonthlyOverviewCacheForMoveFunds: Handles zero-sum fund transfers\n- Remove refetchQueries from createAllocation and moveFunds mutations\n- Use Apollo cache.writeQuery for instant UI updates\n- Add unit tests for cache update utilities\n\nInline allocation editing and move funds now update instantly without\nwaiting for server response. Dialog-based mutations (createBudget,\nupdateBudget) retain refetchQueries as the dialog closes on submit.\n\nCo-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>",
+        "sha": "9ac78b346a2b91e012e43df365bc50c4980005cb",
+        "url": "https://github.com/YuriiHoliuk/budget-sync/commit/9ac78b346a2b91e012e43df365bc50c4980005cb"
+      },
+      {
+        "date": "2026-02-06T06:43:08Z",
+        "message": "Add basic auth gate for single-user authentication (P3-004)\n\n- Create useAuth hook with login/logout and localStorage persistence\n- Add AuthProvider context wrapping the app\n- Create LoginScreen component with email validation\n- Add AuthGate that shows login or protected content\n- Add logout button in sidebar footer showing user email\n- Configured via NEXT_PUBLIC_ALLOWED_EMAIL env variable\n\nCo-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>",
+        "sha": "63b6aaf695a4fa63cfc36538e09f5bf44367bfc6",
+        "url": "https://github.com/YuriiHoliuk/budget-sync/commit/63b6aaf695a4fa63cfc36538e09f5bf44367bfc6"
+      },
+      {
+        "date": "2026-02-06T06:34:59Z",
+        "message": "Auto-verify transactions when user edits category or budget (TX-008)\n\nWhen a user manually updates a transaction's category or budget via\nupdateTransactionCategory or updateTransactionBudget mutations, the\ncategorizationStatus is now automatically set to 'verified'. This\nconfirms the user has reviewed and accepted (or changed) the\ncategorization, reducing the need for a separate verification step.\n\nCo-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>",
+        "sha": "3166fd6e220e59be872f52b4e4e2798748e675b9",
+        "url": "https://github.com/YuriiHoliuk/budget-sync/commit/3166fd6e220e59be872f52b4e4e2798748e675b9"
+      },
+      {
+        "date": "2026-02-06T06:31:05Z",
+        "message": "Add Categories management page (P6-001)\n\n- Create /categories page with hierarchical tree display\n- Add Create, Edit, Archive dialogs for category CRUD\n- Support parent-child category relationships\n- Add expand/collapse for parent categories\n- Include \"Show archived\" toggle\n- Add ShadCN Switch component\n\nCo-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>",
+        "sha": "7650df1b77f273760185d9da2db36d224a6e6faa",
+        "url": "https://github.com/YuriiHoliuk/budget-sync/commit/7650df1b77f273760185d9da2db36d224a6e6faa"
+      },
+      {
+        "date": "2026-02-06T06:22:46Z",
+        "message": "Add Transaction detail/edit panel (P5-003)\n\n- Create TransactionDetailPanel component using Sheet UI\n- Show full transaction details: counterparty, date, amount, status\n- Add category and budget editing via dropdowns\n- Display AI reasoning notes when available\n- Add Verify Categorization button\n- Show transaction details: account, counterparty, IBAN, MCC\n- Show additional info: cashback, commission, receipt ID\n- Display internal/external IDs\n- Integrate panel into transactions table with click handler\n- Add click propagation handling for inline edit elements\n\nCo-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>",
+        "sha": "7072d343464072a7fd12eda7cd43fb185fd1c95f",
+        "url": "https://github.com/YuriiHoliuk/budget-sync/commit/7072d343464072a7fd12eda7cd43fb185fd1c95f"
+      },
+      {
+        "date": "2026-02-06T06:02:00Z",
+        "message": "Add Accounts page with CRUD for manual accounts (P5-001)\n\n- Created full Accounts page with role-based grouping (Operational/Savings)\n- Added GraphQL mutations: CreateAccount, UpdateAccount, ArchiveAccount\n- Extended GetAccounts/GetAccount queries with all account fields\n- Created AccountsTable with account icons, badges, tooltips, action menu\n- Created CreateAccountDialog with type/role/currency pickers\n- Created EditAccountDialog with protected fields for synced accounts\n- Created ArchiveAccountDialog with confirmation flow\n- Added ShadCN Alert component for info messages\n\nCo-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>",
+        "sha": "0ff1a097aa0f9691609163e19393002cbe260dd9",
+        "url": "https://github.com/YuriiHoliuk/budget-sync/commit/0ff1a097aa0f9691609163e19393002cbe260dd9"
+      },
+      {
+        "date": "2026-02-06T05:53:06Z",
+        "message": "Add Unbudgeted Transactions warning section (P4-005)\n\n- Add unbudgetedOnly and accountRole filters to TransactionFilter schema\n- Implement IS NULL filter for budgetId in DatabaseTransactionRepository\n- Add account role filter with proper join to accounts table\n- Create UnbudgetedTransactionsWarning frontend component:\n  - Amber warning box below budget table when unbudgeted expenses exist\n  - Expandable table with date, description, account, amount\n  - Quick budget assignment dropdown for each transaction\n  - Automatically updates budget table when assigned\n- Add GetUnbudgetedTransactions query and UpdateTransactionBudget mutation\n\nCo-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>",
+        "sha": "f2b2fdda5ce94f02a42cb702d95cb1a98e3416c7",
+        "url": "https://github.com/YuriiHoliuk/budget-sync/commit/f2b2fdda5ce94f02a42cb702d95cb1a98e3416c7"
+      },
+      {
+        "date": "2026-02-05T20:53:03Z",
+        "message": "Add Budget CRUD dialogs (create, edit, archive) (P4-004)\n\n- CreateBudgetDialog: Form with name, type, target amount, cadence/date\n- EditBudgetDialog: Pre-populates with existing budget data via GetBudget\n- ArchiveBudgetDialog: Confirmation dialog with warning\n- Integrated into BudgetTable with \"New Budget\" button and row action menu\n- Added GraphQL mutations and queries for budgets in frontend\n\nCo-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>",
+        "sha": "2fee339f7f7d687619e57e201605b88658bfce70",
+        "url": "https://github.com/YuriiHoliuk/budget-sync/commit/2fee339f7f7d687619e57e201605b88658bfce70"
+      },
+      {
+        "date": "2026-02-05T20:29:10Z",
+        "message": "Mark P2-009 as done and update changelog",
+        "sha": "0b6c9519066ad9080cea18ac4a14284179e52044",
+        "url": "https://github.com/YuriiHoliuk/budget-sync/commit/0b6c9519066ad9080cea18ac4a14284179e52044"
+      },
+      {
+        "date": "2026-02-05T20:28:25Z",
+        "message": "Add createTransaction mutation for manual accounts (P2-009)\n\nImplement GraphQL mutation to create transactions on manual (non-synced)\naccounts. This enables users to manually record transactions for cash\naccounts, manual bank accounts, and other non-synced accounts.\n\nChanges:\n- Add CreateTransactionUseCase with validation:\n  - Account must exist and be a manual account (not synced)\n  - Amount converted to minor units automatically\n  - Unique externalId generated for each transaction\n- Add ManualTransactionNotAllowedError for synced account attempts\n- Add createTransaction mutation to transactions.graphql schema\n- Update TransactionsResolver with new mutation handler\n- Fix DatabaseTransactionRepository.saveManyAndReturn to resolve\n  account DB IDs from external IDs (fixes null account association)\n- Add comprehensive unit tests for CreateTransactionUseCase\n\nCo-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>",
+        "sha": "5dbe06453a6198a42273ea31429cfe9714a4d4c3",
+        "url": "https://github.com/YuriiHoliuk/budget-sync/commit/5dbe06453a6198a42273ea31429cfe9714a4d4c3"
+      },
+      {
+        "date": "2026-02-05T20:17:48Z",
+        "message": "Update E2E test tasks with structured fixtures and Page Objects\n\n- P8-001: Fresh DB/API/FE per test, Playwright fixtures, docker-compose.e2e.yml\n- P8-002: Page Object Model with data-qa selectors, reusable component classes\n- P8-003: Budget page E2E tests using high-level Page Object methods\n- P8-004: Transactions and Accounts page E2E tests\n- Add learnings: AccountSource enum, AccountType vs Monobank types, protected fields\n\nCo-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>",
+        "sha": "32d1a6fdec912e493c791fc6db8dc555917ff8e2",
+        "url": "https://github.com/YuriiHoliuk/budget-sync/commit/32d1a6fdec912e493c791fc6db8dc555917ff8e2"
+      },
+      {
+        "date": "2026-02-05T20:16:54Z",
+        "message": "Add Accounts CRUD mutations with sync field protection (P2-008)\n\n- Add `source` enum field to Account: bank_sync | manual\n- Add `isArchived` boolean for soft delete\n- Add `AccountType` enum: debit | credit | fop (replaces Monobank card types)\n- Create database migration for new fields\n- Extend AccountRepository with findByDbId, findActive, findByName\n- Implement CreateAccount, UpdateAccount, ArchiveAccount use cases\n- Add protected field validation for synced accounts (currency, iban)\n- Add GraphQL mutations: createAccount, updateAccount, archiveAccount\n- Update all mappers for new type system\n- 27 new unit tests, 768 total tests pass\n\nCo-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>",
+        "sha": "95f21da12d38a221bf98c8d72858504ed07920dd",
+        "url": "https://github.com/YuriiHoliuk/budget-sync/commit/95f21da12d38a221bf98c8d72858504ed07920dd"
+      },
+      {
+        "date": "2026-02-05T19:45:13Z",
+        "message": "Refactor GraphQL resolvers to injectable classes (TX-006)\n\n- Create Resolver base class with abstract getResolverMap() method\n- Refactor all 7 resolvers from plain objects to injectable classes:\n  - HealthResolver, AccountsResolver, BudgetsResolver, CategoriesResolver\n  - AllocationsResolver, TransactionsResolver, MonthlyOverviewResolver\n- Update resolver registry with buildResolverMaps(container) function\n- Update server.ts to build resolvers from DI container\n\nBenefits:\n- Dependencies injected via constructor (no context.container.resolve())\n- Consistent with existing Controller pattern\n- Better testability with mockable dependencies\n- Type-safe dependency injection\n\nCo-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>",
+        "sha": "567d13e63205e15a7eff62d46445c972fd085fe9",
+        "url": "https://github.com/YuriiHoliuk/budget-sync/commit/567d13e63205e15a7eff62d46445c972fd085fe9"
+      },
+      {
+        "date": "2026-02-05T19:35:07Z",
+        "message": "Add missing test files from TX-003 and TX-004\n\nCo-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>",
+        "sha": "7acf757bcfecd66780984d30db22896f2fc08385",
+        "url": "https://github.com/YuriiHoliuk/budget-sync/commit/7acf757bcfecd66780984d30db22896f2fc08385"
+      },
+      {
+        "date": "2026-02-05T19:34:48Z",
+        "message": "Extract shared GraphQL mapping utilities (TX-005)\n\n- Create src/presentation/graphql/mappers/ with shared utilities:\n  - money.ts: currency conversion (toMinorUnits, toMajorUnits)\n  - budget.ts: mapBudgetToGql, enum constants, mapOptionalGqlEnum\n  - allocation.ts: mapAllocationToGql and AllocationGql type\n  - account.ts: mapAccountToGql, mapAccountType, MONOBANK_TYPE_TO_GQL\n  - category.ts: mapCategoryToGql, mapCategoryStatus, enum constants\n  - transaction.ts: mapTransactionRecordToGql, status/type enums\n- Update all resolvers to import from shared mappers\n- Eliminate ~150 lines of duplicate code across resolvers\n\nCo-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>",
+        "sha": "dc4ddf8fd73deb64aaf1a9e2dcff0116018c348d",
+        "url": "https://github.com/YuriiHoliuk/budget-sync/commit/dc4ddf8fd73deb64aaf1a9e2dcff0116018c348d"
+      },
+      {
+        "date": "2026-02-05T19:15:09Z",
+        "message": "Fix typecasting violations in mappers (TX-002)\n\n- Add type guard utilities in domain layer for runtime type narrowing:\n  - isBudgetType(), parseBudgetType() for BudgetType validation\n  - isTargetCadence(), parseTargetCadence() for TargetCadence validation\n  - isAccountRole(), parseAccountRole() for AccountRole validation\n- Update DatabaseBudgetMapper to use parseBudgetType/parseTargetCadence\n- Update DatabaseAccountMapper to use parseAccountRole\n- Fix GraphQLServer double cast by throwing error for invalid state\n- Export new utilities from domain/entities/index.ts\n\nCo-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>",
+        "sha": "972637332520f1ff190c854f5d49cf5f3026d9df",
+        "url": "https://github.com/YuriiHoliuk/budget-sync/commit/972637332520f1ff190c854f5d49cf5f3026d9df"
+      },
+      {
+        "date": "2026-02-05T19:02:59Z",
+        "message": "Fix architecture dependency rule violations (TX-001)\n\n- Create domain-level types for transaction queries:\n  - TransactionRecord, TransactionFilterParams, PaginationParams, TransactionSummary\n- Add record-based methods to TransactionRepository interface\n- Refactor resolvers to import only from domain layer\n- Remove duplicate DATABASE_TRANSACTION_REPOSITORY_TOKEN from local container\n- Resolvers now follow Clean Architecture dependency rule\n\nCo-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>",
+        "sha": "c283999d9b99bf0a3053112bf7b508a530404f00",
+        "url": "https://github.com/YuriiHoliuk/budget-sync/commit/c283999d9b99bf0a3053112bf7b508a530404f00"
+      },
+      {
+        "date": "2026-02-05T18:50:12Z",
+        "message": "Add TUI mode to Ralph Loop with interactive messaging\n\nTransform Ralph Loop from simple console output to a split-pane TUI:\n- Scrollable logs area with proper formatting and colors\n- Status bar showing iteration, tokens, cost, duration\n- Input box for sending messages to running Claude process\n\nKey features:\n- Uses Ink (React for CLIs) for declarative UI\n- True interactive messaging via --input-format stream-json\n- User messages sent directly to running Claude process stdin\n- Static component for completed logs to prevent flicker\n- Legacy mode preserved via `just ralph-legacy`\n\nNew dependencies: ink, ink-text-input, react\n\nCo-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>",
+        "sha": "b6babe3bfb45daaa0abe9b665d59ed015a5b49e2",
+        "url": "https://github.com/YuriiHoliuk/budget-sync/commit/b6babe3bfb45daaa0abe9b665d59ed015a5b49e2"
+      },
+      {
+        "date": "2026-02-05T18:16:41Z",
+        "message": "Add code review findings and technical debt tasks\n\nReview documents:\n- REVIEW-SUMMARY.md: Overview of 14 commits (P1-P4 phases)\n- REVIEW-ISSUES.md: Detailed findings on test gaps, violations, DX\n\nNew tasks added:\n- TX-001 to TX-007: Technical debt fixes (architecture violations,\n  typecasting, missing tests, resolver refactoring)\n- P2-008 to P2-011: Account CRUD, transaction create, WebSockets\n- P3-005 to P3-010: Next.js upgrade, frontend tooling\n- P4-006: Optimistic responses\n\nCLAUDE.md: GraphQL inputs don't need Zod (schema validation sufficient)\nLEARNINGS.md: Added patterns for subscriptions, optimistic responses\nDocker/justfile: Full stack dev setup with `just dev`\n\nCo-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>",
+        "sha": "b9c8f03342cec23d9c1b3f968c2a0d5a836cb402",
+        "url": "https://github.com/YuriiHoliuk/budget-sync/commit/b9c8f03342cec23d9c1b3f968c2a0d5a836cb402"
+      },
+      {
+        "date": "2026-02-02T19:12:39Z",
+        "message": "Add Move Funds dialog for transferring money between budgets (P4-003)\n\nCo-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>",
+        "sha": "35158b7ad41b5dd8e2e4ae07b753aac10d61379b",
+        "url": "https://github.com/YuriiHoliuk/budget-sync/commit/35158b7ad41b5dd8e2e4ae07b753aac10d61379b"
+      },
+      {
+        "date": "2026-02-02T19:04:10Z",
+        "message": "Add Budget table with inline allocation editing (P4-002)\n\nBuild YNAB-style budget table grouped by type (Spending, Savings, Goals,\nPeriodic) with inline allocation editing. Click any allocation cell to\nedit the amount \u2014 creates a new allocation via GraphQL mutation and\nrefetches all metrics. Includes color-coded available column, progress\nbars, and group subtotals. Lifted monthlyOverview query to page level\nto share data between header and table components.\n\nCo-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>",
+        "sha": "02aab1f94f0084bf6e7f90e4d5c905dba3018b5a",
+        "url": "https://github.com/YuriiHoliuk/budget-sync/commit/02aab1f94f0084bf6e7f90e4d5c905dba3018b5a"
+      },
+      {
+        "date": "2026-02-02T18:55:07Z",
+        "message": "Add Monthly Overview header with key metrics on Budget page (P4-001)\n\n- Created monthlyOverview GraphQL query document\n- Fixed codegen to generate DocumentNode (not string) for Apollo Client\n- Built MonthlyOverviewHeader with Ready to Assign banner (color-coded),\n  Available Funds, Capital, Total Allocated, Total Spent, Savings Rate\n- Added currency/percent formatters (Ukrainian locale, UAH)\n- Installed ShadCN badge component\n\nCo-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>",
+        "sha": "952bf458286bfcc32fff34af34e3f84d4a72e4f9",
+        "url": "https://github.com/YuriiHoliuk/budget-sync/commit/952bf458286bfcc32fff34af34e3f84d4a72e4f9"
+      },
+      {
+        "date": "2026-02-02T18:48:16Z",
+        "message": "Add app layout with navigation sidebar, month selector, and dark mode (P3-003)\n\nCo-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>",
+        "sha": "cd095d736123f63a4a31089baa5d8043ad7791e7",
+        "url": "https://github.com/YuriiHoliuk/budget-sync/commit/cd095d736123f63a4a31089baa5d8043ad7791e7"
+      },
+      {
+        "date": "2026-02-02T18:41:03Z",
+        "message": "Add Next.js frontend with ShadCN UI, Apollo Client, and GraphQL codegen (P3-001, P3-002)\n\nCo-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>",
+        "sha": "b5de7ad35df56d5297266bf4ce9166d26763bf07",
+        "url": "https://github.com/YuriiHoliuk/budget-sync/commit/b5de7ad35df56d5297266bf4ce9166d26763bf07"
+      },
+      {
+        "date": "2026-02-02T18:33:49Z",
+        "message": "Add GraphQL Monthly Overview computed query (P2-007)\n\nImplement YNAB-style envelope budgeting computations with a pure\nBudgetCalculationService in the domain layer and a monthlyOverview\nGraphQL query that returns key financial metrics and per-budget summaries.\n\nCo-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>",
+        "sha": "34daace3ea670c869f86aafda32d7ea886a535aa",
+        "url": "https://github.com/YuriiHoliuk/budget-sync/commit/34daace3ea670c869f86aafda32d7ea886a535aa"
+      },
+      {
+        "date": "2026-02-02T18:21:29Z",
+        "message": "Add GraphQL Transactions schema with queries and mutations (P2-006)\n\nCo-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>",
+        "sha": "f5cb6a7e9d70d5f919c73dba0807bb620958232a",
+        "url": "https://github.com/YuriiHoliuk/budget-sync/commit/f5cb6a7e9d70d5f919c73dba0807bb620958232a"
+      },
+      {
+        "date": "2026-02-02T18:11:35Z",
+        "message": "Add GraphQL Allocations schema with CRUD mutations (P2-005)\n\nImplement full allocation management for envelope budgeting: create, update,\ndelete allocations and move funds between budgets via paired allocations.\nIncludes domain entity, repository, use cases, GraphQL schema, resolver,\nand 20 unit tests (681 total pass).\n\nCo-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>",
+        "sha": "4e7760524010e9acc3a444e1d6901cb5380847d2",
+        "url": "https://github.com/YuriiHoliuk/budget-sync/commit/4e7760524010e9acc3a444e1d6901cb5380847d2"
+      },
+      {
+        "date": "2026-02-02T17:58:32Z",
+        "message": "Add GraphQL Categories schema with CRUD mutations (P2-004)\n\nCo-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>",
+        "sha": "0218ea58f27114b296c3a3e9db25fcb7544a56a8",
+        "url": "https://github.com/YuriiHoliuk/budget-sync/commit/0218ea58f27114b296c3a3e9db25fcb7544a56a8"
+      },
+      {
+        "date": "2026-02-02T17:48:55Z",
+        "message": "Add Budget CRUD mutations with use cases and tests (P2-003)\n\nImplement createBudget, updateBudget, and archiveBudget GraphQL mutations\nwith corresponding use cases in the application layer. Add update method\nto BudgetRepository across all implementations, domain errors for budget\noperations, and 18 unit tests covering all three use cases.\n\nCo-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>",
+        "sha": "7027a4998aeade4b2458ea89ef40251572425e5a",
+        "url": "https://github.com/YuriiHoliuk/budget-sync/commit/7027a4998aeade4b2458ea89ef40251572425e5a"
+      },
+      {
+        "date": "2026-02-02T17:36:00Z",
+        "message": "Fix Ralph loop to run Claude in project root directory\n\nThe justfile cd's into tools/ralph/ to resolve dependencies, but the\nspawned Claude process inherited that working directory. Added a --cwd\noption that gets passed through to the spawn call, and set it to the\njustfile directory so Claude always runs in the project root.\n\nCo-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>",
+        "sha": "6bf168e2c9cd4d3a76d3b3d21bb37465c5f30cb6",
+        "url": "https://github.com/YuriiHoliuk/budget-sync/commit/6bf168e2c9cd4d3a76d3b3d21bb37465c5f30cb6"
+      },
+      {
+        "date": "2026-02-02T17:30:12Z",
+        "message": "Add GraphQL Budgets schema with queries and resolver (P2-003)\n\nEnrich Budget domain entity with type, isArchived, target fields.\nAdd findById to BudgetRepository and all implementations.\nCreate budgets.graphql with BudgetType/TargetCadence enums and\nbudgets(activeOnly)/budget(id) queries.\n\nCo-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>",
+        "sha": "778bce91ee08cc1a0d4e9a56c0f5ccf2cdda0e78",
+        "url": "https://github.com/YuriiHoliuk/budget-sync/commit/778bce91ee08cc1a0d4e9a56c0f5ccf2cdda0e78"
+      },
+      {
+        "date": "2026-02-02T17:21:19Z",
+        "message": "Add GraphQL Accounts schema with queries and resolver\n\nImplements P2-002: Account type with AccountRole/AccountType enums,\naccounts and account(id) queries. Also adds role field to Account\ndomain entity and mapper to support operational/savings distinction.\n\nCo-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>",
+        "sha": "6f39c7c7e51d147d6ccbd4751caff485520a1f26",
+        "url": "https://github.com/YuriiHoliuk/budget-sync/commit/6f39c7c7e51d147d6ccbd4751caff485520a1f26"
+      },
+      {
+        "date": "2026-02-02T17:15:21Z",
+        "message": "Add GraphQL API foundation with Apollo Server integration\n\nSet up Apollo Server v5 with Bun HTTP server integration for the\nGraphQL API. Created src/modules/graphql/ module that bridges Apollo's\nexecuteHTTPGraphQLRequest with the existing HttpServer. Added initial\nschema with health check query and introspection support. Extended\nWebhookServer with async start and beforeStart hook for GraphQL\nregistration.\n\nCo-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>",
+        "sha": "751bdc02c2cff4967748951e1f693edb9499eb34",
+        "url": "https://github.com/YuriiHoliuk/budget-sync/commit/751bdc02c2cff4967748951e1f693edb9499eb34"
+      },
+      {
+        "date": "2026-02-02T17:06:37Z",
+        "message": "Add local dev environment and task decomposition for web app\n\nSet up Phase 1 of the web app implementation:\n- Docker Compose with local PostgreSQL (postgres:16-alpine)\n- Local DI container (container.local.ts) using real DB, mocked external services\n- Dev server entry point (server.ts) on port 4001 with health check\n- Mock gateways for Monobank, PubSub, and Gemini LLM\n- Database seed script with realistic test data (5 accounts, 23 categories,\n  15 budgets, 45 allocations, 186 transactions across 3 months)\n- New justfile commands: db-up, db-down, db-reset, db-seed, dev-server\n- Full task decomposition in TASKS.json (27 tasks across 9 phases)\n\nCo-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>",
+        "sha": "9d9646f65cc4f5ae3de411cb07ebc0e6c1dbad3a",
+        "url": "https://github.com/YuriiHoliuk/budget-sync/commit/9d9646f65cc4f5ae3de411cb07ebc0e6c1dbad3a"
+      },
+      {
+        "date": "2026-02-02T16:53:44Z",
+        "message": "Fix ralph prompt file resolution to use repo root PROMPT.md\n\nCo-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>",
+        "sha": "5b91a14ed8034f5242dadb3f439ddc1cd1b5b3d7",
+        "url": "https://github.com/YuriiHoliuk/budget-sync/commit/5b91a14ed8034f5242dadb3f439ddc1cd1b5b3d7"
+      },
+      {
+        "date": "2026-02-02T16:51:43Z",
+        "message": "Add Ralph autonomous loop tool and prompt config\n\nCo-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>",
+        "sha": "d2de55cc328f752d7102539be792a16aca36fa60",
+        "url": "https://github.com/YuriiHoliuk/budget-sync/commit/d2de55cc328f752d7102539be792a16aca36fa60"
+      },
+      {
+        "date": "2026-02-02T16:42:04Z",
+        "message": "add tasks json",
+        "sha": "567c1339d7effccd7d5c903fb2f0d02fa785e83a",
+        "url": "https://github.com/YuriiHoliuk/budget-sync/commit/567c1339d7effccd7d5c903fb2f0d02fa785e83a"
+      },
+      {
+        "date": "2026-02-02T16:40:33Z",
+        "message": "Add product requirements docs and design reference\n\nCo-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>",
+        "sha": "7b3aa5ec82104658ded0ce16b55bc7f3a9b0da23",
+        "url": "https://github.com/YuriiHoliuk/budget-sync/commit/7b3aa5ec82104658ded0ce16b55bc7f3a9b0da23"
+      },
+      {
+        "date": "2026-02-02T07:42:42Z",
+        "message": "Add Claude Code skills configuration\n\nCo-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>",
+        "sha": "41bde009a9a250a86eb8e3ab9f353005b5bcf3b0",
+        "url": "https://github.com/YuriiHoliuk/budget-sync/commit/41bde009a9a250a86eb8e3ab9f353005b5bcf3b0"
+      },
+      {
+        "date": "2026-02-01T17:18:56Z",
+        "message": "Fix lastSyncTime timestamp conversion and date parsing\n\n- DatabaseAccountMapper: lastSyncTime is already in milliseconds,\n  don't multiply by 1000 again\n- SpreadsheetTable: support dd.mm.yyyy date format common in\n  Ukrainian spreadsheets\n\nCo-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>",
+        "sha": "7339ce2b07186666937c563881e8829d50449c82",
+        "url": "https://github.com/YuriiHoliuk/budget-sync/commit/7339ce2b07186666937c563881e8829d50449c82"
+      },
+      {
+        "date": "2026-02-01T17:09:51Z",
+        "message": "Retrigger Terraform after adding DATABASE_URL secret value\n\nCo-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>",
+        "sha": "f49faa1bf256a731a0fd347d9259c99857c9c1b5",
+        "url": "https://github.com/YuriiHoliuk/budget-sync/commit/f49faa1bf256a731a0fd347d9259c99857c9c1b5"
+      },
+      {
+        "date": "2026-02-01T17:08:53Z",
+        "message": "Retrigger Terraform apply after adding DATABASE_URL secret version\n\nCo-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>",
+        "sha": "aef37ce6af9cd0556ad30af13a7f767b648514a8",
+        "url": "https://github.com/YuriiHoliuk/budget-sync/commit/aef37ce6af9cd0556ad30af13a7f767b648514a8"
+      },
+      {
+        "date": "2026-02-01T17:06:34Z",
+        "message": "Add dual-write database layer with Neon Postgres\n\nImplement database migration infrastructure for transitioning from\nspreadsheet-only storage to a dual-write architecture (Neon Postgres\nprimary + spreadsheet mirror). Includes Drizzle ORM schema, database\nrepositories, dual-write orchestrators, DI wiring, migration scripts,\nand comprehensive test coverage.\n\nCo-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>",
+        "sha": "aa78177e55f4b2af4559c118f30d8c03435f8498",
+        "url": "https://github.com/YuriiHoliuk/budget-sync/commit/aa78177e55f4b2af4559c118f30d8c03435f8498"
+      },
+      {
+        "date": "2026-02-01T14:14:58Z",
+        "message": "Replace budget ID references with name-based lookups\n\nPrepare spreadsheet for database migration by removing internal\nbudget IDs (budget-001, etc.) that only existed in the spreadsheet.\nAll cross-sheet references now use budget names, which is how the\napplication code already works.\n\nSpreadsheet changes (applied via API, not in this diff):\n- Removed ID column from \u0411\u044e\u0434\u0436\u0435\u0442\u0438 sheet\n- Replaced budget IDs with names in \u0412\u0438\u0434\u0456\u043b\u0435\u043d\u0456 \u043a\u043e\u0448\u0442\u0438 column B\n- Updated \u041c\u0456\u0441\u044f\u0447\u043d\u0438\u0439 \u043e\u0433\u043b\u044f\u0434 FILTER formula to reference by name\n\nScript and doc changes:\n- setup-monthly-view.ts: align row numbers with actual sheet layout\n  (headers row 11, data rows 12-50), use name-based \u0411\u044e\u0434\u0436\u0435\u0442\u0438 refs\n- validate-formulas.ts: fix row indices, swap \u041a\u0430\u043f\u0456\u0442\u0430\u043b/\u0414\u043e\u0441\u0442\u0443\u043f\u043d\u0456 order,\n  validate budget names instead of IDs, relax rollover check to warning\n- setup-dashboard.ts: update comments for name-based column A\n- docs: update budget-allocation-design.md and monthly-overview-sheet.md\n\nCo-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>",
+        "sha": "c2e98a76c471553cec914e936ea017d477c060e3",
+        "url": "https://github.com/YuriiHoliuk/budget-sync/commit/c2e98a76c471553cec914e936ea017d477c060e3"
+      },
+      {
+        "date": "2026-01-31T08:30:21Z",
+        "message": "Add batch categorize CLI command for uncategorized transactions\n\nRotated leaked Gemini API key and added `categorize` CLI command\nthat finds transactions without category/budget and runs LLM\ncategorization with configurable rate-limit delay.\n\nCo-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>",
+        "sha": "d57600c2aaf8de12f8871e53da160b8bafa6829e",
+        "url": "https://github.com/YuriiHoliuk/budget-sync/commit/d57600c2aaf8de12f8871e53da160b8bafa6829e"
+      }
+    ],
+    "mate-academy/website": [
+      {
+        "date": "2026-02-13T14:54:09Z",
+        "message": "[FE | Attachment Flow]: Add status history sidebar styles and components (#41344)\n\nCo-authored-by: Claude Opus 4.6 <noreply@anthropic.com>",
+        "sha": "11448639a95cd49df38600f0563ca7264cc54c86",
+        "url": "https://github.com/mate-academy/website/commit/11448639a95cd49df38600f0563ca7264cc54c86"
+      },
+      {
+        "date": "2026-02-12T18:31:12Z",
+        "message": "[Permissions]: Migrate ManageServiceUsers (#41225)",
+        "sha": "ff842001b800fd297dd8c82c244bbd30d1f2137e",
+        "url": "https://github.com/mate-academy/website/commit/ff842001b800fd297dd8c82c244bbd30d1f2137e"
+      },
+      {
+        "date": "2026-02-12T17:21:57Z",
+        "message": "[Permissions]: Migrate CourseWrite (#41224)\n\n* [Permissions]: Migrate CourseWrite\n\n* Remove duplicate seeder and permission entry already on master",
+        "sha": "b3a7b32d7f80ab18b9183ef98b0ca1dd5827c01c",
+        "url": "https://github.com/mate-academy/website/commit/b3a7b32d7f80ab18b9183ef98b0ca1dd5827c01c"
+      },
+      {
+        "date": "2026-02-12T15:12:03Z",
+        "message": "[CI | API Coverage]: Exclude models from diff coverage check (#41318)",
+        "sha": "e4f4161c68bcf09c9ebae05b95dbf3c5a54d8ff2",
+        "url": "https://github.com/mate-academy/website/commit/e4f4161c68bcf09c9ebae05b95dbf3c5a54d8ff2"
+      },
+      {
+        "date": "2026-02-12T14:46:47Z",
+        "message": "[CI | API Coverage]: Skip diff coverage check on master push events (#41316)",
+        "sha": "3ef649039587b3cbb0d30c76dc7fed273f6625b4",
+        "url": "https://github.com/mate-academy/website/commit/3ef649039587b3cbb0d30c76dc7fed273f6625b4"
+      },
+      {
+        "date": "2026-02-12T13:39:25Z",
+        "message": "[CI | API Coverage]: Add 'all' flag to include untested files in coverage (#41135)\n\nCo-authored-by: Claude Opus 4.5 <noreply@anthropic.com>",
+        "sha": "f593a2d5aeb232715a0ef6cd55f4c7e271be750c",
+        "url": "https://github.com/mate-academy/website/commit/f593a2d5aeb232715a0ef6cd55f4c7e271be750c"
+      },
+      {
+        "date": "2026-02-12T12:47:43Z",
+        "message": "[Permissions]: Migrate CompanyAccess (#41217)",
+        "sha": "75e16e159d4faf365eba43675deecdd04613855d",
+        "url": "https://github.com/mate-academy/website/commit/75e16e159d4faf365eba43675deecdd04613855d"
+      },
+      {
+        "date": "2026-02-12T12:18:37Z",
+        "message": "[Infra | NGINX Rate Limits]: Add nginxRateLimitMonitor Lambda for unique IP monitoring (#41153)\n\nCo-authored-by: Claude Opus 4.5 <noreply@anthropic.com>",
+        "sha": "7e250fd79240f67b0377f05252a4f32644ab463e",
+        "url": "https://github.com/mate-academy/website/commit/7e250fd79240f67b0377f05252a4f32644ab463e"
+      },
+      {
+        "date": "2026-02-12T12:08:58Z",
+        "message": "[Permissions]: Migrate LoanTransactionsUpdate (#41216)",
+        "sha": "b396338908008bf2871851f21dd28699e327a7c5",
+        "url": "https://github.com/mate-academy/website/commit/b396338908008bf2871851f21dd28699e327a7c5"
+      },
+      {
+        "date": "2026-02-12T11:18:30Z",
+        "message": "[Permissions]: Migrate LoanTransactionsRead (#41214)",
+        "sha": "0df2b542cdc578ee6b68160b26275c80b99ed85c",
+        "url": "https://github.com/mate-academy/website/commit/0df2b542cdc578ee6b68160b26275c80b99ed85c"
+      },
+      {
+        "date": "2026-02-12T11:16:30Z",
+        "message": "[FE | Attachment Flow]: Add step detail cards with mock scenario support (#41043)",
+        "sha": "23d0ee5ab93e7cc61bfc7f8c0027793f2c5a8f45",
+        "url": "https://github.com/mate-academy/website/commit/23d0ee5ab93e7cc61bfc7f8c0027793f2c5a8f45"
+      },
+      {
+        "date": "2026-02-12T09:50:49Z",
+        "message": "[Permissions]: Migrate ContractorsWrite (#41213)",
+        "sha": "d85d22c2d4bb08ff54013a86399a49a08b3c3f39",
+        "url": "https://github.com/mate-academy/website/commit/d85d22c2d4bb08ff54013a86399a49a08b3c3f39"
+      },
+      {
+        "date": "2026-02-12T08:04:11Z",
+        "message": "[Permissions]: Migrate ContractorsRead (#41212)",
+        "sha": "b5b7506e728b97c6b5c10cd47a8eacf8901d944e",
+        "url": "https://github.com/mate-academy/website/commit/b5b7506e728b97c6b5c10cd47a8eacf8901d944e"
+      },
+      {
+        "date": "2026-02-12T07:19:52Z",
+        "message": "[Permissions]: Migrate ReviewPluginHomeworkDirectLinkAccess (#41211)",
+        "sha": "bcee4e22ce84903a51bcec93dacb8d460af6ebe7",
+        "url": "https://github.com/mate-academy/website/commit/bcee4e22ce84903a51bcec93dacb8d460af6ebe7"
+      },
+      {
+        "date": "2026-02-12T06:23:14Z",
+        "message": "[Permissions]: Migrate CourseTopicTasksRead (#41181)",
+        "sha": "519046d04de2089a45286e62778882bb9a308c73",
+        "url": "https://github.com/mate-academy/website/commit/519046d04de2089a45286e62778882bb9a308c73"
+      },
+      {
+        "date": "2026-02-11T20:14:54Z",
+        "message": "[Permissions]: Migrate SubscriptionPurchaseLinkWrite (#41179)",
+        "sha": "882092d814d48a45c966dc6339162379804179f1",
+        "url": "https://github.com/mate-academy/website/commit/882092d814d48a45c966dc6339162379804179f1"
+      },
+      {
+        "date": "2026-02-11T18:55:46Z",
+        "message": "[Permissions]: Migrate SubscriptionPurchaseLinkRead (#41177)",
+        "sha": "489ce719db9ce9dbcf13bd1029d246fad1b70a87",
+        "url": "https://github.com/mate-academy/website/commit/489ce719db9ce9dbcf13bd1029d246fad1b70a87"
+      },
+      {
+        "date": "2026-02-11T16:25:35Z",
+        "message": "[Permissions]: Migrate ContractorsRateRead (#41210)",
+        "sha": "36c3964777cbf9e07942013bbf2cb1287e41aaa4",
+        "url": "https://github.com/mate-academy/website/commit/36c3964777cbf9e07942013bbf2cb1287e41aaa4"
+      },
+      {
+        "date": "2026-02-11T15:31:09Z",
+        "message": "[Permissions]: Migrate WorkingTimeWrite (#41209)",
+        "sha": "c8fbca940458ac350c51f0096b254c5207d3308b",
+        "url": "https://github.com/mate-academy/website/commit/c8fbca940458ac350c51f0096b254c5207d3308b"
+      },
+      {
+        "date": "2026-02-11T14:34:22Z",
+        "message": "[Permissions]: Migrate WorkingTimeRead (#41208)",
+        "sha": "b31f82bb1c5570e137008e1987dc23bdffda7bd5",
+        "url": "https://github.com/mate-academy/website/commit/b31f82bb1c5570e137008e1987dc23bdffda7bd5"
+      },
+      {
+        "date": "2026-02-11T11:44:05Z",
+        "message": "[Permissions]: Migrate ChatGuidelineWrite (#41175)",
+        "sha": "66cc0c9d47e96c91ea70f61a6e4f862e20948464",
+        "url": "https://github.com/mate-academy/website/commit/66cc0c9d47e96c91ea70f61a6e4f862e20948464"
+      },
+      {
+        "date": "2026-02-11T10:28:14Z",
+        "message": "[Permissions]: Migrate ChatGuidelineRead (#41174)",
+        "sha": "1ddc03b3523564ae220c896aa10c8ae0ed9b2831",
+        "url": "https://github.com/mate-academy/website/commit/1ddc03b3523564ae220c896aa10c8ae0ed9b2831"
+      },
+      {
+        "date": "2026-02-11T09:24:23Z",
+        "message": "[Permissions]: Migrate ChatGuidelineMessageWrite (#41171)",
+        "sha": "bacccebaaa7c756242b4a180c07da9c21fe4c60a",
+        "url": "https://github.com/mate-academy/website/commit/bacccebaaa7c756242b4a180c07da9c21fe4c60a"
+      },
+      {
+        "date": "2026-02-11T08:15:37Z",
+        "message": "[Permissions]: Migrate ChatGuidelineMessageRead (#41170)",
+        "sha": "49d999ee6441f860c34f9d85abb7d0d697830100",
+        "url": "https://github.com/mate-academy/website/commit/49d999ee6441f860c34f9d85abb7d0d697830100"
+      },
+      {
+        "date": "2026-02-10T21:12:33Z",
+        "message": "[Permissions]: Migrate ChatMessagesRead (#41169)",
+        "sha": "488fe4fa16c9bfdd8999db3aa0f8a7908401f21b",
+        "url": "https://github.com/mate-academy/website/commit/488fe4fa16c9bfdd8999db3aa0f8a7908401f21b"
+      },
+      {
+        "date": "2026-02-10T11:20:08Z",
+        "message": "[Permissions]: Migrate ChatMessageWrite (#41168)",
+        "sha": "2057af44b4cdcb27e808b8e77242ff6bdd384578",
+        "url": "https://github.com/mate-academy/website/commit/2057af44b4cdcb27e808b8e77242ff6bdd384578"
+      },
+      {
+        "date": "2026-02-10T09:18:38Z",
+        "message": "[Permissions]: Migrate CourseWrite (#41166)",
+        "sha": "4ce0f119393760dbc3bafe18593063b8959b42d2",
+        "url": "https://github.com/mate-academy/website/commit/4ce0f119393760dbc3bafe18593063b8959b42d2"
+      },
+      {
+        "date": "2026-02-09T11:13:14Z",
+        "message": "[DX]: Update PR skill and init scripts for Claude Code setup (#41156)\n\n- Update pull-request skill to support new task creation flow with ClickUp\n- Add init_claude_code_settings to init-project.sh for MCP server setup\n- Copy .claude/settings.local.json in worktree creation",
+        "sha": "4f0079f22248c79cdef27ba62c8446c437afa333",
+        "url": "https://github.com/mate-academy/website/commit/4f0079f22248c79cdef27ba62c8446c437afa333"
+      },
+      {
+        "date": "2026-02-06T09:25:13Z",
+        "message": "[Permissions]: Migrate TestTaskWrite (#40956)\n\n* [Permissions]: Migrate TestTaskWrite permission\n\n* Retrigger CI\n\n* Retrigger CI\n\n* Fix lint errors: remove unused import, fix line length\n\nCo-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>\n\n* Retrigger CI\n\n---------\n\nCo-authored-by: Claude Opus 4.5 <noreply@anthropic.com>",
+        "sha": "523e90707812697603d8a4a0b63f294c704bf905",
+        "url": "https://github.com/mate-academy/website/commit/523e90707812697603d8a4a0b63f294c704bf905"
+      },
+      {
+        "date": "2026-02-05T16:17:20Z",
+        "message": "[ma-website-api]: Fix production API errors batch (#41109)\n\n- Add serializeError utility to LLM Gateway for proper error logging\n- Increase AutoTechCheck retry count from 2 to 3, add maxRetries to error logs\n- Validate course slug exists in ProcessLearnItemOpenedAction before FK update\n- Fix HTTP status codes: use 400 BadRequest instead of 403 Forbidden for validation errors\n- Add Google Docs API retry with exponential backoff for transient errors\n\nCo-authored-by: Claude Opus 4.5 <noreply@anthropic.com>",
+        "sha": "ecc8db0cd5035120392276312b2525f135dc70b8",
+        "url": "https://github.com/mate-academy/website/commit/ecc8db0cd5035120392276312b2525f135dc70b8"
+      },
+      {
+        "date": "2026-02-05T15:52:29Z",
+        "message": "[Permissions]: Migrate ChatRead (#40679)\n\n* [Permissions]: Migrate ChatRead permission\n\nCo-Authored-By: Claude Sonnet 4.5 <noreply@anthropic.com>\n\n* Trigger CI rerun\n\n* Fix integration tests to use ChatAccessChat permission\n\nUpdated chat message integration tests to grant ChatAccessChat permission\nto users alongside ChatWriteChatMessage. Tests were failing because the\nmigrated code now requires ChatAccessChat permission to access chats,\nbut tests were only granting the deprecated ChatMessageWrite to domains.\n\nFixed by:\n- Adding ChatAccessChat permission grants using addPermissionsToUser\n- Replacing deprecated domain-level permission grants with user-level grants\n- Using new permissions.ChatWriteChatMessage instead of PermissionDeprecated.ChatMessageWrite\n\nThis ensures tests properly simulate users with both chat access and\nmessage writing permissions.\n\nCo-Authored-By: Claude Sonnet 4.5 <noreply@anthropic.com>\n\n* revert unneeded changes\n\n* Fix incorrect permission migration - keep ChatMessageWrite and ChatMessagesRead as deprecated\n\n* Trigger CI re-run\n\n---------\n\nCo-authored-by: Claude Sonnet 4.5 <noreply@anthropic.com>",
+        "sha": "6229e855131ca268fc837a6ffc93251011ef2986",
+        "url": "https://github.com/mate-academy/website/commit/6229e855131ca268fc837a6ffc93251011ef2986"
+      },
+      {
+        "date": "2026-02-05T14:28:12Z",
+        "message": "[Permissions]: Migrate TechCheckTemplatesWrite (#40672)\n\n* [Permissions]: Migrate TechCheckTemplatesWrite\n\nCo-Authored-By: Claude Sonnet 4.5 <noreply@anthropic.com>\n\n* Fix permission migration in legacy seeders\n\nCo-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>\n\n* Trigger CI re-run after spot instance failures\n\n* Retrigger CI\n\n* Remove TechCheckTemplatesWrite from E2E permissions test data\n\n* Revert legacy seeder changes to avoid ESLint failures\n\nThe legacy seeder files have pre-existing ESLint violations that\nget flagged when the files are modified. Reverting to avoid CI\nfailures since we shouldn't fix ESLint in old seeder/migration scripts.\n\n---------\n\nCo-authored-by: Claude Sonnet 4.5 <noreply@anthropic.com>",
+        "sha": "2dc0a46dfe3898d1a85efb5a3c108a45fccd5d08",
+        "url": "https://github.com/mate-academy/website/commit/2dc0a46dfe3898d1a85efb5a3c108a45fccd5d08"
+      },
+      {
+        "date": "2026-02-05T12:44:33Z",
+        "message": "[Chore | PF-12737]: Remove deprecated .env file support (#41107)",
+        "sha": "1af1312da2a66dfe6959b7b1f5ebd365bba7ef11",
+        "url": "https://github.com/mate-academy/website/commit/1af1312da2a66dfe6959b7b1f5ebd365bba7ef11"
+      },
+      {
+        "date": "2026-02-05T10:03:16Z",
+        "message": "[CLI Tools | Dev Workflow]: Add multi-service support with make add/stop pattern (#41077)",
+        "sha": "0f529dcf058437b536a23bda8f26efba08b1953d",
+        "url": "https://github.com/mate-academy/website/commit/0f529dcf058437b536a23bda8f26efba08b1953d"
+      },
+      {
+        "date": "2026-02-04T22:13:50Z",
+        "message": "[On-call]: Fix frontend GraphQL errors triggering PagerDuty (#41091)",
+        "sha": "809b85ac8e5e004f63694382db63fab312eeb854",
+        "url": "https://github.com/mate-academy/website/commit/809b85ac8e5e004f63694382db63fab312eeb854"
+      },
+      {
+        "date": "2026-02-04T21:29:00Z",
+        "message": "[Permissions]: Migrate TechCheckSessionsWrite (#40670)\n\nCo-authored-by: Claude Sonnet 4.5 <noreply@anthropic.com>",
+        "sha": "6adc4efac17d67c17b788b98ea8e5db2a7aeab3f",
+        "url": "https://github.com/mate-academy/website/commit/6adc4efac17d67c17b788b98ea8e5db2a7aeab3f"
+      },
+      {
+        "date": "2026-02-04T19:40:45Z",
+        "message": "[API | Permissions]: Add external_content_manager role with permissions (#41082)",
+        "sha": "c30aef15fceff8cc10b0dceee3e1b5647a3d56d4",
+        "url": "https://github.com/mate-academy/website/commit/c30aef15fceff8cc10b0dceee3e1b5647a3d56d4"
+      },
+      {
+        "date": "2026-02-04T15:14:16Z",
+        "message": "[Permissions]: Migrate TechCheckSessionsRead (#40669)\n\nCo-authored-by: Claude Sonnet 4.5 <noreply@anthropic.com>",
+        "sha": "57ea713f44476bf72c0f99e1f19a6f9b13273105",
+        "url": "https://github.com/mate-academy/website/commit/57ea713f44476bf72c0f99e1f19a6f9b13273105"
+      },
+      {
+        "date": "2026-02-04T13:18:39Z",
+        "message": "[API | TC Bulk Upload]: Fix null checkphrases crash and stale return data (#41072)\n\n- Handle null checkphrases from GraphQL using nullish coalescing (destructuring defaults only cover undefined, not null)\n- Return updated question with answerText from createQuestion instead of stale create result",
+        "sha": "0fc738c34f4c6968b7321b0cbeafed61152494fa",
+        "url": "https://github.com/mate-academy/website/commit/0fc738c34f4c6968b7321b0cbeafed61152494fa"
+      },
+      {
+        "date": "2026-02-04T13:03:01Z",
+        "message": "[CI | Spot Termination]: Rename monitor script and update wording for generic job usage (#41073)",
+        "sha": "5c7fb226d440102d83f3d49da40107540e0fc706",
+        "url": "https://github.com/mate-academy/website/commit/5c7fb226d440102d83f3d49da40107540e0fc706"
+      },
+      {
+        "date": "2026-02-04T11:41:31Z",
+        "message": "[Permissions]: Migrate TechCheckTopicsRead (#40666)\n\n* [Permissions]: Migrate TechCheckTopicsRead\n\nCo-Authored-By: Claude Sonnet 4.5 <noreply@anthropic.com>\n\n* Trigger CI\n\n* Trigger CI rerun\n\n* Fix permission name: ManageTechChecks -> ManageTechCheck\n\n* Revert TechCheckTopicsWrite changes, keep only TechCheckTopicsRead migration\n\nCo-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>\n\n* Fix duplicate permission entries in E2E tests\n\n* Fix non-existent PermissionDeprecated.TechCheckTopicsWrite enum reference\n\n---------\n\nCo-authored-by: Claude Sonnet 4.5 <noreply@anthropic.com>",
+        "sha": "85515436af942ea91f6879ba5effabdbebfbcea1",
+        "url": "https://github.com/mate-academy/website/commit/85515436af942ea91f6879ba5effabdbebfbcea1"
+      },
+      {
+        "date": "2026-02-04T09:59:26Z",
+        "message": "[Permissions]: Migrate RemoveSkeleton (#40662)\n\n* [Permissions]: Migrate RemoveSkeleton\n\nCo-Authored-By: Claude Sonnet 4.5 <noreply@anthropic.com>\n\n* Fix permission name in seeder: ManageEventSkeleton not ManageEventSkeletons\n\nCo-Authored-By: Claude Sonnet 4.5 <noreply@anthropic.com>\n\n* Use full permissions object instead of eventPermissions\n\n---------\n\nCo-authored-by: Claude Sonnet 4.5 <noreply@anthropic.com>",
+        "sha": "29641248129fd6c604a3a5f386708d85b1630790",
+        "url": "https://github.com/mate-academy/website/commit/29641248129fd6c604a3a5f386708d85b1630790"
+      },
+      {
+        "date": "2026-02-04T09:45:00Z",
+        "message": "[Claude Skills]: Improve skill instructions for PR workflows and CI debugging (#41063)",
+        "sha": "581948756f52080143b89c95b8712eeed9e78fb4",
+        "url": "https://github.com/mate-academy/website/commit/581948756f52080143b89c95b8712eeed9e78fb4"
+      },
+      {
+        "date": "2026-02-04T09:36:56Z",
+        "message": "[CI | Spot Termination]: Add spot instance detection and auto-rerun for build jobs (#41042)",
+        "sha": "dfad8b0a6798c5090011ea9f8a65daaf4f7f39a0",
+        "url": "https://github.com/mate-academy/website/commit/dfad8b0a6798c5090011ea9f8a65daaf4f7f39a0"
+      },
+      {
+        "date": "2026-02-04T09:01:48Z",
+        "message": "[Translates]: Fix undefined skipFullLanguageListCheck in vacancies uk translates seeder (#41060)",
+        "sha": "9ee2a8f38c050bccd14569ec85b606f67d01c95f",
+        "url": "https://github.com/mate-academy/website/commit/9ee2a8f38c050bccd14569ec85b606f67d01c95f"
+      },
+      {
+        "date": "2026-02-03T14:45:10Z",
+        "message": "[Serverless | Gmail Webhooks]: Fix Greg Wilson refund bug and add integration tests (#41036)",
+        "sha": "dfadb627dce979c7bcd97ae8e3b30fa113d23309",
+        "url": "https://github.com/mate-academy/website/commit/dfadb627dce979c7bcd97ae8e3b30fa113d23309"
+      },
+      {
+        "date": "2026-02-02T15:42:39Z",
+        "message": "[INF-2962]: Update detect-jobs-to-run to skip built-tag override for PRs (#41021)",
+        "sha": "98683d473df33efad2159d86afa7a41911bc14aa",
+        "url": "https://github.com/mate-academy/website/commit/98683d473df33efad2159d86afa7a41911bc14aa"
+      },
+      {
+        "date": "2026-02-02T14:55:17Z",
+        "message": "[FE | Tech Check Bulk Upload]: Fix parser errors, restructure checkphrases, add question numbers (#41006)",
+        "sha": "8a8af88af7674990b0d19208c49693e428f7c26e",
+        "url": "https://github.com/mate-academy/website/commit/8a8af88af7674990b0d19208c49693e428f7c26e"
+      },
+      {
+        "date": "2026-02-02T14:01:16Z",
+        "message": "[Platform | Working Time]: Add Work on Content activity type (#40958)",
+        "sha": "f17d98e5b16db5832bb470ea039473b7418a8bde",
+        "url": "https://github.com/mate-academy/website/commit/f17d98e5b16db5832bb470ea039473b7418a8bde"
+      },
+      {
+        "date": "2026-02-02T11:59:22Z",
+        "message": "[Docs]: Replace outdated CDGuideline with current deployment guide (#41005)",
+        "sha": "e283a4b86e9b71671dabd29141ac44fc5c2ae7f6",
+        "url": "https://github.com/mate-academy/website/commit/e283a4b86e9b71671dabd29141ac44fc5c2ae7f6"
+      },
+      {
+        "date": "2026-01-31T09:01:00Z",
+        "message": "[FE | Tech Check Bulk Upload]: Fix type-safe route usage for question and bulk upload links (#40995)",
+        "sha": "c8474aa25c7dbac6c3145232eb1266a966a3df4d",
+        "url": "https://github.com/mate-academy/website/commit/c8474aa25c7dbac6c3145232eb1266a966a3df4d"
+      }
+    ],
+    "mate-academy/website-detect-jobs-to-run": [
+      {
+        "date": "2026-02-02T15:32:55Z",
+        "message": "[INF-2962]: Skip built-tag base override for pull requests (#83)",
+        "sha": "9d8edb12aabf1b6010774badb22b58e078b92540",
+        "url": "https://github.com/mate-academy/website-detect-jobs-to-run/commit/9d8edb12aabf1b6010774badb22b58e078b92540"
+      }
+    ]
+  }
+}

@@ -1,0 +1,799 @@
+{
+  "user": "YuriiHoliuk",
+  "period_start": "2026-02-14",
+  "period_end": "2026-02-23",
+  "generated_at": "2026-02-23T13:38:48.552059+00:00",
+  "pull_requests": [
+    {
+      "closed_at": "2026-02-20T08:21:30Z",
+      "created_at": "2026-02-20T07:24:23Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/41563",
+      "labels": [
+        "task"
+      ],
+      "merged_at": "2026-02-20T08:21:30Z",
+      "number": 41563,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "closed",
+      "title": "[CI | Detect Jobs]: Fix stale ECR image detection for PRs",
+      "updated_at": "2026-02-20T08:21:31Z",
+      "additions": 1,
+      "changed_files": 1,
+      "comments": 1,
+      "deletions": 1,
+      "merge_commit_sha": "beb427c9031eb731464c42eb2bcb17de3595a268",
+      "merged": true,
+      "review_comments": 0
+    },
+    {
+      "closed_at": "2026-02-20T07:21:45Z",
+      "created_at": "2026-02-19T18:41:40Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website-detect-jobs-to-run/pull/89",
+      "labels": [],
+      "merged_at": "2026-02-20T07:21:45Z",
+      "number": 89,
+      "repo_url": "https://api.github.com/repos/mate-academy/website-detect-jobs-to-run",
+      "state": "closed",
+      "title": "[Build]: Detect stale ECR images for PR build dependency resolution",
+      "updated_at": "2026-02-20T07:21:47Z",
+      "additions": 233,
+      "changed_files": 5,
+      "comments": 0,
+      "deletions": 9,
+      "merge_commit_sha": "40082c6c1435a52b1f048546a4dd93c77b644e98",
+      "merged": true,
+      "review_comments": 0
+    },
+    {
+      "closed_at": "2026-02-19T17:43:41Z",
+      "created_at": "2026-02-19T14:59:29Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/41548",
+      "labels": [
+        "task"
+      ],
+      "merged_at": "2026-02-19T17:43:41Z",
+      "number": 41548,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "closed",
+      "title": "[CI | API Coverage]: Add line-level diff coverage check",
+      "updated_at": "2026-02-19T17:43:42Z",
+      "additions": 2313,
+      "changed_files": 25,
+      "comments": 1,
+      "deletions": 340,
+      "merge_commit_sha": "7261bc92249913e52ae06baa844ab8c7ff47bc50",
+      "merged": true,
+      "review_comments": 0
+    },
+    {
+      "closed_at": "2026-02-19T15:48:09Z",
+      "created_at": "2026-02-19T14:59:03Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/41547",
+      "labels": [
+        "task"
+      ],
+      "merged_at": "2026-02-19T15:48:09Z",
+      "number": 41547,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "closed",
+      "title": "[DevTools | E2E]: Modernize E2E environment management",
+      "updated_at": "2026-02-19T15:48:11Z",
+      "additions": 980,
+      "changed_files": 16,
+      "comments": 1,
+      "deletions": 195,
+      "merge_commit_sha": "9e8767f0dd2b84b6c2bad8feedceee8efeb7549b",
+      "merged": true,
+      "review_comments": 0
+    },
+    {
+      "closed_at": "2026-02-19T15:24:23Z",
+      "created_at": "2026-02-18T14:21:12Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/41510",
+      "labels": [
+        "task"
+      ],
+      "merged_at": null,
+      "number": 41510,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "closed",
+      "title": "[CI | API Coverage]: Add line-level diff coverage check (FAIL test)",
+      "updated_at": "2026-02-19T15:24:31Z",
+      "additions": 474,
+      "changed_files": 3,
+      "comments": 1,
+      "deletions": 108,
+      "merge_commit_sha": "6b41cb53129435e90042cd2a28f333392f180c29",
+      "merged": false,
+      "review_comments": 0
+    },
+    {
+      "closed_at": "2026-02-19T13:50:04Z",
+      "created_at": "2026-02-18T14:20:15Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/41509",
+      "labels": [
+        "task"
+      ],
+      "merged_at": null,
+      "number": 41509,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "closed",
+      "title": "[CI | API Coverage]: Add line-level diff coverage check (PASS test)",
+      "updated_at": "2026-02-19T13:50:04Z",
+      "additions": 2252,
+      "changed_files": 19,
+      "comments": 2,
+      "deletions": 340,
+      "merge_commit_sha": "4fc45affddcb84cb6867608f66ab24c02582ab4a",
+      "merged": false,
+      "review_comments": 3
+    },
+    {
+      "closed_at": "2026-02-18T13:59:31Z",
+      "created_at": "2026-02-18T13:54:58Z",
+      "draft": false,
+      "html_url": "https://github.com/YuriiHoliuk/budget-sync/pull/11",
+      "labels": [],
+      "merged_at": "2026-02-18T13:59:31Z",
+      "number": 11,
+      "repo_url": "https://api.github.com/repos/YuriiHoliuk/budget-sync",
+      "state": "closed",
+      "title": "Remove RETURNING type, implement single-transaction returning model",
+      "updated_at": "2026-02-18T13:59:35Z",
+      "additions": 753,
+      "changed_files": 30,
+      "comments": 0,
+      "deletions": 490,
+      "merge_commit_sha": "c8dac0d208799f125d4ed04d6c073aa7932b4855",
+      "merged": true,
+      "review_comments": 0
+    },
+    {
+      "closed_at": "2026-02-18T10:59:15Z",
+      "created_at": "2026-02-18T10:12:19Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/41496",
+      "labels": [
+        "task"
+      ],
+      "merged_at": "2026-02-18T10:59:15Z",
+      "number": 41496,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "closed",
+      "title": "[FE | GitHub Flow]: Change AI mentor fallback name from AI Buddy to Luke AI",
+      "updated_at": "2026-02-18T10:59:16Z",
+      "additions": 1,
+      "changed_files": 1,
+      "comments": 1,
+      "deletions": 1,
+      "merge_commit_sha": "8e0f8e9ea6b9b6804201f99aa04ec4812cc63176",
+      "merged": true,
+      "review_comments": 0
+    },
+    {
+      "closed_at": "2026-02-18T08:03:56Z",
+      "created_at": "2026-02-17T23:21:55Z",
+      "draft": false,
+      "html_url": "https://github.com/YuriiHoliuk/budget-sync/pull/10",
+      "labels": [],
+      "merged_at": "2026-02-18T08:03:56Z",
+      "number": 10,
+      "repo_url": "https://api.github.com/repos/YuriiHoliuk/budget-sync",
+      "state": "closed",
+      "title": "Wire returning/fee-split detection and transaction_sources linking",
+      "updated_at": "2026-02-18T08:03:56Z",
+      "additions": 2099,
+      "changed_files": 19,
+      "comments": 0,
+      "deletions": 21,
+      "merge_commit_sha": "b24909ad3f32e28a632449ddda4d8cc0bf914fd0",
+      "merged": true,
+      "review_comments": 0
+    },
+    {
+      "closed_at": "2026-02-17T20:26:50Z",
+      "created_at": "2026-02-16T14:04:06Z",
+      "draft": false,
+      "html_url": "https://github.com/YuriiHoliuk/budget-sync/pull/9",
+      "labels": [],
+      "merged_at": "2026-02-17T20:26:50Z",
+      "number": 9,
+      "repo_url": "https://api.github.com/repos/YuriiHoliuk/budget-sync",
+      "state": "closed",
+      "title": "PR 4: Presentation layer migration + structural refactors",
+      "updated_at": "2026-02-17T20:26:50Z",
+      "additions": 2783,
+      "changed_files": 64,
+      "comments": 0,
+      "deletions": 2738,
+      "merge_commit_sha": "9ca21cb469cfbd15318bce398a2092202d25012e",
+      "merged": true,
+      "review_comments": 0
+    },
+    {
+      "closed_at": "2026-02-16T17:31:59Z",
+      "created_at": "2026-02-16T13:25:24Z",
+      "draft": false,
+      "html_url": "https://github.com/YuriiHoliuk/budget-sync/pull/8",
+      "labels": [],
+      "merged_at": "2026-02-16T17:31:58Z",
+      "number": 8,
+      "repo_url": "https://api.github.com/repos/YuriiHoliuk/budget-sync",
+      "state": "closed",
+      "title": "Add dual-save of bank transactions to sync and webhook flows",
+      "updated_at": "2026-02-16T17:31:59Z",
+      "additions": 0,
+      "changed_files": 0,
+      "comments": 0,
+      "deletions": 0,
+      "merge_commit_sha": "3e294f4f98d5d982b854faa13935a6e37424d136",
+      "merged": true,
+      "review_comments": 0
+    },
+    {
+      "closed_at": "2026-02-17T19:32:06Z",
+      "created_at": "2026-02-16T13:15:54Z",
+      "draft": false,
+      "html_url": "https://github.com/YuriiHoliuk/budget-sync/pull/7",
+      "labels": [],
+      "merged_at": "2026-02-17T19:32:06Z",
+      "number": 7,
+      "repo_url": "https://api.github.com/repos/YuriiHoliuk/budget-sync",
+      "state": "closed",
+      "title": "Add BankTransaction entity, repository, and processing service",
+      "updated_at": "2026-02-17T19:32:10Z",
+      "additions": 1347,
+      "changed_files": 11,
+      "comments": 0,
+      "deletions": 0,
+      "merge_commit_sha": "754ed7e002df3e739b9e94e586abca045a39ba73",
+      "merged": true,
+      "review_comments": 0
+    },
+    {
+      "closed_at": "2026-02-16T17:31:31Z",
+      "created_at": "2026-02-16T13:06:22Z",
+      "draft": false,
+      "html_url": "https://github.com/YuriiHoliuk/budget-sync/pull/6",
+      "labels": [],
+      "merged_at": "2026-02-16T17:31:31Z",
+      "number": 6,
+      "repo_url": "https://api.github.com/repos/YuriiHoliuk/budget-sync",
+      "state": "closed",
+      "title": "Add bank_transactions, transaction_sources, transfer_pairs schema",
+      "updated_at": "2026-02-16T17:31:31Z",
+      "additions": 234,
+      "changed_files": 7,
+      "comments": 0,
+      "deletions": 0,
+      "merge_commit_sha": "9bc4c3b753bc55b8ab19243efa8d9df4a6af52c2",
+      "merged": true,
+      "review_comments": 0
+    },
+    {
+      "closed_at": "2026-02-16T14:10:09Z",
+      "created_at": "2026-02-16T13:02:31Z",
+      "draft": false,
+      "html_url": "https://github.com/YuriiHoliuk/budget-sync/pull/5",
+      "labels": [],
+      "merged_at": "2026-02-16T14:10:09Z",
+      "number": 5,
+      "repo_url": "https://api.github.com/repos/YuriiHoliuk/budget-sync",
+      "state": "closed",
+      "title": "Remove dual-write system",
+      "updated_at": "2026-02-16T14:10:14Z",
+      "additions": 1382,
+      "changed_files": 35,
+      "comments": 0,
+      "deletions": 2230,
+      "merge_commit_sha": "c8533c36518063f844deccc7659f15381336e918",
+      "merged": true,
+      "review_comments": 0
+    },
+    {
+      "closed_at": "2026-02-16T12:17:26Z",
+      "created_at": "2026-02-16T10:25:30Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/41389",
+      "labels": [
+        "task"
+      ],
+      "merged_at": "2026-02-16T12:17:26Z",
+      "number": 41389,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "closed",
+      "title": "[FE | Attachment Flow]: Fix status history empty state, header gap, and mobile card styles",
+      "updated_at": "2026-02-16T12:17:28Z",
+      "additions": 39,
+      "changed_files": 7,
+      "comments": 1,
+      "deletions": 2,
+      "merge_commit_sha": "0fe8adb626435f846d3b6c4114beb08aae7f4576",
+      "merged": true,
+      "review_comments": 0
+    },
+    {
+      "closed_at": "2026-02-15T12:07:25Z",
+      "created_at": "2026-02-15T11:57:52Z",
+      "draft": false,
+      "html_url": "https://github.com/YuriiHoliuk/budget-sync/pull/4",
+      "labels": [],
+      "merged_at": "2026-02-15T12:07:25Z",
+      "number": 4,
+      "repo_url": "https://api.github.com/repos/YuriiHoliuk/budget-sync",
+      "state": "closed",
+      "title": "Allow previous month end date + CI optimizations",
+      "updated_at": "2026-02-15T12:07:29Z",
+      "additions": 3329,
+      "changed_files": 37,
+      "comments": 0,
+      "deletions": 823,
+      "merge_commit_sha": "38e52f114483db96a6a1a52cab037dfc8463db7d",
+      "merged": true,
+      "review_comments": 0
+    },
+    {
+      "closed_at": "2026-02-15T10:41:04Z",
+      "created_at": "2026-02-15T10:21:25Z",
+      "draft": false,
+      "html_url": "https://github.com/YuriiHoliuk/budget-sync/pull/3",
+      "labels": [],
+      "merged_at": "2026-02-15T10:41:04Z",
+      "number": 3,
+      "repo_url": "https://api.github.com/repos/YuriiHoliuk/budget-sync",
+      "state": "closed",
+      "title": "Allow setting budget end date to previous month",
+      "updated_at": "2026-02-15T10:41:05Z",
+      "additions": 94,
+      "changed_files": 5,
+      "comments": 0,
+      "deletions": 22,
+      "merge_commit_sha": "4a338b38586702d1ac9c071129f8587e4846241b",
+      "merged": true,
+      "review_comments": 0
+    },
+    {
+      "closed_at": "2026-02-19T18:25:30Z",
+      "created_at": "2026-02-13T12:24:59Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/41352",
+      "labels": [
+        "task",
+        "claude-code-assisted"
+      ],
+      "merged_at": "2026-02-19T18:25:30Z",
+      "number": 41352,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "closed",
+      "title": "[E2E | Attachment Flow]: Update E2E tests for redesigned attachment flow UI",
+      "updated_at": "2026-02-20T07:04:16Z",
+      "additions": 1649,
+      "changed_files": 113,
+      "comments": 1,
+      "deletions": 821,
+      "merge_commit_sha": "5642a740775e99ee01ea701cdb6a0bab2deef9a2",
+      "merged": true,
+      "review_comments": 0
+    },
+    {
+      "closed_at": "2026-02-15T11:14:11Z",
+      "created_at": "2026-02-13T04:48:03Z",
+      "draft": false,
+      "html_url": "https://github.com/mate-academy/website/pull/41345",
+      "labels": [
+        "task"
+      ],
+      "merged_at": "2026-02-15T11:14:11Z",
+      "number": 41345,
+      "repo_url": "https://api.github.com/repos/mate-academy/website",
+      "state": "closed",
+      "title": "[FE | Attachment Flow]: Add mobile view with 2 tabs, collapsible status history, and task footer",
+      "updated_at": "2026-02-15T11:14:13Z",
+      "additions": 483,
+      "changed_files": 33,
+      "comments": 1,
+      "deletions": 96,
+      "merge_commit_sha": "7040b5ca1d392321662f63920a9ceab43c3ad1fa",
+      "merged": true,
+      "review_comments": 3
+    }
+  ],
+  "commits": {
+    "YuriiHoliuk/budget-sync": [
+      {
+        "date": "2026-02-23T13:29:36Z",
+        "message": "Fix rename input still losing focus after dropdown close\n\nDefer handleStartEdit with requestAnimationFrame so it runs after\nRadix DropdownMenu restores focus to the trigger button, preventing\nthe focus restoration from stealing focus and triggering onBlur.\n\nCo-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>",
+        "sha": "acf7932566b9d84ab489be51e2feaad9c3467990",
+        "url": "https://github.com/YuriiHoliuk/budget-sync/commit/acf7932566b9d84ab489be51e2feaad9c3467990"
+      },
+      {
+        "date": "2026-02-23T13:18:15Z",
+        "message": "Fix group rename input blur bug and add unallocate funds feature\n\nDefer rename edit start until dropdown menu fully closes to prevent\nblur-triggered dismissal. Add unallocate mode to move funds sheet\nallowing users to return money to Ready to Assign without selecting\na destination budget.\n\nCo-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>",
+        "sha": "ce0a551820397f78e9b4af9c63e0732ec4a43b4e",
+        "url": "https://github.com/YuriiHoliuk/budget-sync/commit/ce0a551820397f78e9b4af9c63e0732ec4a43b4e"
+      },
+      {
+        "date": "2026-02-22T07:01:31Z",
+        "message": "Fix sibling lookup for manual transactions without bank links\n\nfindSiblingTransactions relied solely on bank_transaction links via\ntransactionSources, which don't exist for manual account transactions.\nAdd externalId-based fallback that parses the split-{sourceId}-* pattern\nto find siblings when no bank transaction links are present.\n\nCo-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>",
+        "sha": "c68f0f0f4b7670bf4980254255740cda8d6c3238",
+        "url": "https://github.com/YuriiHoliuk/budget-sync/commit/c68f0f0f4b7670bf4980254255740cda8d6c3238"
+      },
+      {
+        "date": "2026-02-22T06:44:37Z",
+        "message": "Fix E2E build: make webpack config dev-only\n\nNext.js 16 defaults to Turbopack and errors when it encounters a\nwebpack config without an explicit bundler flag. The webpack polling\nconfig is only needed for Docker dev file watching, so conditionally\napply it only in development mode.\n\nCo-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>",
+        "sha": "8658124e5073c5f35651c618a84e7530d3d28b01",
+        "url": "https://github.com/YuriiHoliuk/budget-sync/commit/8658124e5073c5f35651c618a84e7530d3d28b01"
+      },
+      {
+        "date": "2026-02-22T04:36:29Z",
+        "message": "Improve seed data with deterministic generation and realistic scenarios\n\nRewrite seed script to use seeded PRNG for deterministic data, add\nrealistic merchant-category-budget alignment, multiple account types\nincluding cash, auto-detected returns and fee splits, transfer\ncandidates, pending categorization transactions, and budget allocation\nhistory across 3 months.\n\nCo-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>",
+        "sha": "f3320333bd669afe4a85fece0509a4191072f5e4",
+        "url": "https://github.com/YuriiHoliuk/budget-sync/commit/f3320333bd669afe4a85fece0509a4191072f5e4"
+      },
+      {
+        "date": "2026-02-22T04:36:16Z",
+        "message": "Add split/join transactions and mark-as-returning features\n\nSplit transactions: split a transaction into multiple parts with\ndifferent categories/budgets while preserving the bank transaction link.\nJoin reverses a split by merging siblings back together.\n\nMark as returning: link credit transactions as returns of debit\ntransactions, with partial/full return support. Adds bank_transaction_returns\ntable for audit trail. Revert undoes the return linkage.\n\nIncludes domain errors, repository methods, use cases, GraphQL mutations,\nfrontend UI (split form, returning selection mode, confirmation dialogs),\ncache utilities, and full test coverage (unit, API integration, E2E).\n\nCo-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>",
+        "sha": "37c0e97f1fd4bacb157252b67b2b0240b71530d6",
+        "url": "https://github.com/YuriiHoliuk/budget-sync/commit/37c0e97f1fd4bacb157252b67b2b0240b71530d6"
+      },
+      {
+        "date": "2026-02-22T04:34:38Z",
+        "message": "Add cash account type and improve frontend form inputs\n\nAdd cash as a new account type across domain, mappers, and GraphQL.\nChange monetary inputs from type=number to type=text inputMode=decimal\nfor better mobile UX. Fix popover/searchable-select portaling in sheets,\nadd none-filter option for uncategorized/unbudgeted filtering, add\ncategory assignment to unbudgeted transactions warning, and enable\nwebpack polling for Docker dev.\n\nCo-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>",
+        "sha": "e25d8c6db42e99bcc554afd3ab5dc3c31059fb30",
+        "url": "https://github.com/YuriiHoliuk/budget-sync/commit/e25d8c6db42e99bcc554afd3ab5dc3c31059fb30"
+      },
+      {
+        "date": "2026-02-22T04:34:23Z",
+        "message": "Reduce webhook costs and add webhook re-registration to sync job\n\nAdd cpu_idle and startup_cpu_boost to webhook Cloud Run service to reduce\ncosts while keeping minScale=1. Extract RegisterWebhook use case and\nintegrate it into SyncAccountsJob so webhooks are re-registered every\nsync cycle as a safety net. Pass WEBHOOK_URL env var through Terraform.\n\nCo-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>",
+        "sha": "513510a2c953914a7d1037ae79365f32be9970b2",
+        "url": "https://github.com/YuriiHoliuk/budget-sync/commit/513510a2c953914a7d1037ae79365f32be9970b2"
+      },
+      {
+        "date": "2026-02-22T04:34:11Z",
+        "message": "Clean up completed tasks\n\nCo-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>",
+        "sha": "46f3351d1f1a752cd731d4d6e087c44a4ffaa074",
+        "url": "https://github.com/YuriiHoliuk/budget-sync/commit/46f3351d1f1a752cd731d4d6e087c44a4ffaa074"
+      },
+      {
+        "date": "2026-02-22T04:34:00Z",
+        "message": "Add planning docs for upcoming features\n\nCo-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>",
+        "sha": "c021c3db548ab499460d1751ca6ef25985e51b5b",
+        "url": "https://github.com/YuriiHoliuk/budget-sync/commit/c021c3db548ab499460d1751ca6ef25985e51b5b"
+      },
+      {
+        "date": "2026-02-21T09:23:22Z",
+        "message": "Update web package-lock.json\n\nCo-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>",
+        "sha": "c2d443ed65955ae9b755eb7c8ef9ab8286d4d16d",
+        "url": "https://github.com/YuriiHoliuk/budget-sync/commit/c2d443ed65955ae9b755eb7c8ef9ab8286d4d16d"
+      },
+      {
+        "date": "2026-02-21T09:23:13Z",
+        "message": "Add script for categorizing pending transactions\n\nCo-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>",
+        "sha": "650fc951c02cf4d9d68f4f06e8f6789f70b41c47",
+        "url": "https://github.com/YuriiHoliuk/budget-sync/commit/650fc951c02cf4d9d68f4f06e8f6789f70b41c47"
+      },
+      {
+        "date": "2026-02-21T09:23:04Z",
+        "message": "Add planning docs for convert-to-transfer and dropdown sorting\n\nCo-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>",
+        "sha": "e2e5851cb488830b19ef3873d54ba71a0fba2c1e",
+        "url": "https://github.com/YuriiHoliuk/budget-sync/commit/e2e5851cb488830b19ef3873d54ba71a0fba2c1e"
+      },
+      {
+        "date": "2026-02-21T09:22:54Z",
+        "message": "Preserve user-editable fields during bank account sync\n\nInstead of overwriting the entire account on sync, merge only bank-provided\nfields while preserving user-editable fields (role, initialBalance, isArchived).\n\nCo-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>",
+        "sha": "a9be3277d36fd32d6367ee36b851c6b7c60268e8",
+        "url": "https://github.com/YuriiHoliuk/budget-sync/commit/a9be3277d36fd32d6367ee36b851c6b7c60268e8"
+      },
+      {
+        "date": "2026-02-21T09:19:04Z",
+        "message": "Add clear option to category and budget filter comboboxes\n\nCo-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>",
+        "sha": "99b1c52253af33712e136bdcdc3b0553e0f4b5ec",
+        "url": "https://github.com/YuriiHoliuk/budget-sync/commit/99b1c52253af33712e136bdcdc3b0553e0f4b5ec"
+      },
+      {
+        "date": "2026-02-21T08:55:41Z",
+        "message": "Add convert-to-transfer and revert-transfer functionality\n\nAllow users to manually convert DEBIT/CREDIT transactions to transfers\nby selecting a manual account as the destination. Creates a counterpart\ntransaction, links them as a transfer pair, and adjusts the destination\naccount balance. Also supports reverting manually-converted transfers.\n\nCo-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>",
+        "sha": "402940403d043262545e95e7d495899b845be7ee",
+        "url": "https://github.com/YuriiHoliuk/budget-sync/commit/402940403d043262545e95e7d495899b845be7ee"
+      },
+      {
+        "date": "2026-02-21T08:22:52Z",
+        "message": "Skip categorization for transfers and hide classification UI (P9-009)\n\nTransfer transactions no longer trigger LLM categorization and the\nfrontend hides category/budget selectors, verify button, and status\nbadge for transfer rows. detectTransfers now returns transferred IDs\nso ProcessIncomingTransaction can skip enqueue.\n\nCo-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>",
+        "sha": "b8b16198bf215057bdb2b73fad72aa56dd8f2471",
+        "url": "https://github.com/YuriiHoliuk/budget-sync/commit/b8b16198bf215057bdb2b73fad72aa56dd8f2471"
+      },
+      {
+        "date": "2026-02-21T08:16:57Z",
+        "message": "Add manual transaction creation UI (MTX-002, MTX-003, MTX-004, MTX-005)\n\n- Add CreateTransaction GraphQL mutation to frontend and create-transaction-sheet component\n- Add \"+ Add Transaction\" button in transactions page header (visible only with manual accounts)\n- Add manual Cash UAH account and 7 sample transactions to seed data\n- Add E2E tests and TransactionsPage page object helpers for create transaction flow\n\nCo-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>",
+        "sha": "f06d39ae475bccd0155c4661c7ed074e834b925e",
+        "url": "https://github.com/YuriiHoliuk/budget-sync/commit/f06d39ae475bccd0155c4661c7ed074e834b925e"
+      },
+      {
+        "date": "2026-02-21T07:41:34Z",
+        "message": "Add Terraform infrastructure for categorization Pub/Sub queue (CATQ-001, CATQ-007, CATQ-009)\n\nAdd categorization-queue topic, push subscription (\u2192 /webhook/categorize),\nDLQ, and IAM bindings mirroring the existing webhook-transactions pattern.\nWire CATEGORIZATION_TOPIC env var into webhook Cloud Run service.\nUpdate infrastructure docs with new Pub/Sub resources.\n\nCo-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>",
+        "sha": "d2c2a3ef589923918c55f59bb088601101d58ee5",
+        "url": "https://github.com/YuriiHoliuk/budget-sync/commit/d2c2a3ef589923918c55f59bb088601101d58ee5"
+      },
+      {
+        "date": "2026-02-21T06:41:41Z",
+        "message": "Decompose Phase 9 (Transaction Data Correctness) and Manual Transaction UI into tasks\n\nResearch and decompose two feature areas into 17 implementable tasks:\n- P9-001 through P9-012: transaction_sources wiring, amount sign fix,\n  returning detection (single-tx model), fee splits, RETURNING type removal,\n  production data fix, seed data, transfer UI, returning indicator, tests, docs\n- MTX-001 through MTX-005: backend verification, form component, UI entry\n  points, E2E tests, seed data\n\nDeferred REFACTOR-001 (generic DatabaseRepository base class) \u2014 repos are\ntoo heterogeneous for meaningful abstraction.\n\nCo-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>",
+        "sha": "3b2164dbd936189c3893b0848b940a7b74cebf94",
+        "url": "https://github.com/YuriiHoliuk/budget-sync/commit/3b2164dbd936189c3893b0848b940a7b74cebf94"
+      },
+      {
+        "date": "2026-02-21T06:31:49Z",
+        "message": "Add change detection to CI pipeline to skip unnecessary PR jobs (CI-001)\n\nCo-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>",
+        "sha": "7ffc61f68a868f25f5b0b2aedfe51908ba4945d6",
+        "url": "https://github.com/YuriiHoliuk/budget-sync/commit/7ffc61f68a868f25f5b0b2aedfe51908ba4945d6"
+      },
+      {
+        "date": "2026-02-21T06:24:30Z",
+        "message": "Add localStorage persistence for UI state (UI-014)\n\nPersist sidebar collapse, filter sidebar visibility, and transaction\nfilters across page reloads using a new useLocalStorage hook built on\nuseSyncExternalStore. URL params take precedence over localStorage.\n\nCo-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>",
+        "sha": "cc7e87b885e6f8bb3a5ca783fa86a9dad49be752",
+        "url": "https://github.com/YuriiHoliuk/budget-sync/commit/cc7e87b885e6f8bb3a5ca783fa86a9dad49be752"
+      },
+      {
+        "date": "2026-02-21T06:15:15Z",
+        "message": "Fix budget table scroll: independent scroll with sticky header (UI-013)\n\nBudget table now scrolls independently like the transactions table.\nPage layout uses flex fill-height, table wrapper has overflow-y-auto,\nheaders stay pinned via ShadCN's built-in sticky positioning.\nAlso fixes local dev server crash by registering missing\nMockCategorizationQueueGateway in container.local.ts.\n\nCo-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>",
+        "sha": "1af203064f82520f0ff4e8023a4704d072288b08",
+        "url": "https://github.com/YuriiHoliuk/budget-sync/commit/1af203064f82520f0ff4e8023a4704d072288b08"
+      },
+      {
+        "date": "2026-02-21T05:55:58Z",
+        "message": "Add usage frequency sorting to budget and category dropdowns (FREQ-001 through FREQ-004)\n\nCo-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>",
+        "sha": "a047a3550e0b0fd75812592a09808d84c7a27755",
+        "url": "https://github.com/YuriiHoliuk/budget-sync/commit/a047a3550e0b0fd75812592a09808d84c7a27755"
+      },
+      {
+        "date": "2026-02-21T05:45:49Z",
+        "message": "Add categorization queue via Pub/Sub for async transaction categorization (CATQ-002 through CATQ-008)\n\nDecouples LLM categorization from transaction processing using a dedicated\nPub/Sub topic with push delivery. Rate limiting is now handled by Pub/Sub's\nbuilt-in exponential backoff instead of inline 60s sleep-and-retry.\n\nCo-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>",
+        "sha": "d97431f84d529968a3250ddbc05e70d5e0092e87",
+        "url": "https://github.com/YuriiHoliuk/budget-sync/commit/d97431f84d529968a3250ddbc05e70d5e0092e87"
+      },
+      {
+        "date": "2026-02-21T05:31:04Z",
+        "message": "Add transaction time display and auto-open inline dropdowns (UI-011, UI-012)\n\nCo-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>",
+        "sha": "45ee8e71ff8e66cbdbd2fc725007e054b6b674ed",
+        "url": "https://github.com/YuriiHoliuk/budget-sync/commit/45ee8e71ff8e66cbdbd2fc725007e054b6b674ed"
+      },
+      {
+        "date": "2026-02-21T05:24:34Z",
+        "message": "Add URL entity persistence, budget date filtering, E2E settings tests (URL-001, URL-002, UI-010, RULES-010)\n\n- Persist selected transaction/budget IDs in URL search params for shareable deep links\n- Filter budget dropdowns by transaction date in detail panel and inline edit\n- Add E2E tests and page objects for rules management on Settings page\n- Update Ralph TUI app\n\nCo-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>",
+        "sha": "7b8150d002d958b67012fcb83c8d75cc46690c74",
+        "url": "https://github.com/YuriiHoliuk/budget-sync/commit/7b8150d002d958b67012fcb83c8d75cc46690c74"
+      },
+      {
+        "date": "2026-02-20T08:36:53Z",
+        "message": "Add categorization and budgetization rules management (RULES-001 through RULES-011)\n\nFull CRUD for AI transaction rules: domain entity, repository expansion, use cases,\nGraphQL API, Settings page UI, unit tests, API integration tests, seed data, and docs.\n\nCo-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>",
+        "sha": "d95d835194f7942e5677fb7c27de709e1ce95adb",
+        "url": "https://github.com/YuriiHoliuk/budget-sync/commit/d95d835194f7942e5677fb7c27de709e1ce95adb"
+      },
+      {
+        "date": "2026-02-20T08:04:36Z",
+        "message": "Add searchable dropdown comboboxes for budget and category selection\n\nReplace all budget/category Select dropdowns with searchable combobox\ncomponents (Popover + cmdk Command pattern). Adds CategoryCombobox with\nhierarchical grouping and BudgetCombobox with balance display. Updates\nE2E page objects for new combobox interaction pattern.\n\nCo-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>",
+        "sha": "f307a0f7455e4bca354c83b069c700efd88a6ea0",
+        "url": "https://github.com/YuriiHoliuk/budget-sync/commit/f307a0f7455e4bca354c83b069c700efd88a6ea0"
+      },
+      {
+        "date": "2026-02-20T07:52:10Z",
+        "message": "Add transaction notes editing and E2E pagination helper\n\n- Add updateTransactionNotes GraphQL mutation with resolver and DB implementation\n- Add editable notes Textarea in transaction detail panel (auto-save on blur)\n- Add ShadCN Textarea UI component\n- Add API integration tests for notes mutation\n- Add gotoPage(n) to TransactionsPage E2E page object\n\nCo-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>",
+        "sha": "cab59be226f8d8d43884b63677f69dba375b44b8",
+        "url": "https://github.com/YuriiHoliuk/budget-sync/commit/cab59be226f8d8d43884b63677f69dba375b44b8"
+      },
+      {
+        "date": "2026-02-20T07:44:08Z",
+        "message": "Add draft/applied filter pattern with Apply button for transaction sidebar\n\nTransaction filters no longer trigger immediate GraphQL refetch on every\nchange. Instead, filter state is split into draft (sidebar UI) and applied\n(query + URL). Users click Apply to commit changes. Includes debounced\nsearch input (300ms) and updated E2E page objects.\n\nCo-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>",
+        "sha": "ac3140087e3d2a15b2bd8a5045b4673c46ad0714",
+        "url": "https://github.com/YuriiHoliuk/budget-sync/commit/ac3140087e3d2a15b2bd8a5045b4673c46ad0714"
+      },
+      {
+        "date": "2026-02-20T07:36:33Z",
+        "message": "--amend",
+        "sha": "26f37edc8dd8e133ca53ced745ea3031adef2de8",
+        "url": "https://github.com/YuriiHoliuk/budget-sync/commit/26f37edc8dd8e133ca53ced745ea3031adef2de8"
+      },
+      {
+        "date": "2026-02-20T07:34:25Z",
+        "message": "add tasks",
+        "sha": "d2cbc411d7b69e5d17e4c34a095fb9c69be84e38",
+        "url": "https://github.com/YuriiHoliuk/budget-sync/commit/d2cbc411d7b69e5d17e4c34a095fb9c69be84e38"
+      },
+      {
+        "date": "2026-02-19T19:18:35Z",
+        "message": "Crop logo padding to make favicon and app icon more recognizable\n\nTrim whitespace around the logo mark so the N fills the available\nspace in favicons and app icons instead of appearing tiny.\n\nCo-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>",
+        "sha": "e7582189fe7c602bde6fc5d7e8678dd7121e6cb2",
+        "url": "https://github.com/YuriiHoliuk/budget-sync/commit/e7582189fe7c602bde6fc5d7e8678dd7121e6cb2"
+      },
+      {
+        "date": "2026-02-19T15:47:00Z",
+        "message": "Rebrand to Netto: add logo, favicons, and PWA manifest\n\nRename product from Budget Sync to Netto across the web app. Add logo\nassets (PNG, SVG, favicon, apple-touch-icon, PWA icons) and wire them\ninto metadata, sidebar, and login screen.\n\nCo-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>",
+        "sha": "5cabc3672a655f40cf880e56960bf3e83eaa806f",
+        "url": "https://github.com/YuriiHoliuk/budget-sync/commit/5cabc3672a655f40cf880e56960bf3e83eaa806f"
+      },
+      {
+        "date": "2026-02-18T14:20:39Z",
+        "message": "Fix amount sign convention: enforce positive amounts in all write paths\n\nThe webhook path (ProcessIncomingTransaction) was storing raw signed\namounts from Monobank, violating the positive-amount convention. This\ncaused detectReturningForTransaction to compare positive refund amounts\nagainst negative originals, triggering full refunds instead of partial.\n\nFixes:\n- ProcessIncomingTransaction: Math.abs(txData.amount) for transaction amount\n- DatabaseTransactionMapper.getAmount(): Math.abs() safety net\n- Migration script: detect already-reduced amounts to avoid double-subtraction\n\nCo-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>",
+        "sha": "4327a20c2ecab82df5d84153ae08c17b39a91f84",
+        "url": "https://github.com/YuriiHoliuk/budget-sync/commit/4327a20c2ecab82df5d84153ae08c17b39a91f84"
+      },
+      {
+        "date": "2026-02-18T14:05:35Z",
+        "message": "Fix migration script to clean up orphaned cancellation transactions\n\nWhen the original bank_tx (authorization hold) has no linked transaction,\nthe script now still deletes any standalone credit transaction on the\ncancellation side. Handles 5 lingering 1 UAH credit transactions from\n\u041b\u044c\u0432\u0456\u0432\u0430\u0432\u0442\u043e\u0434\u043e\u0440 hold/cancel pairs.\n\nCo-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>",
+        "sha": "92ec310f6f5c205ef3e6b0dc5cd5451d2b864715",
+        "url": "https://github.com/YuriiHoliuk/budget-sync/commit/92ec310f6f5c205ef3e6b0dc5cd5451d2b864715"
+      },
+      {
+        "date": "2026-02-18T13:59:31Z",
+        "message": "Remove RETURNING transaction type and implement single-transaction model (#11)\n\nReturnings (cancellation transactions) are now handled as amount adjustments\non the original transaction instead of creating separate RETURNING-type rows.\nPartial refunds reduce the original amount and link both bank_transactions;\nfull refunds delete the transaction entirely.\n\nAlso fixes amount sign convention (transactions.amount is now always positive),\nremoves markAsReturning/unmarkReturning mutations, updates seed data, and\nfixes flaky budget-groups E2E test.\n\nCo-authored-by: Claude Opus 4.6 <noreply@anthropic.com>",
+        "sha": "c8dac0d208799f125d4ed04d6c073aa7932b4855",
+        "url": "https://github.com/YuriiHoliuk/budget-sync/commit/c8dac0d208799f125d4ed04d6c073aa7932b4855"
+      },
+      {
+        "date": "2026-02-18T08:03:56Z",
+        "message": "Wire returning/fee-split detection and transaction_sources linking (#10)\n\n* Wire returning/fee-split detection and transaction_sources linking\n\nConnect the returning/cancellation and fee-split detection logic into the\nruntime sync flow (SyncMonobank, SyncTransactions, ProcessIncomingTransaction).\nWire transaction_sources creation so bank_transactions are properly linked to\ntransactions. Update seed data with transfers, returnings, and fee splits.\n\nKey changes:\n- Add linkTransactionSource(s) to BankTransactionRepository\n- Add findCancellationCandidate, updateTransactionAmount to TransactionRepository\n- Add detectReturnings() and detectFeeSplits() to TransactionSyncService\n- Wire transaction_sources linking in saveBankTransactions/saveSingleBankTransaction\n- Wire detectReturnings \u2192 detectFeeSplits \u2192 detectTransfers in all 3 use cases\n- Update seed script with bank_transactions, transaction_sources, transfers,\n  returnings, and fee split examples\n- Add API integration tests for markAsTransfer, markAsReturning, bankTransactions\n- Update test factories and mocks for new repository methods\n\nCo-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>\n\n* Add plan doc for returning/fee-split detection wiring\n\nCo-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>\n\n---------\n\nCo-authored-by: Claude Opus 4.6 <noreply@anthropic.com>",
+        "sha": "b24909ad3f32e28a632449ddda4d8cc0bf914fd0",
+        "url": "https://github.com/YuriiHoliuk/budget-sync/commit/b24909ad3f32e28a632449ddda4d8cc0bf914fd0"
+      },
+      {
+        "date": "2026-02-17T22:40:09Z",
+        "message": "Fix backfill script: don't skip Phase 0, prefer amount match for returnings\n\nTwo fixes:\n- Phase 0 no longer skips when some transaction_sources exist,\n  ensuring all missing links are populated\n- Cancellation matching prefers exact amount match over date\n  proximity, fixing Glovo case where wrong transaction was matched\n\nCo-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>",
+        "sha": "663a3602359e3b5163b7af1a9b39df9bcc5da8a5",
+        "url": "https://github.com/YuriiHoliuk/budget-sync/commit/663a3602359e3b5163b7af1a9b39df9bcc5da8a5"
+      },
+      {
+        "date": "2026-02-17T22:29:23Z",
+        "message": "Fix backfill transfer detection: remove incorrect ID ordering constraint\n\nThe t1.id < t2.id dedup condition incorrectly assumed the debit\ntransaction always has a lower ID than the credit. Since the query\nalready enforces t1.type='debit' AND t2.type='credit', each pair\nappears exactly once without needing ID ordering.\n\nCo-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>",
+        "sha": "8f6c6966077d1563ecd4bd7154adec56edf9b0ee",
+        "url": "https://github.com/YuriiHoliuk/budget-sync/commit/8f6c6966077d1563ecd4bd7154adec56edf9b0ee"
+      },
+      {
+        "date": "2026-02-17T22:26:59Z",
+        "message": "Replace IBAN-based transfer detection with amount + time window matching\n\nMonobank only provides counterpartyIban for FOP accounts; personal\ncard-to-card transfers have NULL counterparty fields. Move transfer\ndetection from domain-layer synchronous IBAN matching to application-layer\npost-processing that pairs transactions by matching absolute amount,\nopposite type (credit/debit), across different own accounts within \u00b15 min.\n\n- Add findTransferCandidate to TransactionRepository + DB implementation\n- Add detectTransfers to TransactionSyncService (called after save)\n- Remove isTransfer/ownAccountIbans from TransactionProcessingService\n- Update SyncMonobank, SyncTransactions, ProcessIncomingTransaction callers\n- Rewrite backfill script Phase 2 with efficient SQL self-join approach\n- Update unit tests (879 pass), API integration tests (128 pass)\n\nCo-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>",
+        "sha": "daa229c888cbc4515ef56e6aae9110d423a269f5",
+        "url": "https://github.com/YuriiHoliuk/budget-sync/commit/daa229c888cbc4515ef56e6aae9110d423a269f5"
+      },
+      {
+        "date": "2026-02-17T20:26:49Z",
+        "message": "PR 4: Presentation layer migration + structural refactors (#9)\n\n* Add dual-save of bank transactions alongside existing transaction flow\n\nSync and webhook flows now save to both transactions and bank_transactions\ntables, populating bank_transactions for the upcoming schema migration:\n\n- Add toBankTransaction() to MonobankMapper\n- Add BankTransactionMapper helper (Transaction \u2192 BankTransaction)\n- SyncTransactions: save bank transactions after transaction save\n- SyncMonobank: save bank transactions after transaction save\n- ProcessIncomingTransaction: save bank transaction after transaction save\n- All bank transaction saves are best-effort (errors logged, not blocking)\n\nCo-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>\n\n* Complete presentation layer migration and structural refactors\n\n- Extract shared TransactionSyncService from duplicated sync logic in\n  SyncTransactions/SyncMonobank/ProcessIncomingTransaction, integrating\n  TransactionProcessingService for cancellation/transfer/fee detection\n- Change CategorizeTransaction to find by DB ID instead of externalId\n- Delete TransactionLink system (entity, repo, service, resolver, schema,\n  tests) \u2014 replaced by transfer_pairs + mark/unmark mutations\n- Write migration 0011 SQL to drop bank-specific columns from transactions\n  table and remove transaction_links/transaction_link_members tables\n- Remove bank-specific fields from Drizzle schema and DatabaseTransactionMapper\n- Update frontend to use proper generated GraphQL types after codegen\n\nCo-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>\n\n* Remove bank-specific fields from Transaction GraphQL type\n\n- Remove externalId, hold, cashbackAmount, commissionAmount, receiptId\n  from Transaction type \u2014 these belong only on BankTransaction\n- Update transaction mapper and detail panel component\n- Remove obsolete create-transfer-link integration test\n- Register BankTransactionRepository in test DI container\n- Remove externalId from transactions-query integration test\n\nBank-specific data is now accessed exclusively via the bankTransactions\nsub-query on the Transaction detail view.\n\nCo-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>\n\n* Register BankTransactionRepository in local dev container\n\nFixes E2E test failures \u2014 the api-e2e container uses container.local.ts\nwhich was missing the BankTransactionRepository registration, causing\nthe TransactionsResolver to fail on startup.\n\nCo-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>\n\n---------\n\nCo-authored-by: Claude Opus 4.6 <noreply@anthropic.com>",
+        "sha": "9ca21cb469cfbd15318bce398a2092202d25012e",
+        "url": "https://github.com/YuriiHoliuk/budget-sync/commit/9ca21cb469cfbd15318bce398a2092202d25012e"
+      },
+      {
+        "date": "2026-02-17T19:32:06Z",
+        "message": "Add BankTransaction entity, repository, and processing service (#7)\n\n* Add BankTransaction entity, repository, processing service, and tests\n\nDomain layer:\n- BankTransaction entity (immutable raw bank data)\n- BankTransactionRepository abstract class\n- TransactionProcessingService (pure detection: cancellations, transfers, fees)\n- Add TRANSFER and RETURNING to TransactionType enum\n\nInfrastructure layer:\n- DatabaseBankTransactionRepository with mapper\n- Register BankTransactionRepository in container\n\nTests:\n- 42 TransactionProcessingService tests covering all detection rules,\n  priority ordering, real-world scenarios, and edge cases\n\nCo-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>\n\n* Harden cancellation detection and add repository refactor task\n\n- Require type === 'credit' in isCancellation check for robustness\n- Trim whitespace after stripping cancellation prefix\n- Add REFACTOR-001 task for extracting DatabaseRepository base class\n\nCo-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>\n\n* Trigger CI\n\n---------\n\nCo-authored-by: Claude Opus 4.6 <noreply@anthropic.com>",
+        "sha": "754ed7e002df3e739b9e94e586abca045a39ba73",
+        "url": "https://github.com/YuriiHoliuk/budget-sync/commit/754ed7e002df3e739b9e94e586abca045a39ba73"
+      },
+      {
+        "date": "2026-02-16T17:31:30Z",
+        "message": "Add bank_transactions, transaction_sources, transfer_pairs schema and migration (#6)\n\nCreate new Drizzle schema files and migration for the bank/transaction split:\n- bank_transactions: immutable raw bank data, backfilled from current transactions\n- transaction_sources: many-to-many join between bank_transactions and transactions\n- transfer_pairs: links outgoing/incoming sides of transfer transactions\n\nAll additive \u2014 no existing code or schema changes.\n\nCo-authored-by: Claude Opus 4.6 <noreply@anthropic.com>",
+        "sha": "9bc4c3b753bc55b8ab19243efa8d9df4a6af52c2",
+        "url": "https://github.com/YuriiHoliuk/budget-sync/commit/9bc4c3b753bc55b8ab19243efa8d9df4a6af52c2"
+      },
+      {
+        "date": "2026-02-16T14:10:09Z",
+        "message": "Remove dual-write system (#5)\n\n* Improve transactions filter sidebar styling and fix console errors\n\n- Restyle filter sidebar with border-l divider (no Card) matching app layout\n- Add toggle button in page header to show/hide filter sidebar on desktop\n- Move page header into TransactionsTable for toggle button placement\n- Remove bottom padding from main layout so sidebar border extends full height\n- Remove redundant border-t from pagination footer\n- Fix DndContext inside table causing div-in-table hydration error (budget page)\n- Fix missing SheetTitle accessibility warning in transaction detail panel\n- Add WATCHPACK_POLLING for reliable Turbopack file watching in Docker\n\nCo-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>\n\n* Add plans for bank/transaction split and filter sidebar styling\n\nCo-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>\n\n* Expand backfill script section with phased execution plan\n\nCo-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>\n\n* Remove dual-write system, point all repos to Database implementations\n\nThe DualWrite orchestrator pattern is no longer needed \u2014 PostgreSQL is the\nsole source of truth. All domain repository tokens now resolve directly to\nDatabase implementations. Spreadsheet module and repos remain in the codebase\nbut are no longer wired as write mirrors.\n\nCo-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>\n\n---------\n\nCo-authored-by: Claude Opus 4.6 <noreply@anthropic.com>",
+        "sha": "c8533c36518063f844deccc7659f15381336e918",
+        "url": "https://github.com/YuriiHoliuk/budget-sync/commit/c8533c36518063f844deccc7659f15381336e918"
+      },
+      {
+        "date": "2026-02-16T12:52:15Z",
+        "message": "Expand backfill script section with phased execution plan\n\nCo-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>",
+        "sha": "62db35837ba8c2f3001b6906e2ab05f6738d326d",
+        "url": "https://github.com/YuriiHoliuk/budget-sync/commit/62db35837ba8c2f3001b6906e2ab05f6738d326d"
+      },
+      {
+        "date": "2026-02-16T12:34:00Z",
+        "message": "Add plans for bank/transaction split and filter sidebar styling\n\nCo-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>",
+        "sha": "6447be92d43a26a1fad1e5204cb7b55c134279ca",
+        "url": "https://github.com/YuriiHoliuk/budget-sync/commit/6447be92d43a26a1fad1e5204cb7b55c134279ca"
+      },
+      {
+        "date": "2026-02-16T12:29:26Z",
+        "message": "Improve transactions filter sidebar styling and fix console errors\n\n- Restyle filter sidebar with border-l divider (no Card) matching app layout\n- Add toggle button in page header to show/hide filter sidebar on desktop\n- Move page header into TransactionsTable for toggle button placement\n- Remove bottom padding from main layout so sidebar border extends full height\n- Remove redundant border-t from pagination footer\n- Fix DndContext inside table causing div-in-table hydration error (budget page)\n- Fix missing SheetTitle accessibility warning in transaction detail panel\n- Add WATCHPACK_POLLING for reliable Turbopack file watching in Docker\n\nCo-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>",
+        "sha": "cbc70c77e52f7e2ab1ac797bad68a74b8e28829c",
+        "url": "https://github.com/YuriiHoliuk/budget-sync/commit/cbc70c77e52f7e2ab1ac797bad68a74b8e28829c"
+      },
+      {
+        "date": "2026-02-15T12:50:54Z",
+        "message": "Fix sticky table headers by constraining layout height and removing overflow blockers\n\n- Add max-h-svh overflow-hidden to SidebarInset so main becomes the actual\n  scroll container (previously SidebarInset expanded beyond viewport, causing\n  main's overflow-y-auto to never activate)\n- Remove overflow-clip from table wrappers in budget and transactions tables\n  (overflow-clip creates a containing block that prevents sticky th elements\n  from reaching the scroll container)\n\nCo-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>",
+        "sha": "7450d703251f89017ad5be4c8d2ed2d64ba56ecf",
+        "url": "https://github.com/YuriiHoliuk/budget-sync/commit/7450d703251f89017ad5be4c8d2ed2d64ba56ecf"
+      },
+      {
+        "date": "2026-02-15T12:31:33Z",
+        "message": "Add transaction notes plan and update tasks\n\nAdd plan for editable transaction notes feature (backend mutation + frontend textarea in detail panel). Add NOTES-001 and NOTES-002 tasks to TASKS.json.\n\nCo-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>",
+        "sha": "9b8149610a3ea9441c6b274f88c1b955930ce1d3",
+        "url": "https://github.com/YuriiHoliuk/budget-sync/commit/9b8149610a3ea9441c6b274f88c1b955930ce1d3"
+      },
+      {
+        "date": "2026-02-15T12:28:03Z",
+        "message": "Make all table headers sticky and fix overflow breaking sticky positioning\n\n- Add sticky top-0 with bg-background to all TableHead (th) elements globally\n- Remove overflow-x-auto from Table component container (was creating a scroll\n  context that captured sticky elements, preventing them from sticking)\n- Change table wrappers in budget and transactions tables from overflow-x-auto\n  to overflow-clip (clips for border-radius but doesn't create scroll container)\n- Remove redundant sticky classes from budget table's TableHeader (now handled\n  globally by TableHead)\n\nCo-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>",
+        "sha": "1f00cd6357a27d53264a3959ad194d97b5ce4839",
+        "url": "https://github.com/YuriiHoliuk/budget-sync/commit/1f00cd6357a27d53264a3959ad194d97b5ce4839"
+      },
+      {
+        "date": "2026-02-15T12:07:25Z",
+        "message": "Allow previous month end date + CI optimizations (#4)\n\n* Optimize CI pipeline: parallel E2E, BuildKit caching, remove gcloud overhead\n\n- Increase Playwright workers from 1 to 4 in CI for parallel E2E execution\n- Switch E2E web service from dev server to production build (next build + start)\n- Remove warm-up step (no longer needed with production build)\n- Cache Playwright browsers with actions/cache\n- Remove setup-gcloud from all jobs (gcloud pre-installed on ubuntu-latest)\n- Switch Docker builds to docker/build-push-action with BuildKit + GHA cache\n- Update deployment, infrastructure, and testing docs\n\nCo-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>\n\n* Fix small UI issues: sticky header, progress bar color, month nav, budget filter\n\n- Add sticky positioning to budget table header (UI-001)\n- Fix progress bar to show red only when overspent, not at exactly 100% (UI-002)\n- Fix month selector to not redirect to budgets when on transactions page (UI-003)\n- Show all non-archived budgets in transaction filter dropdown (UI-004)\n\nCo-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>\n\n* Add LLM rate limit retry logic and failed categorization status\n\nAdds exponential backoff retry for LLM rate limit errors during\ntransaction categorization, with configurable max retries and delays.\nIntroduces 'failed' categorization status for permanently failed attempts.\n\nCo-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>\n\n* Add budget-to-transactions navigation and URL-based filter/pagination state\n\n- Budget names in budget table are now clickable links to transactions\n  filtered by that budget and current month date range\n- Added \"View Transactions\" to budget row dropdown menu\n- Transaction filters and page number sync to URL search params\n  so filtered views are shareable and preserved on refresh\n- Increased transaction page size from 25 to 50\n- Created shared url-utils.ts with getDateRangeFromMonth(),\n  buildTransactionsUrl(), parseTransactionFiltersFromParams()\n- Wrapped TransactionsTable in Suspense for useSearchParams()\n\nCo-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>\n\n* Update task tracking, changelog, learnings, and planning docs\n\nMark NAV-001/002/003 and PAG-001/002 as done in TASKS.json.\nAdd planning docs for upcoming features: sidebar filters,\napply button, categorization queue, searchable dropdowns.\n\nCo-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>\n\n* Add transaction filter sidebar, detail panel padding, and verify button styling\n\nReplace popover-based filter UI with always-visible sidebar on desktop (lg+)\nand Sheet overlay on mobile. Add padding to transaction detail panel body.\nMake verify button prominent for AI-categorized transactions with blue styling.\n\nCo-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>\n\n* Fix table horizontal overflow, add sticky pagination and page number selector\n\n- Add overflow-x-auto to table wrappers in budget-table and transactions-table\n  so wide tables scroll within their container instead of pushing the page layout\n- Constrain main content area with min-w-0 and overflow-y-auto to prevent flex overflow\n- Make transaction pagination sticky at bottom with border-t and bg-background\n- Replace simple \"Page X of Y\" text with clickable page number buttons using\n  ellipsis pattern (1 ... 4 5 [6] 7 8 ... 12) for quick page navigation\n- Rewrite obsolete APPLY filter popover tasks to target sidebar filter architecture\n\nCo-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>\n\n* Fix E2E test flakiness with parallel workers\n\n- Fix budget-visibility: use badge-specific locator instead of text=Expired\n  which matched both the budget name link and the badge element\n- Fix archive-budget-funds: add serial mode to prevent data races on\n  readyToAssign metrics between the two tests in the same file\n\nCo-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>\n\n---------\n\nCo-authored-by: Claude Opus 4.6 <noreply@anthropic.com>",
+        "sha": "38e52f114483db96a6a1a52cab037dfc8463db7d",
+        "url": "https://github.com/YuriiHoliuk/budget-sync/commit/38e52f114483db96a6a1a52cab037dfc8463db7d"
+      },
+      {
+        "date": "2026-02-15T10:41:04Z",
+        "message": "Merge pull request #3 from YuriiHoliuk/allow-previous-month-end-date\n\nAllow setting budget end date to previous month",
+        "sha": "4a338b38586702d1ac9c071129f8587e4846241b",
+        "url": "https://github.com/YuriiHoliuk/budget-sync/commit/4a338b38586702d1ac9c071129f8587e4846241b"
+      },
+      {
+        "date": "2026-02-15T10:31:11Z",
+        "message": "Update E2E test to expect previous month as min end date\n\nCo-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>",
+        "sha": "9f95c988c2d00d3a3e705fd5fc01ba3e1dc9bfaf",
+        "url": "https://github.com/YuriiHoliuk/budget-sync/commit/9f95c988c2d00d3a3e705fd5fc01ba3e1dc9bfaf"
+      },
+      {
+        "date": "2026-02-15T10:20:07Z",
+        "message": "Allow setting budget end date to previous month\n\nLower the minimum allowed end date from first day of current month to\nfirst day of previous month, so users can end a budget at e.g. Jan 31\nwhile viewing February.\n\nCo-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>",
+        "sha": "d5b765d7c5c19c7211324b484b1923cc21d6fa81",
+        "url": "https://github.com/YuriiHoliuk/budget-sync/commit/d5b765d7c5c19c7211324b484b1923cc21d6fa81"
+      }
+    ],
+    "mate-academy/website": [
+      {
+        "date": "2026-02-20T08:21:29Z",
+        "message": "[CI | Detect Jobs]: Fix stale ECR image detection for PRs (#41563)\n\n* [CI | Detect Jobs]: Fix stale ECR image detection for PRs\n\nUpdate website-detect-jobs-to-run to include stale image detection.\nWhen a PR triggers E2E tests, the action now checks if existing ECR\nimages are stale (have unbuilt master changes) and triggers rebuilds\nwhen needed, preventing false E2E failures from outdated images.\n\nhttps://app.clickup.com/t/86c8bt9cw\n\n* Fix detect-jobs-to-run hash to merged master commit",
+        "sha": "beb427c9031eb731464c42eb2bcb17de3595a268",
+        "url": "https://github.com/mate-academy/website/commit/beb427c9031eb731464c42eb2bcb17de3595a268"
+      },
+      {
+        "date": "2026-02-19T18:25:29Z",
+        "message": "[E2E | Attachment Flow]: Update E2E tests for redesigned attachment flow UI (#41352)\n\n* [E2E | Attachment Flow]: Update E2E tests for redesigned attachment flow UI\n\nCo-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>\n\n* Fix E2E tests for redesigned attachment flow UI\n\n* Assert date via title attribute of HumanReadableDate component\n\n* Use correct action text codes in mobile rejected test\n\n* Use correct action text codes in doNotAllowRestartingFailedTestAssignment test\n\n* Replace REVIEW_ACTION_TEXT_CODES with ATTACHMENT_FLOW_ACTION_TEXT_CODES in all tests\n\n* Account for intermediate reviewing status in peer review tests\n\n* Add dynamic \"Solution sent\" title for completed Solve task step\n\n* Attachment flow sidebar redesign: styles, logic, tests, and API updates\n\n* Fix E2E tests: auto-approved text codes, peer review history, mobile tab switching, and styles\n\n* Fix duplicate data-qa selectors and mobile attachment flow visibility\n\nCo-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>\n\n---------\n\nCo-authored-by: Claude Opus 4.6 <noreply@anthropic.com>",
+        "sha": "5642a740775e99ee01ea701cdb6a0bab2deef9a2",
+        "url": "https://github.com/mate-academy/website/commit/5642a740775e99ee01ea701cdb6a0bab2deef9a2"
+      },
+      {
+        "date": "2026-02-19T17:43:40Z",
+        "message": "[CI | API Coverage]: Add line-level diff coverage check (#41548)\n\n* [CI | API Coverage]: Add line-level diff coverage check\n\nCo-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>\n\n* Refactor checkDiffCoverage into modular folder structure\n\nSplit monolithic checkDiffCoverage.js into 9 focused modules\nunder checkDiffCoverage/ directory with 6 matching test files.\nAll 89 tests preserved and passing.\n\n* Rewrite integration tests with real coverage data\n\n---------\n\nCo-authored-by: Claude Opus 4.6 <noreply@anthropic.com>",
+        "sha": "7261bc92249913e52ae06baa844ab8c7ff47bc50",
+        "url": "https://github.com/mate-academy/website/commit/7261bc92249913e52ae06baa844ab8c7ff47bc50"
+      },
+      {
+        "date": "2026-02-19T15:48:09Z",
+        "message": "[DevTools | E2E]: Modernize E2E environment management (#41547)\n\nRework E2E local development commands to match dev environment patterns.\nNew unified commands: run-e2e, stop-all-e2e, status-e2e, test-e2e-file.\nAdd PID tracking, worktree support, auto-setup (npm ci, browsers, DB seeding).\nFix EADDRINUSE from orphaned nodemon processes. Add DB healthcheck to Docker Compose.",
+        "sha": "9e8767f0dd2b84b6c2bad8feedceee8efeb7549b",
+        "url": "https://github.com/mate-academy/website/commit/9e8767f0dd2b84b6c2bad8feedceee8efeb7549b"
+      },
+      {
+        "date": "2026-02-18T10:59:15Z",
+        "message": "[FE | GitHub Flow]: Change AI mentor fallback name from AI Buddy to Luke AI (#41496)",
+        "sha": "8e0f8e9ea6b9b6804201f99aa04ec4812cc63176",
+        "url": "https://github.com/mate-academy/website/commit/8e0f8e9ea6b9b6804201f99aa04ec4812cc63176"
+      },
+      {
+        "date": "2026-02-16T12:17:26Z",
+        "message": "[FE | Attachment Flow]: Fix status history empty state, header gap, and mobile card styles (#41389)",
+        "sha": "0fe8adb626435f846d3b6c4114beb08aae7f4576",
+        "url": "https://github.com/mate-academy/website/commit/0fe8adb626435f846d3b6c4114beb08aae7f4576"
+      },
+      {
+        "date": "2026-02-15T11:14:11Z",
+        "message": "[FE | Attachment Flow]: Add mobile view with 2 tabs, collapsible status history, and task footer (#41345)\n\n* [FE | Attachment Flow]: Add mobile view with 2 tabs, collapsible status history, and task footer\n\n* Move ConfettiBackground to testTasks module, replace ConfettiDecoration with shared SVG, fix mobile layout overflow\n\n* Fix gh API path in actualizing-pr skill squash-merge detection\n\n* Address PR review: use Button component, move external contexts out of view layer",
+        "sha": "7040b5ca1d392321662f63920a9ceab43c3ad1fa",
+        "url": "https://github.com/mate-academy/website/commit/7040b5ca1d392321662f63920a9ceab43c3ad1fa"
+      }
+    ],
+    "mate-academy/website-detect-jobs-to-run": [
+      {
+        "date": "2026-02-20T07:21:45Z",
+        "message": "[Build]: Detect stale ECR images for PR build dependency resolution (#89)\n\nWhen a PR triggers E2E tests, check if existing ECR images are stale\nby diffing builtCommit against the current master tip. If unbuilt\nservice changes exist, trigger a rebuild. This fixes false test\nfailures caused by stale images while preserving the PR #83\noptimization that avoids unnecessary lint/typecheck jobs.",
+        "sha": "40082c6c1435a52b1f048546a4dd93c77b644e98",
+        "url": "https://github.com/mate-academy/website-detect-jobs-to-run/commit/40082c6c1435a52b1f048546a4dd93c77b644e98"
+      }
+    ]
+  }
+}
